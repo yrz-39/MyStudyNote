@@ -1,0 +1,17 @@
+# Obsidian workspace (personal layout - don't share)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+
+# Claude AI config (personal)
+.claudian/
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary / backup files
+.dashboard-backup/

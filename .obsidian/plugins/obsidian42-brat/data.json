@@ -1,0 +1,29 @@
+{
+  "pluginList": [
+    "PandoraReads/apex-dashboard"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "PandoraReads/apex-dashboard",
+      "version": ""
+    }
+  ],
+  "themesList": [
+    {
+      "repo": "sumruler/obsidian-theme-phycat",
+      "lastUpdate": "38104268"
+    }
+  ],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
