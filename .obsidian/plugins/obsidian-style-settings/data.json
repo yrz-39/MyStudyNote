@@ -7,5 +7,8 @@
   "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
   "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
   "blue-topaz-theme@@blur-depth-cp": 6,
-  "phycat-colors@@dark-color-scheme": "theme-dark-radiation"
+  "phycat-colors@@dark-color-scheme": "theme-dark-radiation",
+  "phycat-layout@@rainbow-folders": true,
+  "phycat-layout@@bg-mix-percent": 90,
+  "phycat-spacing@@table-line-height": 1.6
 }

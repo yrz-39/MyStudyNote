@@ -1,0 +1,32 @@
+/* 全局压缩 Markdown 表格与上下文之间的间距：表格紧挨上文 */
+.markdown-rendered table {
+  margin-top: 0 !important;
+  margin-bottom: 0.25em !important;
+}
+
+/* 适配部分主题的表格外层容器 */
+.markdown-rendered .table-wrapper,
+.markdown-rendered .markdown-preview-section > div:has(table) {
+  margin-top: 0 !important;
+  margin-bottom: 0.25em !important;
+}
+
+/* 让表格前一段文字尽量贴近表格 */
+.markdown-rendered p:has(+ table),
+.markdown-rendered p:has(+ .table-wrapper),
+.markdown-rendered p:has(+ div table) {
+  margin-bottom: 0 !important;
+}
+
+/* 稍微压缩普通段落间距 */
+.markdown-rendered p {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+/* 稍微压缩列表间距，避免表格附近显得过松 */
+.markdown-rendered ul,
+.markdown-rendered ol {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}

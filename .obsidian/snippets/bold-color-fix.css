@@ -1,0 +1,23 @@
+/* 默认加粗：正文色（黑色） */
+body {
+  --bold-color: var(--text-normal) !important;
+}
+
+strong, .cm-strong, .markdown-rendered strong,
+.markdown-source-view .cm-line .cm-strong {
+  color: var(--text-normal) !important;
+}
+
+/* 红色加粗：用 ==红色文字==（阅读模式 + 实时预览均生效） */
+mark, .cm-highlight {
+  background-color: transparent !important;
+  color: var(--color-red) !important;
+  font-weight: var(--bold-weight) !important;
+}
+
+/* 如果还需要黄色高亮功能，用 <mark>文字</mark> 来保留 */
+.markdown-rendered mark:not(.cm-highlight) {
+  background-color: var(--text-highlight-bg);
+  color: inherit;
+  font-weight: normal;
+}

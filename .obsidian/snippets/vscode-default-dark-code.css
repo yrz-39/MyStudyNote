@@ -1,0 +1,282 @@
+/* ============================================
+   VS Code Default Dark (2017) - robust override
+   Works in reading mode + Live Preview / Source mode
+   for Obsidian + custom themes like Phycat
+   ============================================ */
+
+:root {
+  --vsc-bg: color-mix(in srgb, var(--background-primary) 82%, var(--background-secondary) 18%);
+  --vsc-bg-2: color-mix(in srgb, var(--background-secondary) 88%, var(--background-modifier-hover, #000) 12%);
+  --vsc-border: var(--background-modifier-border);
+  --vsc-fg: #d4d4d4;
+  --vsc-comment: #6a9955;
+  --vsc-keyword: #569cd6;
+  --vsc-string: #ce9178;
+  --vsc-number: #b5cea8;
+  --vsc-type: #4ec9b0;
+  --vsc-function: #dcdcaa;
+  --vsc-variable: #9cdcfe;
+  --vsc-constant: #4fc1ff;
+  --vsc-preproc: #c586c0;
+  --vsc-operator: #d4d4d4;
+}
+
+/* ===== Code block container ===== */
+.markdown-rendered pre,
+.markdown-preview-view pre,
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock,
+.markdown-source-view.mod-cm6 .cm-content .cm-line.HyperMD-codeblock {
+  background: var(--vsc-bg) !important;
+}
+
+.markdown-rendered pre,
+.markdown-preview-view pre {
+  border: 1px solid var(--vsc-border) !important;
+  border-radius: 8px !important;
+  box-shadow: none !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock,
+.markdown-source-view.mod-cm6 .cm-content .cm-line.HyperMD-codeblock {
+  border-left: 1px solid transparent;
+  border-right: 1px solid transparent;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock-begin {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  padding-top: 0.25em;
+  border-top: 1px solid var(--vsc-border);
+  border-left: 1px solid var(--vsc-border);
+  border-right: 1px solid var(--vsc-border);
+}
+
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock-end {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid var(--vsc-border);
+  border-left: 1px solid var(--vsc-border);
+  border-right: 1px solid var(--vsc-border);
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-line.HyperMD-codeblock:not(.HyperMD-codeblock-begin):not(.HyperMD-codeblock-end),
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock-bg {
+  border-left: 1px solid var(--vsc-border);
+  border-right: 1px solid var(--vsc-border);
+}
+
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock-begin + .cm-line.HyperMD-codeblock {
+  padding-top: 0.1em;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock-end {
+  margin-bottom: 0.2em;
+}
+
+.markdown-rendered pre code,
+.markdown-preview-view pre code,
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock {
+  color: var(--vsc-fg) !important;
+}
+
+/* keep fence markers muted */
+.markdown-source-view.mod-cm6 .cm-content .cm-formatting-code-block,
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock-begin,
+.markdown-source-view.mod-cm6 .cm-content .HyperMD-codeblock-end,
+.markdown-source-view.mod-cm6 .cm-content .cm-hmd-codeblock {
+  color: #858585 !important;
+}
+
+/* inline code */
+:not(pre) > code {
+  background: rgba(110, 118, 129, 0.18) !important;
+  color: #e6edf3 !important;
+  border-radius: 4px !important;
+}
+
+/* ===== Editing mode / CodeMirror 6 ===== */
+.markdown-source-view.mod-cm6 .cm-content .cm-keyword,
+.markdown-source-view.mod-cm6 .cm-content .cm-operatorKeyword,
+.markdown-source-view.mod-cm6 .cm-content .cm-controlKeyword,
+.markdown-source-view.mod-cm6 .cm-content .cm-modifier,
+.markdown-source-view.mod-cm6 .cm-content .cm-definitionKeyword {
+  color: var(--vsc-keyword) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-string,
+.markdown-source-view.mod-cm6 .cm-content .cm-special.cm-string {
+  color: var(--vsc-string) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-number,
+.markdown-source-view.mod-cm6 .cm-content .cm-integer,
+.markdown-source-view.mod-cm6 .cm-content .cm-float,
+.markdown-source-view.mod-cm6 .cm-content .cm-bool,
+.markdown-source-view.mod-cm6 .cm-content .cm-null,
+.markdown-source-view.mod-cm6 .cm-content .cm-atom {
+  color: var(--vsc-number) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-comment,
+.markdown-source-view.mod-cm6 .cm-content .cm-lineComment,
+.markdown-source-view.mod-cm6 .cm-content .cm-blockComment {
+  color: var(--vsc-comment) !important;
+  font-style: italic !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-typeName,
+.markdown-source-view.mod-cm6 .cm-content .cm-type,
+.markdown-source-view.mod-cm6 .cm-content .cm-className,
+.markdown-source-view.mod-cm6 .cm-content .cm-namespace,
+.markdown-source-view.mod-cm6 .cm-content .cm-angleBracket {
+  color: var(--vsc-type) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-function,
+.markdown-source-view.mod-cm6 .cm-content .cm-functionName,
+.markdown-source-view.mod-cm6 .cm-content .cm-variableName.cm-definition,
+.markdown-source-view.mod-cm6 .cm-content .cm-def {
+  color: var(--vsc-function) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-variableName,
+.markdown-source-view.mod-cm6 .cm-content .cm-variable,
+.markdown-source-view.mod-cm6 .cm-content .cm-variable-2,
+.markdown-source-view.mod-cm6 .cm-content .cm-variable-3,
+.markdown-source-view.mod-cm6 .cm-content .cm-property,
+.markdown-source-view.mod-cm6 .cm-content .cm-parameter,
+.markdown-source-view.mod-cm6 .cm-content .cm-self,
+.markdown-source-view.mod-cm6 .cm-content .cm-this {
+  color: var(--vsc-variable) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-operator,
+.markdown-source-view.mod-cm6 .cm-content .cm-punctuation,
+.markdown-source-view.mod-cm6 .cm-content .cm-bracket,
+.markdown-source-view.mod-cm6 .cm-content .cm-separator {
+  color: var(--vsc-operator) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-meta,
+.markdown-source-view.mod-cm6 .cm-content .cm-processingInstruction,
+.markdown-source-view.mod-cm6 .cm-content .cm-annotation,
+.markdown-source-view.mod-cm6 .cm-content .cm-macroName {
+  color: var(--vsc-preproc) !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content .cm-builtin,
+.markdown-source-view.mod-cm6 .cm-content .cm-tag,
+.markdown-source-view.mod-cm6 .cm-content .cm-attributeName,
+.markdown-source-view.mod-cm6 .cm-content .cm-special,
+.markdown-source-view.mod-cm6 .cm-content .cm-constant {
+  color: var(--vsc-constant) !important;
+}
+
+/* ===== Reading mode / rendered code ===== */
+.markdown-rendered .token.comment,
+.markdown-rendered .token.prolog,
+.markdown-rendered .token.doctype,
+.markdown-rendered .token.cdata,
+.markdown-preview-view .token.comment,
+.markdown-preview-view .token.prolog,
+.markdown-preview-view .token.doctype,
+.markdown-preview-view .token.cdata {
+  color: var(--vsc-comment) !important;
+  font-style: italic !important;
+}
+
+.markdown-rendered .token.punctuation,
+.markdown-rendered .token.operator,
+.markdown-preview-view .token.punctuation,
+.markdown-preview-view .token.operator {
+  color: var(--vsc-operator) !important;
+}
+
+.markdown-rendered .token.keyword,
+.markdown-rendered .token.atrule,
+.markdown-rendered .token.rule,
+.markdown-preview-view .token.keyword,
+.markdown-preview-view .token.atrule,
+.markdown-preview-view .token.rule {
+  color: var(--vsc-keyword) !important;
+}
+
+.markdown-rendered .token.string,
+.markdown-rendered .token.char,
+.markdown-rendered .token.attr-value,
+.markdown-rendered .token.regex,
+.markdown-preview-view .token.string,
+.markdown-preview-view .token.char,
+.markdown-preview-view .token.attr-value,
+.markdown-preview-view .token.regex {
+  color: var(--vsc-string) !important;
+}
+
+.markdown-rendered .token.number,
+.markdown-rendered .token.boolean,
+.markdown-rendered .token.constant,
+.markdown-rendered .token.inserted,
+.markdown-preview-view .token.number,
+.markdown-preview-view .token.boolean,
+.markdown-preview-view .token.constant,
+.markdown-preview-view .token.inserted {
+  color: var(--vsc-number) !important;
+}
+
+.markdown-rendered .token.function,
+.markdown-rendered .token.function-variable,
+.markdown-preview-view .token.function,
+.markdown-preview-view .token.function-variable {
+  color: var(--vsc-function) !important;
+}
+
+.markdown-rendered .token.class-name,
+.markdown-rendered .token.type,
+.markdown-rendered .token.namespace,
+.markdown-rendered .token.builtin,
+.markdown-preview-view .token.class-name,
+.markdown-preview-view .token.type,
+.markdown-preview-view .token.namespace,
+.markdown-preview-view .token.builtin {
+  color: var(--vsc-type) !important;
+}
+
+.markdown-rendered .token.property,
+.markdown-rendered .token.symbol,
+.markdown-rendered .token.parameter,
+.markdown-rendered .token.variable,
+.markdown-preview-view .token.property,
+.markdown-preview-view .token.symbol,
+.markdown-preview-view .token.parameter,
+.markdown-preview-view .token.variable {
+  color: var(--vsc-variable) !important;
+}
+
+.markdown-rendered .token.selector,
+.markdown-rendered .token.important,
+.markdown-rendered .token.entity,
+.markdown-rendered .token.url,
+.markdown-preview-view .token.selector,
+.markdown-preview-view .token.important,
+.markdown-preview-view .token.entity,
+.markdown-preview-view .token.url {
+  color: var(--vsc-constant) !important;
+}
+
+.markdown-rendered .token.macro,
+.markdown-rendered .token.directive,
+.markdown-rendered .token.property-access,
+.markdown-preview-view .token.macro,
+.markdown-preview-view .token.directive,
+.markdown-preview-view .token.property-access {
+  color: var(--vsc-preproc) !important;
+}
+
+/* extra C++ emphasis when tokenization is sparse */
+.markdown-rendered pre[class*="language-cpp"] code,
+.markdown-rendered pre[class*="language-c++"] code,
+.markdown-preview-view pre[class*="language-cpp"] code,
+.markdown-preview-view pre[class*="language-c++"] code {
+  text-shadow: none !important;
+}

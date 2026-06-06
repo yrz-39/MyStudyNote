@@ -1,0 +1,5194 @@
+# 四六级全词表（2026.05 官方大纲 + COCA 频率排序）
+
+> 生成日期：2026-05-29
+> 数据来源：
+> - CET-4 官方大纲词表（6113 词）+ CET-6 官方大纲词表（1693 词）
+> - COCA（当代美国英语语料库）词频 Top 5000
+> - 用户原有高频词表（1039 词，含 834 个已背词）
+>
+> 评分算法：综合评分 = COCA 频率分(0-50) + CET 等级分(0-25) + 用户优先级分(0-20) + 频次加持(0-5)
+> 评分范围 0-100，P0 最高频优先背，P4 低频可最后看
+
+## 使用方法
+
+- [ ] 点击方框打勾标记已背单词，打勾后自动加删除线（需启用 vocab-strikethrough CSS 片段）
+- [ ] 文件列表中会显示背诵进度圆环
+- [ ] 按 [P0 -> P1 -> P2 -> P3 -> P4] 顺序背诵，优先刷 P0-P1
+
+---
+
+## 四六级全词表（按综合频率排序）
+
+### P0｜最高频核心词（综合评分 >= 85）
+
+- [x] **able** - adj. 能够的；有能力的  `P0` [COCA Top500]
+- [x] **about** - prep./adv. 关于；大约  `P0` [COCA Top500]
+- [x] **add** - v. 增加；补充说  `P0` [COCA Top500]
+- [x] **allow** - v. 允许；承认  `P0` [COCA Top500]
+- [x] **almost** - adv. 几乎  `P0` [COCA Top500]
+- [x] **appear** - v. 出现；似乎  `P0` [COCA Top500]
+- [x] **area** - n. 区域；领域  `P0` [COCA Top500]
+- [x] **ability** - n. 能力；才能  `P0` [COCA Top2000]
+- [x] **accept** - v. 接受；承认  `P0` [COCA Top2000]
+- [x] **action** - n. 行动；作用  `P0` [COCA Top2000]
+- [x] **activity** - n. 活动  `P0` [COCA Top2000]
+- [x] **administration** - n. 管理；行政；政府  `P0` [COCA Top2000]
+- [x] **affect** - v. 影响；感染  `P0` [COCA Top2000]
+- [x] **agency** - n. 机构；代理处  `P0` [COCA Top2000]
+- [x] **agree** - v. 同意；一致  `P0` [COCA Top2000]
+- [x] **amount** - n. 数量 v. 总计  `P0` [COCA Top2000]
+- [x] **apply** - v. 申请；应用；适用  `P0` [COCA Top2000]
+- [x] **argue** - v. 争论；主张  `P0` [COCA Top2000]
+- [x] **article** - n. 文章；物品；<font color="#ff0000">冠词</font>  `P0` [COCA Top2000]
+- [x] **attention** - n. 注意；关注  `P0` [COCA Top2000]
+- [x] **available** - adj. 可获得的；有空的  `P0` [COCA Top2000]
+- [x] **avoid** - v. 避免  `P0` [COCA Top2000]
+- [x] **community** - n. 社区；群体  `P0` [COCA Top500]
+- [x] **consider** - v. 考虑；认为  `P0` [COCA Top500]
+- [x] **continue** - v. 继续  `P0` [COCA Top500]
+- [x] **education** - n. 教育  `P0` [COCA Top500]
+- [x] **develop** - v. 发展；开发  `P0` [COCA Top500]
+- [x] **difference** - n. 差异  `P0` [COCA Top500]
+- [x] **effort** - n. 努力  `P0` [COCA Top500]
+- [x] **expect** - v. 期望；预计  `P0` [COCA Top500]
+- [x] **campaign** - n. 活动；运动  `P0` [COCA Top2000]
+- [x] **career** - n. 职业；事业  `P0` [COCA Top2000]
+- [x] **character** - n. 性格；人物；文字  `P0` [COCA Top2000]
+- [x] **compare** - v. 比较  `P0` [COCA Top2000]
+- [x] **condition** - n. 条件；状况  `P0` [COCA Top2000]
+- [x] **contain** - v. 包含；控制  `P0` [COCA Top2000]
+- [x] **culture** - n. 文化  `P0` [COCA Top2000]
+- [x] **current** - adj. 当前的 n. 水流；电流  `P0` [COCA Top2000]
+- [x] **degree** - n. 程度；学位；度数  `P0` [COCA Top2000]
+- [x] **describe** - v. 描述  `P0` [COCA Top2000]
+- [x] **detail** - n. 细节  `P0` [COCA Top2000]
+- [x] **determine** - v. 决定；确定  `P0` [COCA Top2000]
+- [x] **difficult** - adj. 困难的  `P0` [COCA Top2000]
+- [x] **discuss** - v. 讨论  `P0` [COCA Top2000]
+- [x] **economy** - n. 经济；节约  `P0` [COCA Top2000]
+- [x] **energy** - n. 能量；精力  `P0` [COCA Top2000]
+- [x] **environment** - n. 环境  `P0` [COCA Top2000]
+- [x] **establish** - v. 建立；确立  `P0` [COCA Top2000]
+- [x] **evidence** - n. 证据  `P0` [COCA Top2000]
+- [x] **academic** - adj. 学术的  `P0` [COCA Top2000]
+- [x] **achieve** - v. 实现；达到  `P0` [COCA Top2000]
+- [x] **act** - v. 行动；表演 n. 行为  `P0` [COCA Top2000]
+- [x] **active** - adj. 积极的；活跃的  `P0` [COCA Top2000]
+- [x] **admit** - v. 承认；准许进入  `P0` [COCA Top2000]
+- [x] **advantage** - n. 优势；有利条件  `P0` [COCA Top2000]
+- [x] **agent** - n. 代理人；因素  `P0` [COCA Top2000]
+- [x] **announce** - v. 宣布  `P0` [COCA Top2000]
+- [x] **annual** - adj. 每年的  `P0` [COCA Top2000]
+- [x] **approach** - n./v. 方法；接近  `P0` [COCA Top2000]
+- [x] **aspect** - n. 方面  `P0` [COCA Top2000]
+- [x] **assume** - v. 假定；承担  `P0` [COCA Top2000]
+- [x] **attend** - v. 出席；照料  `P0` [COCA Top2000]
+- [x] **attitude** - n. 态度  `P0` [COCA Top2000]
+- [x] **aware** - adj. 意识到的  `P0` [COCA Top2000]
+- [x] **background** - n. 背景  `P0` [COCA Top2000]
+- [x] **basic** - adj. 基本的  `P0` [COCA Top2000]
+- [x] **category** - n. 类别  `P0` [COCA Top2000]
+- [x] **include** - v. 包括  `P0` [COCA Top500]
+- [x] **policy** - n. 政策；策略  `P0` [COCA Top500]
+- [x] **explain** - v. 解释  `P0` [COCA Top500]
+- [x] **interest** - n. 兴趣；利益；利息  `P0` [COCA Top500]
+- [x] **budget** - n./v. 预算  `P0` [COCA Top2000]
+- [x] **cause** - n./v. 原因；导致  `P0` [COCA Top2000]
+- [x] **citizen** - n. 公民；市民  `P0` [COCA Top2000]
+- [x] **claim** - v./n. 声称；索赔  `P0` [COCA Top2000]
+- [x] **combine** - v. 结合  `P0` [COCA Top2000]
+- [x] **commit** - v. 犯罪；承诺；投入  `P0` [COCA Top2000]
+- [x] **committee** - n. 委员会  `P0` [COCA Top2000]
+- [x] **conflict** - n./v. 冲突  `P0` [COCA Top2000]
+- [x] **context** - n. 背景；语境  `P0` [COCA Top2000]
+- [x] **contract** - n./v. 合同；收缩  `P0` [COCA Top2000]
+- [x] **contribute** - v. 贡献；投稿；促成  `P0` [COCA Top2000]
+- [x] **crisis** - n. 危机  `P0` [COCA Top2000]
+- [x] **critical** - adj. 批判的；关键的；危急的  `P0` [COCA Top2000]
+- [x] **define** - v. 定义；限定  `P0` [COCA Top2000]
+- [x] **demand** - n./v. 要求；需求  `P0` [COCA Top2000]
+- [x] **demonstrate** - v. 证明；展示  `P0` [COCA Top2000]
+- [x] **department** - n. 部门；系  `P0` [COCA Top2000]
+- [x] **depend** - v. 依靠；取决于  `P0` [COCA Top2000]
+- [x] **distance** - n. 距离  `P0` [COCA Top2000]
+- [x] **effective** - adj. 有效的  `P0` [COCA Top2000]
+- [x] **element** - n. 要素；元素  `P0` [COCA Top2000]
+- [x] **emerge** - v. 出现；显露  `P0` [COCA Top2000]
+- [x] **encourage** - v. 鼓励  `P0` [COCA Top2000]
+- [x] **engage** - v. 从事；吸引；订婚  `P0` [COCA Top2000]
+- [x] **examine** - v. 检查；考试  `P0` [COCA Top2000]
+- [x] **experience** - n./v. 经验；经历  `P0` [COCA Top2000]
+- [x] **expert** - n./adj. 专家；熟练的  `P0` [COCA Top2000]
+- [x] **factor** - n. 因素  `P0` [COCA Top2000]
+- [x] **fail** - v. 失败；未能  `P0` [COCA Top2000]
+- [x] **foreign** - adj. 外国的  `P0` [COCA Top2000]
+- [x] **goal** - n. 目标  `P0` [COCA Top2000]
+- [x] **growth** - n. 增长；成长  `P0` [COCA Top2000]
+- [x] **identify** - v. 识别；确认  `P0` [COCA Top2000]
+- [x] **image** - n. 形象；图像  `P0` [COCA Top2000]
+- [x] **imagine** - v. 想象  `P0` [COCA Top2000]
+- [x] **impact** - n./v. 影响；冲击  `P0` [COCA Top2000]
+- [x] **improve** - v. 改善；提高  `P0` [COCA Top2000]
+- [x] **individual** - n./adj. 个人；个别的  `P0` [COCA Top2000]
+- [x] **industry** - n. 工业；行业  `P0` [COCA Top2000]
+- [x] **institution** - n. 机构；制度  `P0` [COCA Top2000]
+- [x] **legal** - adj. 法律的；合法的  `P0` [COCA Top2000]
+- [x] **maintain** - v. 维持；主张  `P0` [COCA Top2000]
+- [x] **manage** - v. 管理；设法做到  `P0` [COCA Top2000]
+- [x] **material** - n./adj. 材料；物质的  `P0` [COCA Top2000]
+- [x] **media** - n. 媒体  `P0` [COCA Top2000]
+- [x] **nature** - n. 自然；本质  `P0` [COCA Top2000]
+- [x] **occur** - v. 发生；出现  `P0` [COCA Top2000]
+- [x] **operation** - n. 操作；手术；行动  `P0` [COCA Top2000]
+- [x] **opportunity** - n. 机会  `P0` [COCA Top2000]
+- [x] **perform** - v. 表现；执行；表演  `P0` [COCA Top2000]
+- [x] **period** - n. 时期；周期  `P0` [COCA Top2000]
+- [x] **physical** - adj. 身体的；物理的  `P0` [COCA Top2000]
+- [x] **prepare** - v. 准备  `P0` [COCA Top2000]
+- [x] **pressure** - n. 压力  `P0` [COCA Top2000]
+- [x] **private** - adj. 私人的；私有的  `P0` [COCA Top2000]
+- [x] **produce** - v. 生产；产生  `P0` [COCA Top2000]
+- [x] **above** - prep./adv. 在……上方；超过  `P0` [COCA Top2000]
+- [x] **accident** - n. 事故；意外  `P0` [COCA Top2000]
+- [x] **account** - n. 账户；解释；描述 v. 认为  `P0` [COCA Top2000]
+- [x] **acknowledge** - v. 承认；感谢  `P0` [COCA Top2000]
+- [x] **actual** - adj. 实际的  `P0` [COCA Top2000]
+- [x] **address** - n. 地址；演讲 v. 解决；发表演说  `P0` [COCA Top2000]
+- [x] **advice** - n. 建议  `P0` [COCA Top2000]
+- [x] **afford** - v. 负担得起  `P0` [COCA Top2000]
+- [x] **alive** - adj. 活着的；有活力的  `P0` [COCA Top2000]
+- [x] **alone** - adj./adv. 单独的/地  `P0` [COCA Top2000]
+- [x] **ancient** - adj. 古代的  `P0` [COCA Top2000]
+- [x] **application** - n. 申请；应用  `P0` [COCA Top2000]
+- [x] **appreciate** - v. 欣赏；感激；理解  `P0` [COCA Top2000]
+- [x] **attempt** - n./v. 尝试  `P0` [COCA Top2000]
+- [x] **attract** - v. 吸引  `P0` [COCA Top2000]
+- [x] **capacity** - n. 能力；容量  `P0` [COCA Top2000]
+- [x] **cite** - v. 引用；举例  `P0` [COCA Top2000]
+- [x] **colleague** - n. 同事  `P0` [COCA Top2000]
+- [x] **component** - n. 成分；部件  `P0` [COCA Top2000]
+- [x] **provide** - v. 提供  `P0` [COCA Top500]
+- [x] **receive** - v. 收到；接待  `P0` [COCA Top500]
+- [x] **require** - v. 要求；需要  `P0` [COCA Top500]
+- [x] **role** - n. 角色；作用  `P0` [COCA Top500]
+- [x] **suggest** - v. 建议；表明  `P0` [COCA Top500]
+- [x] **appropriate** - adj. 合适的  `P0` [COCA Top2000]
+- [x] **challenge** - n./v. 挑战  `P0` [COCA Top2000]
+- [x] **circumstance** - n. 情况；环境  `P0` [COCA Top2000]
+- [x] **conclude** - v. 总结；断定；结束  `P0` [COCA Top2000]
+- [x] **confidence** - n. 信心  `P0` [COCA Top2000]
+- [x] **confirm** - v. 证实  `P0` [COCA Top2000]
+- [x] **consequence** - n. 后果；结果  `P0` [COCA Top2000]
+- [x] **contemporary** - adj./n. 当代的；同代人  `P0` [COCA Top2000]
+- [x] **contrast** - n./v. 对比  `P0` [COCA Top2000]
+- [x] **corporate** - adj. 公司的；团体的  `P0` [COCA Top2000]
+- [x] **device** - n. 装置；设备  `P0` [COCA Top2000]
+- [x] **direct** - adj. 直接的 v. 指导  `P0` [COCA Top2000]
+- [x] **disappear** - v. 消失  `P0` [COCA Top2000]
+- [x] **domestic** - adj. 国内的；家庭的  `P0` [COCA Top2000]
+- [x] **eliminate** - v. 消除；淘汰  `P0` [COCA Top2000]
+- [x] **ensure** - v. 确保  `P0` [COCA Top2000]
+- [x] **equal** - adj./v. 相等的；等于  `P0` [COCA Top2000]
+- [x] **ethnic** - adj. 民族的；种族的  `P0` [COCA Top2000]
+- [x] **expand** - v. 扩大；扩展  `P0` [COCA Top2000]
+- [x] **express** - v. 表达 adj. 快速的  `P0` [COCA Top2000]
+- [x] **extend** - v. 延伸；扩大  `P0` [COCA Top2000]
+- [x] **faculty** - n. 全体教员；能力；院系  `P0` [COCA Top2000]
+- [x] **figure** - n./v. 数字；人物；认为  `P0` [COCA Top2000]
+- [x] **focus** - n./v. 焦点；集中  `P0` [COCA Top2000]
+- [x] **global** - adj. 全球的  `P0` [COCA Top2000]
+- [x] **ignore** - v. 忽视  `P0` [COCA Top2000]
+- [x] **increase** - v./n. 增加  `P0` [COCA Top2000]
+- [x] **insist** - v. 坚持  `P0` [COCA Top2000]
+- [x] **introduce** - v. 介绍；引入  `P0` [COCA Top2000]
+- [x] **item** - n. 项目；条款  `P0` [COCA Top2000]
+- [x] **majority** - n. 大多数  `P0` [COCA Top2000]
+- [x] **measure** - n./v. 措施；测量  `P0` [COCA Top2000]
+- [x] **method** - n. 方法  `P0` [COCA Top2000]
+- [x] **mission** - n. 使命；任务  `P0` [COCA Top2000]
+- [x] **moral** - adj. 道德的 n. 寓意  `P0` [COCA Top2000]
+- [x] **negative** - adj. 消极的；负面的  `P0` [COCA Top2000]
+- [x] **normal** - adj. 正常的  `P0` [COCA Top2000]
+- [x] **opinion** - n. 观点  `P0` [COCA Top2000]
+- [x] **option** - n. 选择  `P0` [COCA Top2000]
+- [x] **original** - adj. 原始的；独创的  `P0` [COCA Top2000]
+- [x] **participate** - v. 参加  `P0` [COCA Top2000]
+- [x] **pattern** - n. 模式；图案  `P0` [COCA Top2000]
+- [x] **perspective** - n. 视角；远景  `P0` [COCA Top2000]
+- [x] **positive** - adj. 积极的；肯定的  `P0` [COCA Top2000]
+- [x] **previous** - adj. 以前的  `P0` [COCA Top2000]
+- [x] **principle** - n. 原则；原理  `P0` [COCA Top2000]
+- [x] **procedure** - n. 程序；手续  `P0` [COCA Top2000]
+- [x] **prove** - v. 证明  `P0` [COCA Top2000]
+- [x] **quality** - n. 质量；品质  `P0` [COCA Top2000]
+- [x] **recent** - adj. 最近的  `P0` [COCA Top2000]
+- [x] **reduce** - v. 减少  `P0` [COCA Top2000]
+- [x] **region** - n. 地区  `P0` [COCA Top2000]
+- [x] **remove** - v. 移除；脱掉  `P0` [COCA Top2000]
+- [x] **represent** - v. 代表；象征  `P0` [COCA Top2000]
+- [x] **resource** - n. 资源  `P0` [COCA Top2000]
+- [x] **reveal** - v. 揭示；透露  `P0` [COCA Top2000]
+- [x] **significant** - adj. 重要的；显著的  `P0` [COCA Top2000]
+- [x] **similar** - adj. 相似的  `P0` [COCA Top2000]
+- [x] **source** - n. 来源  `P0` [COCA Top2000]
+- [x] **specific** - adj. 具体的；特定的  `P0` [COCA Top2000]
+- [x] **strategy** - n. 策略；战略  `P0` [COCA Top2000]
+- [x] **structure** - n./v. 结构；组织  `P0` [COCA Top2000]
+- [x] **support** - n./v. 支持  `P0` [COCA Top2000]
+- [x] **theory** - n. 理论  `P0` [COCA Top2000]
+
+### P1｜高频词（综合评分 70-84）
+
+- [x] **abandon** - v. 放弃；抛弃  `P1` [COCA 5000]
+- [x] **accompany** - v. 陪伴；伴随  `P1` [COCA 5000]
+- [x] **acquire** - v. 获得；学到  `P1` [COCA 5000]
+- [x] **adjust** - v. 调整；适应  `P1` [COCA 5000]
+- [x] **alcohol** - n. 酒精  `P1` [COCA 5000]
+- [x] **anger** - n. 愤怒 v. 激怒  `P1` [COCA 5000]
+- [x] **anxiety** - n. 焦虑  `P1` [COCA 5000]
+- [x] **approve** - v. 赞成；批准  `P1` [COCA 5000]
+- [x] **arrange** - v. 安排；整理  `P1` [COCA 5000]
+- [x] **assess** - v. 评价；估算  `P1` [COCA 5000]
+- [x] **asset** - n. 资产；有价值的人/物  `P1` [COCA 5000]
+- [x] **assist** - v. 帮助  `P1` [COCA 5000]
+- [x] **atmosphere** - n. 气氛；大气  `P1` [COCA 5000]
+- [x] **attach** - v. 附上；使依附  `P1` [COCA 5000]
+- [x] **benefit** - n./v. 好处；有益于  `P1` [COCA 5000]
+- [x] **brief** - adj. 简短的  `P1` [COCA 5000]
+- [x] **candidate** - n. 候选人；应试者  `P1` [COCA Top2000]
+- [x] **capable** - adj. 有能力的  `P1` [COCA 5000]
+- [x] **climate** - n. 气候；风气  `P1` [COCA 5000]
+- [x] **compete** - v. 竞争  `P1` [COCA 5000]
+- [x] **confront** - v. 面对；对抗  `P1` [COCA 5000]
+- [x] **consistent** - adj. 一致的；持续的  `P1` [COCA 5000]
+- [x] **constant** - adj. 不断的 n. 常数  `P1` [COCA 5000]
+- [x] **contact** - n./v. 联系；接触  `P1` [COCA 5000]
+- [x] **convince** - v. 使相信  `P1` [COCA 5000]
+- [x] **crucial** - adj. 至关重要的  `P1` [COCA 5000]
+- [x] **data** - n. 数据；资料  `P1` [COCA Top2000]
+- [x] **decade** - n. 十年  `P1` [COCA Top2000]
+- [ ] **deficit** - n. 赤字；亏损  `P1` [COCA 5000]
+- [x] **deserve** - v. 值得  `P1` [COCA 5000]
+- [x] **discipline** - n./v. 学科；纪律；训练  `P1` [COCA 5000]
+- [x] **display** - n./v. 展示  `P1` [COCA 5000]
+- [x] **election** - n. 选举  `P1` [COCA Top2000]
+- [x] **emotion** - n. 情感  `P1` [COCA 5000]
+- [x] **enable** - v. 使能够  `P1` [COCA 5000]
+- [x] **enhance** - v. 提高；增强  `P1` [COCA 5000]
+- [x] **evaluate** - v. 评估  `P1` [COCA 5000]
+- [x] **exception** - n. 例外  `P1` [COCA 5000]
+- [x] **experiment** - n./v. 实验  `P1` [COCA 5000]
+- [x] **familiar** - adj. 熟悉的  `P1` [COCA Top2000]
+- [x] **feature** - n./v. 特征；以……为特色  `P1` [COCA Top2000]
+- [x] **generate** - v. 产生  `P1` [COCA Top2000]
+- [x] **importance** - n. 重要性  `P1` [COCA Top2000]
+- [x] **incident** - n. 事件；事故  `P1` [COCA Top2000]
+- [x] **influence** - n./v. 影响  `P1` [COCA Top2000]
+- [x] **initial** - adj. 最初的 n. 首字母  `P1` [COCA Top2000]
+- [x] **instruction** - n. 指示；说明  `P1` [COCA Top2000]
+- [x] **instrument** - n. 仪器；工具  `P1` [COCA Top2000]
+- [x] **intend** - v. 打算  `P1` [COCA Top2000]
+- [x] **investigate** - v. 调查  `P1` [COCA Top2000]
+- [x] **involve** - v. 涉及；包含；使参与  `P1` [COCA Top2000]
+- [x] **issue** - n./v. 问题；发行；发表  `P1` [COCA Top2000]
+- [x] **limit** - n./v. 限制  `P1` [COCA Top2000]
+- [x] **literature** - n. 文学；文献  `P1` [COCA Top2000]
+- [x] **locate** - v. 位于；定位  `P1` [COCA Top2000]
+- [x] **mental** - adj. 精神的；智力的  `P1` [COCA Top2000]
+- [x] **network** - n. 网络；关系网  `P1` [COCA Top2000]
+- [ ] **notion** - n. 概念；想法  `P1` [COCA Top2000]
+- [x] **obtain** - v. 获得  `P1` [COCA Top2000]
+- [x] **obvious** - adj. 明显的  `P1` [COCA Top2000]
+- [x] **predict** - v. 预测  `P1` [COCA Top2000]
+- [x] **promote** - v. 促进；提升；促销  `P1` [COCA Top2000]
+- [x] **purpose** - n. 目的  `P1` [COCA Top2000]
+- [x] **refer** - v. 提到；参考；指的是  `P1` [COCA Top2000]
+- [x] **reflect** - v. 反映；反射；思考  `P1` [COCA Top2000]
+- [x] **reform** - n./v. 改革  `P1` [COCA Top2000]
+- [x] **regular** - adj. 定期的；规则的  `P1` [COCA Top2000]
+- [x] **relate** - v. 联系；叙述  `P1` [COCA Top2000]
+- [x] **replace** - v. 代替  `P1` [COCA Top2000]
+- [x] **responsibility** - n. 责任  `P1` [COCA Top2000]
+- [x] **result** - n./v. 结果；导致  `P1` [COCA Top2000]
+- [x] **security** - n. 安全；保障  `P1` [COCA Top2000]
+- [x] **series** - n. 系列；连续  `P1` [COCA Top2000]
+- [x] **solution** - n. 解决办法  `P1` [COCA Top2000]
+- [x] **status** - n. 地位；状态  `P1` [COCA Top2000]
+- [x] **technique** - n. 技巧；技术  `P1` [COCA Top2000]
+- [x] **tend** - v. 倾向于；照料  `P1` [COCA Top2000]
+- [x] **threat** - n. 威胁  `P1` [COCA Top2000]
+- [x] **treat** - v./n. 对待；治疗；款待  `P1` [COCA Top2000]
+- [x] **vehicle** - n. 车辆；工具  `P1` [COCA Top2000]
+- [x] **version** - n. 版本  `P1` [COCA Top2000]
+- [x] **absence** - n. 缺席；缺乏  `P1` [COCA 5000]
+- [x] **accurate** - adj. 准确的  `P1` [COCA 5000]
+- [x] **adapt** - v. 适应；改编  `P1` [COCA 5000]
+- [x] **advance** - n./v. 前进；进步；提前  `P1` [COCA 5000]
+- [x] **aggressive** - adj. 侵略性的；好斗的；积极进取的  `P1` [COCA 5000]
+- [x] **ahead** - adv. 在前面；提前  `P1` [COCA 5000]
+- [x] **alternative** - n. 可选方案 adj. 替代的  `P1` [COCA 5000]
+- [x] **apparent** - adj. 明显的；表面上的  `P1` [COCA 5000]
+- [x] **appeal** - n./v. 呼吁；吸引；<font color="#ff0000">上诉</font>  `P1` [COCA 5000]
+- [x] **assign** - v. 分配；布置  `P1` [COCA 5000]
+- [x] **assumption** - n. 假定；承担  `P1` [COCA 5000]
+- [x] **balance** - n./v. 平衡  `P1` [COCA 5000]
+- [x] **barrier** - n. 障碍  `P1` [COCA 5000]
+- [x] **boundary** - n. 边界  `P1` [COCA 5000]
+- [x] **complicated** - adj. 复杂的  `P1` [COCA 5000]
+- [x] **comprehensive** - adj. 全面的  `P1` [COCA 5000]
+- [x] **burden** - n. 负担  `P1` [COCA 5000]
+- [x] **chemical** - adj./n. 化学的；化学品  `P1` [COCA 5000]
+- [x] **comment** - n./v. 评论  `P1` [COCA 5000]
+- [x] **communicate** - v. 交流；传达  `P1` [COCA 5000]
+- [x] **constitute** - v. 构成；组成  `P1` [COCA 5000]
+- [x] **consultant** - n. 顾问  `P1` [COCA 5000]
+- [x] **decline** - v./n. 下降；拒绝  `P1` [COCA 5000]
+- [x] **deliver** - v. 递送；发表；接生  `P1` [COCA Top2000]
+- [x] **dispute** - n./v. 争论  `P1` [COCA 5000]
+- [x] **diverse** - adj. 多样的  `P1` [COCA 5000]
+- [x] **doubt** - n./v. 怀疑  `P1` [COCA 5000]
+- [x] **emission** - n. 排放；散发  `P1` [COCA 5000]
+- [x] **enterprise** - n. 企业；事业  `P1` [COCA 5000]
+- [x] **estimate** - v./n. 估计  `P1` [COCA 5000]
+- [x] **evolution** - n. 进化；演变  `P1` [COCA 5000]
+- [x] **expose** - v. 暴露；揭露  `P1` [COCA 5000]
+- [x] **facility** - n. 设施；设备；便利  `P1` [COCA Top2000]
+- [x] **formal** - adj. 正式的  `P1` [COCA 5000]
+- [x] **fundamental** - adj. 根本的；基础的  `P1` [COCA 5000]
+- [x] **gap** - n. 差距；缺口  `P1` [COCA 5000]
+- [x] **illustrate** - v. 说明；阐明  `P1` [COCA 5000]
+- [x] **implement** - v. 实施 n. 工具  `P1` [COCA 5000]
+- [x] **implication** - n. 暗示；含义；牵连  `P1` [COCA 5000]
+- [x] **impose** - v. 强加；征税  `P1` [COCA 5000]
+- [x] **inform** - v. 通知  `P1` [COCA 5000]
+- [x] **initiative** - n. 主动性；倡议  `P1` [COCA 5000]
+- [x] **intelligence** - n. 智力；情报  `P1` [COCA Top2000]
+- [x] **intense** - adj. 强烈的  `P1` [COCA 5000]
+- [x] **interaction** - n. 相互作用；交流  `P1` [COCA 5000]
+- [x] **interpretation** - n. 解释；口译  `P1` [COCA 5000]
+- [ ] **legislation** - n. 立法；法规  `P1` [COCA 5000]
+- [x] **observe** - v. 观察；遵守；注意到  `P1` [COCA Top2000]
+- [x] **occasion** - n. 场合；时机  `P1` [COCA 5000]
+- [x] **perceive** - v. 察觉；理解  `P1` [COCA 5000]
+- [x] **phenomenon** - n. 现象  `P1` [COCA 5000]
+- [x] **potential** - adj./n. 潜在的；潜力  `P1` [COCA 5000]
+- [x] **range** - n./v. 范围；变化  `P1` [COCA Top2000]
+- [x] **rare** - adj. 稀有的  `P1` [COCA Top2000]
+- [x] **recommend** - v. 推荐；建议  `P1` [COCA Top2000]
+- [x] **relief** - n. 减轻；救济  `P1` [COCA Top2000]
+- [x] **revenue** - n. 收入；税收  `P1` [COCA Top2000]
+- [x] **sample** - n./v. 样品；抽样  `P1` [COCA Top2000]
+- [x] **scale** - n. 规模；等级；刻度  `P1` [COCA Top2000]
+- [x] **sector** - n. 部门；领域  `P1` [COCA Top2000]
+- [x] **select** - v. 选择  `P1` [COCA Top2000]
+- [x] **separate** - adj./v. 分开的；分离  `P1` [COCA Top2000]
+- [x] **standard** - n./adj. 标准；标准的  `P1` [COCA Top2000]
+- [x] **survive** - v. 幸存；存活  `P1` [COCA Top2000]
+- [x] **trend** - n. 趋势  `P1` [COCA Top2000]
+- [x] **typical** - adj. 典型的  `P1` [COCA Top2000]
+- [x] **unique** - adj. 独特的  `P1` [COCA Top2000]
+- [x] **urban** - adj. 城市的  `P1` [COCA Top2000]
+- [x] **violence** - n. 暴力；猛烈  `P1` [COCA Top2000]
+- [x] **welfare** - n. 福利；幸福  `P1` [COCA Top2000]
+- [ ] **analysis**  `P1` [COCA Top2000]
+- [ ] **artist**  `P1` [COCA Top2000]
+- [ ] **author**  `P1` [COCA Top2000]
+- [ ] **authority**  `P1` [COCA Top2000]
+- [ ] **bar**  `P1` [COCA Top2000]
+- [ ] **cell**  `P1` [COCA Top2000]
+- [ ] **congress**  `P1` [COCA Top2000]
+- [ ] **democrat**  `P1` [COCA Top2000]
+- [ ] **executive**  `P1` [COCA Top2000]
+- [ ] **hang**  `P1` [COCA Top2000]
+- [ ] **performance**  `P1` [COCA Top2000]
+- [ ] **poor**  `P1` [COCA Top2000]
+- [ ] **popular**  `P1` [COCA Top2000]
+- [ ] **red**  `P1` [COCA Top2000]
+- [ ] **respond**  `P1` [COCA Top2000]
+- [ ] **seek**  `P1` [COCA Top2000]
+- [ ] **sex**  `P1` [COCA Top2000]
+- [ ] **site**  `P1` [COCA Top2000]
+- [ ] **stock**  `P1` [COCA Top2000]
+- [x] **abroad** - adv. 在国外  `P1` [COCA 5000]
+- [x] **absolute** - adj. 绝对的；完全的  `P1` [COCA 5000]
+- [x] **absorb** - v. 吸收；理解；使专心  `P1` [COCA 5000]
+- [x] **across** - prep./adv. 穿过；横过  `P1` [COCA 5000]
+- [x] **adequate** - adj. 足够的  `P1` [COCA 5000]
+- [x] **anticipate** - v. 预料；期望  `P1` [COCA 5000]
+- [x] **appoint** - v. 任命；约定  `P1` [COCA 5000]
+- [x] **arrival** - n. 到达  `P1` [COCA 5000]
+- [x] **attribute** - v./n. 把……归因于；属性  `P1` [COCA 5000]
+- [x] **boom** - n./v. 繁荣；激增  `P1` [COCA 5000]
+- [x] **collapse** - v./n. 倒塌；崩溃  `P1` [COCA 5000]
+- [x] **adopt** - v. 采纳；收养  `P1` [COCA Top2000]
+- [x] **capture** - v./n. 捕获；夺取  `P1` [COCA Top2000]
+- [x] **emergency** - n. 紧急情况  `P1` [COCA Top2000]
+- [x] **graduate** - v./n. 毕业；毕业生  `P1` [COCA 5000]
+- [x] **imply** - v. 暗示；意味着  `P1` [COCA 5000]
+- [ ] **incentive** - n. 激励；动机  `P1` [COCA 5000]
+- [x] **ingredient** - n. 成分；原料  `P1` [COCA 5000]
+- [x] **insight** - n. 洞察力  `P1` [COCA 5000]
+- [x] **instance** - n. 例子；情况  `P1` [COCA 5000]
+- [x] **intention** - n. 意图；目的  `P1` [COCA 5000]
+- [x] **interpret** - v. 解释；口译  `P1` [COCA 5000]
+- [x] **justify** - v. 证明……合理  `P1` [COCA 5000]
+- [x] **likely** - adj./adv. 可能的/地  `P1` [COCA 5000]
+- [x] **mechanism** - n. 机制  `P1` [COCA 5000]
+- [x] **minor** - adj. 较小的；次要的  `P1` [COCA 5000]
+- [x] **mutual** - adj. 相互的  `P1` [COCA 5000]
+- [x] **occasionally** - adv. 偶尔  `P1` [COCA 5000]
+- [x] **occupy** - v. 占据；占用  `P1` [COCA 5000]
+- [x] **outcome** - n. 结果；后果  `P1` [COCA Top2000]
+- [x] **overcome** - v. 克服  `P1` [COCA 5000]
+- [x] **particular** - adj. 特别的；挑剔的  `P1` [COCA 5000]
+- [x] **process** - n./v. 过程；处理  `P1` [COCA 5000]
+- [x] **prospect** - n. 前景；可能性  `P1` [COCA 5000]
+- [x] **recover** - v. 恢复；重新获得  `P1` [COCA 5000]
+- [x] **reject** - v. 拒绝  `P1` [COCA 5000]
+- [x] **release** - v./n. 释放；发布  `P1` [COCA 5000]
+- [x] **review** - n./v. 复习；评论；回顾  `P1` [COCA 5000]
+- [x] **severe** - adj. 严重的；严厉的  `P1` [COCA 5000]
+- [x] **technical** - adj. 技术的  `P1` [COCA 5000]
+- [x] **tension** - n. 紧张；张力  `P1` [COCA 5000]
+- [x] **transform** - v. 改变；转化  `P1` [COCA 5000]
+- [x] **vary** - v. 变化；不同  `P1` [COCA 5000]
+- [x] **visible** - adj. 可见的  `P1` [COCA 5000]
+- [x] **according** - prep. 根据  `P1` [COCA Top500]
+- [ ] **affair** - n. 事务；事情；事件  `P1` [COCA Top2000]
+- [ ] **afternoon**  `P1` [COCA Top2000]
+- [ ] **agreement**  `P1` [COCA Top2000]
+- [ ] **argument**  `P1` [COCA Top2000]
+- [ ] **attorney**  `P1` [COCA Top2000]
+- [ ] **audience**  `P1` [COCA Top2000]
+- [ ] **band**  `P1` [COCA Top2000]
+- [ ] **baseball**  `P1` [COCA Top2000]
+- [ ] **basis**  `P1` [COCA Top2000]
+- [ ] **born**  `P1` [COCA Top2000]
+- [ ] **broad**  `P1` [COCA Top2000]
+- [ ] **bus**  `P1` [COCA Top2000]
+- [ ] **cancer**  `P1` [COCA Top2000]
+- [ ] **christmas**  `P1` [COCA Top2000]
+- [ ] **client**  `P1` [COCA Top2000]
+- [ ] **clothes**  `P1` [COCA Top2000]
+- [ ] **collection**  `P1` [COCA Top2000]
+- [ ] **competition**  `P1` [COCA Top2000]
+- [ ] **concept**  `P1` [COCA Top2000]
+- [ ] **concerned**  `P1` [COCA Top2000]
+- [x] **consume** - v. 消费；消耗  `P1` [COCA 5000]
+- [ ] **consumer**  `P1` [COCA Top2000]
+- [ ] **critic**  `P1` [COCA Top2000]
+- [x] **damage** - n./v. 损害  `P1` [COCA 5000]
+- [ ] **deny**  `P1` [COCA Top2000]
+- [ ] **derive** - v. 获得；源于  `P1` [COCA 5000]
+- [x] **dominant** - adj. 占优势的  `P1` [COCA 5000]
+- [ ] **earn**  `P1` [COCA Top2000]
+- [x] **efficient** - adj. 高效的  `P1` [COCA 5000]
+- [ ] **finding**  `P1` [COCA Top2000]
+- [ ] **following**  `P1` [COCA Top2000]
+- [ ] **grab**  `P1` [COCA Top2000]
+- [ ] **hire**  `P1` [COCA Top2000]
+- [ ] **interested**  `P1` [COCA Top2000]
+- [ ] **investment**  `P1` [COCA Top2000]
+- [ ] **involved**  `P1` [COCA Top2000]
+- [ ] **learning**  `P1` [COCA Top2000]
+- [ ] **marry**  `P1` [COCA Top2000]
+- [ ] **powerful**  `P1` [COCA Top2000]
+- [ ] **recall**  `P1` [COCA Top2000]
+- [ ] **researcher**  `P1` [COCA Top2000]
+- [ ] **senate**  `P1` [COCA Top2000]
+- [ ] **suffer**  `P1` [COCA Top2000]
+- [ ] **threaten**  `P1` [COCA Top2000]
+- [ ] **twice**  `P1` [COCA Top2000]
+- [ ] **vision**  `P1` [COCA Top2000]
+- [ ] **vote**  `P1` [COCA Top2000]
+- [x] **complex** - adj. 复杂的 n. 综合体  `P1` [COCA 5000]
+- [x] **concern** - n./v. 关心；涉及  `P1` [COCA 5000]
+- [x] **consensus** - n. 共识  `P1` [COCA 5000]
+- [x] **controversial** - adj. 有争议的  `P1` [COCA 5000]
+- [x] **delay** - n./v. 延迟  `P1` [COCA 5000]
+- [x] **discrimination** - n. 歧视；辨别力  `P1` [COCA 5000]
+- [x] **distinct** - adj. 明显的；不同的  `P1` [COCA 5000]
+- [x] **entitle** - v. 使有权利；题名  `P1` [COCA 5000]
+- [x] **essence** - n. 本质；精华  `P1` [COCA 5000]
+- [x] **exclude** - v. 排除  `P1` [COCA 5000]
+
+### P2｜中高频词（综合评分 50-69）
+
+- [x] **accommodate** - v. 容纳；为……提供住宿；适应  `P2` [COCA 5000]
+- [x] **accomplish** - v. 完成；实现  `P2` [COCA 5000]
+- [x] **addition** - n. 增加；加法  `P2` [COCA 5000]
+- [x] **administrative** - adj. 行政的  `P2` [COCA 5000]
+- [x] **advocate** - v./n. 倡导；拥护者  `P2` [COCA 5000]
+- [x] **aim** - n./v. 目标；瞄准  `P2` [COCA 5000]
+- [x] **alarm** - n. 警报；惊恐 v. 使惊慌  `P2` [COCA 5000]
+- [x] **assemble** - v. 集合；组装  `P2` [COCA 5000]
+- [x] **average** - n./adj. 平均；普通的  `P2` [COCA 5000]
+- [x] **award** - n./v. 奖；授予  `P2` [COCA 5000]
+- [x] **bias** - n./v. 偏见；使有偏见  `P2` [COCA 5000]
+- [x] **campus** - n. 校园  `P2` [COCA 5000]
+- [x] **civilian** - n./adj. 平民；平民的  `P2` [COCA 5000]
+- [x] **concentrate** - v. 集中；专注  `P2` [COCA 5000]
+- [x] **digital** - adj. 数字的；数码的  `P2` [COCA 5000]
+- [x] **embrace** - v./n. 拥抱；包含  `P2` [COCA 5000]
+- [x] **emphasis** - n. 强调；重点  `P2` [COCA 5000]
+- [x] **enormous** - adj. 巨大的  `P2` [COCA 5000]
+- [x] **foundation** - n. 基础；基金会  `P2` [COCA 5000]
+- [x] **massive** - adj. 大量的；巨大的  `P2` [COCA 5000]
+- [x] **mood** - n. 心情；情绪  `P2` [COCA 5000]
+- [x] **passion** - n. 热情；激情  `P2` [COCA 5000]
+- [x] **permanent** - adj. 永久的；持久的  `P2` [COCA 5000]
+- [x] **personality** - n. 个性；人格  `P2` [COCA 5000]
+- [x] **proceed** - v. 继续；进行  `P2` [COCA 5000]
+- [x] **professional** - adj./n. 专业的；专业人士  `P2` [COCA 5000]
+- [x] **react** - v. 反应  `P2` [COCA 5000]
+- [x] **reasonable** - adj. 合理的  `P2` [COCA 5000]
+- [x] **relevant** - adj. 相关的  `P2` [COCA 5000]
+- [ ] **retain** - v. 保持；保留  `P2` [COCA 5000]
+- [x] **schedule** - n./v. 日程；安排  `P2` [COCA 5000]
+- [ ] **segment** - n. 部分；片段  `P2` [COCA 5000]
+- [x] **sensitive** - adj. 敏感的  `P2` [COCA 5000]
+- [x] **shift** - v./n. 转移；转变；轮班  `P2` [COCA 5000]
+- [x] **stability** - n. 稳定性  `P2` [COCA 5000]
+- [x] **stress** - n./v. 压力；强调  `P2` [COCA 5000]
+- [x] **substantial** - adj. 大量的；实质的  `P2` [COCA 5000]
+- [x] **supply** - n./v. 供应；供给  `P2` [COCA 5000]
+- [x] **symbol** - n. 象征；符号  `P2` [COCA 5000]
+- [x] **transfer** - v./n. 转移；调换  `P2` [COCA 5000]
+- [x] **via** - prep. 通过；经由  `P2` [COCA 5000]
+- [x] **violate** - v. 违反；侵犯  `P2` [COCA 5000]
+- [x] **vital** - adj. 至关重要的  `P2` [COCA 5000]
+- [x] **vulnerable** - adj. 脆弱的；易受伤的  `P2` [COCA 5000]
+- [x] **witness** - v./n. 见证；目击者  `P2` [COCA 5000]
+- [ ] **actor** - n. 演员  `P2` [COCA Top2000]
+- [ ] **analyst**  `P2` [COCA Top2000]
+- [ ] **appearance**  `P2` [COCA Top2000]
+- [ ] **assessment**  `P2` [COCA Top2000]
+- [ ] **athlete**  `P2` [COCA Top2000]
+- [ ] **attack**  `P2` [COCA Top2000]
+- [ ] **basketball**  `P2` [COCA Top2000]
+- [ ] **beauty**  `P2` [COCA Top2000]
+- [ ] **beer**  `P2` [COCA Top2000]
+- [ ] **black**  `P2` [COCA Top2000]
+- [ ] **blame**  `P2` [COCA Top2000]
+- [ ] **bond**  `P2` [COCA Top2000]
+- [ ] **breast**  `P2` [COCA Top2000]
+- [ ] **cash**  `P2` [COCA Top2000]
+- [ ] **chain**  `P2` [COCA Top2000]
+- [ ] **chest**  `P2` [COCA Top2000]
+- [ ] **code**  `P2` [COCA Top2000]
+- [ ] **combination**  `P2` [COCA Top2000]
+- [ ] **commitment**  `P2` [COCA Top2000]
+- [ ] **complain**  `P2` [COCA Top2000]
+- [ ] **conclusion**  `P2` [COCA Top2000]
+- [ ] **contribution**  `P2` [COCA Top2000]
+- [ ] **core**  `P2` [COCA Top2000]
+- [ ] **county**  `P2` [COCA Top2000]
+- [ ] **coverage**  `P2` [COCA Top2000]
+- [ ] **crew**  `P2` [COCA Top2000]
+- [ ] **declare**  `P2` [COCA Top2000]
+- [ ] **defend**  `P2` [COCA Top2000]
+- [ ] **democracy**  `P2` [COCA Top2000]
+- [ ] **educational**  `P2` [COCA Top2000]
+- [ ] **era**  `P2` [COCA Top2000]
+- [ ] **estate**  `P2` [COCA Top2000]
+- [ ] **expectation**  `P2` [COCA Top2000]
+- [ ] **explore**  `P2` [COCA Top2000]
+- [ ] **forth**  `P2` [COCA Top2000]
+- [x] **fund** - n./v. 基金；资助  `P2` [COCA 5000]
+- [ ] **gender**  `P2` [COCA Top2000]
+- [ ] **governor**  `P2` [COCA Top2000]
+- [x] **guideline** - n. 指导方针  `P2` [COCA 5000]
+- [x] **helpful** - adj. 有帮助的  `P2` [COCA 5000]
+- [ ] **increasingly**  `P2` [COCA Top2000]
+- [x] **incredible** - adj. 难以置信的  `P2` [COCA 5000]
+- [ ] **investor**  `P2` [COCA Top2000]
+- [x] **narrative** - n./adj. 叙述；叙事的  `P2` [COCA 5000]
+- [x] **obligation** - n. 义务；责任  `P2` [COCA 5000]
+- [ ] **oppose**  `P2` [COCA Top2000]
+- [ ] **opposition**  `P2` [COCA Top2000]
+- [x] **orientation** - n. 方向；定位；培训  `P2` [COCA 5000]
+- [ ] **politician**  `P2` [COCA Top2000]
+- [ ] **poll**  `P2` [COCA Top2000]
+- [ ] **propose**  `P2` [COCA Top2000]
+- [ ] **pursue**  `P2` [COCA Top2000]
+- [ ] **rating**  `P2` [COCA Top2000]
+- [ ] **slip**  `P2` [COCA Top2000]
+- [ ] **somehow**  `P2` [COCA Top2000]
+- [ ] **stir**  `P2` [COCA Top2000]
+- [ ] **surround**  `P2` [COCA Top2000]
+- [ ] **teaching**  `P2` [COCA Top2000]
+- [ ] **variable**  `P2` [COCA Top2000]
+- [ ] **vegetable**  `P2` [COCA Top2000]
+- [ ] **zone**  `P2` [COCA Top2000]
+- [x] **function** - n./v. 功能；运行  `P2` [COCA 5000]
+- [ ] **grant** - v./n. 授予；补助金  `P2` [COCA 5000]
+- [x] **heritage** - n. 遗产  `P2` [COCA 5000]
+- [x] **inflation** - n. 通货膨胀  `P2` [COCA 5000]
+- [x] **integrate** - v. 整合；融入  `P2` [COCA 5000]
+- [x] **integrity** - n. 正直；完整  `P2` [COCA 5000]
+- [x] **margin** - n. 边缘；差额  `P2` [COCA 5000]
+- [x] **apartment** - n. 公寓  `P2` [COCA Top2000]
+- [x] **conduct** - v. 进行；指挥 n. 行为  `P2` [COCA 5000]
+- [x] **confuse** - v. 使困惑  `P2` [COCA 5000]
+- [x] **consult** - v. 咨询；查阅  `P2` [COCA 5000]
+- [x] **convey** - v. 传达；运输  `P2` [COCA 5000]
+- [x] **debate** - n./v. 辩论  `P2` [COCA 5000]
+- [x] **decent** - adj. 得体的；正派的  `P2` [COCA 5000]
+- [x] **desire** - n./v. 渴望  `P2` [COCA 5000]
+- [x] **diagnose** - v. 诊断  `P2` [COCA 5000]
+- [x] **encounter** - v./n. 遭遇；遇到  `P2` [COCA 5000]
+- [x] **endure** - v. 忍受；持续  `P2` [COCA 5000]
+- [x] **enforce** - v. 执行；强制实施  `P2` [COCA 5000]
+- [x] **exclusive** - adj. 独有的；排外的  `P2` [COCA 5000]
+- [x] **execute** - v. 执行；处决  `P2` [COCA 5000]
+- [x] **exhibit** - v. 展示 n. 展品  `P2` [COCA 5000]
+- [x] **facilitate** - v. 促进；使便利  `P2` [COCA 5000]
+- [x] **feedback** - n. 反馈  `P2` [COCA 5000]
+- [x] **alter** - v. 改变；改动  `P2` [COCA 5000]
+- [x] **distinction** - n. 区别；荣誉  `P2` [COCA 5000]
+- [x] **evolve** - v. 进化；发展  `P2` [COCA 5000]
+- [x] **negotiate** - v. 谈判；协商  `P2` [COCA 5000]
+- [x] **stable** - adj. 稳定的  `P2` [COCA 5000]
+- [x] **target** - n./v. 目标；瞄准  `P2` [COCA 5000]
+- [x] **ultimate** - adj. 最终的；根本的  `P2` [COCA 5000]
+- [ ] **accuse** - v. 控告；指责  `P2` [COCA 5000]
+- [ ] **achievement**  `P2` [COCA 5000]
+- [ ] **agenda**  `P2` [COCA 5000]
+- [ ] **aids**  `P2` [COCA 5000]
+- [ ] **airline**  `P2` [COCA 5000]
+- [ ] **album**  `P2` [COCA 5000]
+- [ ] **ally**  `P2` [COCA 5000]
+- [ ] **arrangement**  `P2` [COCA 5000]
+- [ ] **assistance**  `P2` [COCA 5000]
+- [ ] **association**  `P2` [COCA 5000]
+- [ ] **bend**  `P2` [COCA 5000]
+- [ ] **block**  `P2` [COCA 5000]
+- [ ] **boot**  `P2` [COCA 5000]
+- [ ] **bother**  `P2` [COCA 5000]
+- [ ] **breathe**  `P2` [COCA 5000]
+- [ ] **bury**  `P2` [COCA 5000]
+- [ ] **cable**  `P2` [COCA 5000]
+- [ ] **celebrate**  `P2` [COCA 5000]
+- [ ] **championship**  `P2` [COCA 5000]
+- [ ] **characteristic**  `P2` [COCA 5000]
+- [ ] **chip**  `P2` [COCA 5000]
+- [ ] **clinic**  `P2` [COCA 5000]
+- [ ] **coach**  `P2` [COCA 5000]
+- [ ] **column**  `P2` [COCA 5000]
+- [ ] **commander**  `P2` [COCA 5000]
+- [ ] **commission**  `P2` [COCA 5000]
+- [ ] **comparison**  `P2` [COCA 5000]
+- [ ] **complaint**  `P2` [COCA 5000]
+- [ ] **congressional**  `P2` [COCA 5000]
+- [ ] **consist**  `P2` [COCA 5000]
+- [ ] **construct**  `P2` [COCA 5000]
+- [ ] **convention**  `P2` [COCA 5000]
+- [ ] **cop**  `P2` [COCA 5000]
+- [ ] **creation**  `P2` [COCA 5000]
+- [ ] **creature**  `P2` [COCA 5000]
+- [ ] **criticism**  `P2` [COCA 5000]
+- [ ] **curriculum**  `P2` [COCA 5000]
+- [ ] **definition**  `P2` [COCA 5000]
+- [ ] **depression**  `P2` [COCA 5000]
+- [ ] **designer**  `P2` [COCA 5000]
+- [ ] **diet**  `P2` [COCA 5000]
+- [ ] **dimension**  `P2` [COCA 5000]
+- [ ] **disorder**  `P2` [COCA 5000]
+- [ ] **dominate**  `P2` [COCA 5000]
+- [ ] **dust**  `P2` [COCA 5000]
+- [ ] **educator**  `P2` [COCA 5000]
+- [ ] **elect**  `P2` [COCA 5000]
+- [ ] **enforcement**  `P2` [COCA 5000]
+- [ ] **engineering**  `P2` [COCA 5000]
+- [ ] **entry**  `P2` [COCA 5000]
+- [ ] **equally**  `P2` [COCA 5000]
+- [ ] **evaluation**  `P2` [COCA 5000]
+- [ ] **expense**  `P2` [COCA 5000]
+- [ ] **exposure**  `P2` [COCA 5000]
+- [ ] **fishing**  `P2` [COCA 5000]
+- [ ] **funding**  `P2` [COCA 5000]
+- [ ] **gay**  `P2` [COCA 5000]
+- [ ] **immigration**  `P2` [COCA 5000]
+- [ ] **inner**  `P2` [COCA 5000]
+- [ ] **inspire**  `P2` [COCA 5000]
+- [ ] **invest**  `P2` [COCA 5000]
+- [ ] **investigator**  `P2` [COCA 5000]
+- [ ] **involvement**  `P2` [COCA 5000]
+- [ ] **joint**  `P2` [COCA 5000]
+- [ ] **journalist**  `P2` [COCA 5000]
+- [ ] **manufacturer**  `P2` [COCA 5000]
+- [ ] **marketing**  `P2` [COCA 5000]
+- [ ] **mixture**  `P2` [COCA 5000]
+- [ ] **negotiation**  `P2` [COCA 5000]
+- [ ] **observer**  `P2` [COCA 5000]
+- [ ] **participation**  `P2` [COCA 5000]
+- [ ] **phase**  `P2` [COCA 5000]
+- [ ] **planning**  `P2` [COCA 5000]
+- [ ] **poverty**  `P2` [COCA 5000]
+- [ ] **portion**  `P2` [COCA 5000]
+- [ ] **pose**  `P2` [COCA 5000]
+- [ ] **preserve**  `P2` [COCA 5000]
+- [x] **purchase** - v./n. 购买  `P2` [COCA 5000]
+- [x] **ratio** - n. 比率  `P2` [COCA 5000]
+- [x] **relative** - adj./n. 相对的；亲戚  `P2` [COCA 5000]
+- [ ] **resist**  `P2` [COCA 5000]
+- [ ] **resolve**  `P2` [COCA 5000]
+- [ ] **retire**  `P2` [COCA 5000]
+- [ ] **saving**  `P2` [COCA 5000]
+- [x] **scope** - n. 范围  `P2` [COCA 5000]
+- [ ] **scream**  `P2` [COCA 5000]
+- [x] **sufficient** - adj. 足够的  `P2` [COCA 5000]
+- [x] **sustain** - v. 维持；承受  `P2` [COCA 5000]
+- [ ] **symptom**  `P2` [COCA 5000]
+- [ ] **toss**  `P2` [COCA 5000]
+- [x] **uniform** - adj./n. 一致的；制服  `P2` [COCA 5000]
+- [ ] **urge**  `P2` [COCA 5000]
+- [x] **access** - n. 通道；接近；使用权 v. 获取  `P2` [COCA 5000]
+- [x] **agriculture** - n. 农业  `P2` [COCA 5000]
+- [x] **ambitious** - adj. 有雄心的  `P2` [COCA 5000]
+- [x] **artificial** - adj. 人造的；人工的  `P2` [COCA 5000]
+- [x] **associate** - v. 联系；交往 n. 同事  `P2` [COCA 5000]
+- [ ] **compel** - v. 强迫  `P2` [COCA 5000]
+- [x] **comprise** - v. 包含；由……组成  `P2` [COCA 5000]
+- [x] **recruit** - v./n. 招募；新成员  `P2` [COCA 5000]
+- [x] **reinforce** - v. 加强；增援  `P2` [COCA 5000]
+- [x] **resign** - v. 辞职；使顺从  `P2` [COCA 5000]
+- [x] **risk** - n./v. 风险；冒险  `P2` [COCA 5000]
+- [x] **submit** - v. 提交；顺从  `P2` [COCA 5000]
+- [x] **temporary** - adj. 临时的  `P2` [COCA 5000]
+- [x] **undergo** - v. 经历；遭受  `P2` [COCA 5000]
+- [x] **widespread** - adj. 普遍的  `P2` [COCA 5000]
+- [x] **genuine** - adj. 真正的；真诚的  `P2` [COCA 5000]
+- [x] **govern** - v. 管理；支配  `P2` [COCA 5000]
+- [x] **handle** - v./n. 处理；把手  `P2` [COCA 5000]
+- [x] **hesitate** - v. 犹豫  `P2` [COCA 5000]
+- [x] **humanity** - n. 人类；人性  `P2` [COCA 5000]
+- [x] **identical** - adj. 相同的  `P2` [COCA 5000]
+- [x] **inevitable** - adj. 不可避免的  `P2` [COCA 5000]
+- [x] **initiate** - v. 开始；发起  `P2` [COCA 5000]
+- [x] **injure** - v. 伤害  `P2` [COCA 5000]
+- [x] **innovation** - n. 创新  `P2` [COCA 5000]
+- [x] **inspection** - n. 检查；视察  `P2` [COCA 5000]
+- [x] **modify** - v. 修改；调整  `P2` [COCA 5000]
+- [x] **monitor** - v./n. 监控；显示器  `P2` [COCA 5000]
+- [x] **motivate** - v. 激励  `P2` [COCA 5000]
+- [x] **motive** - n. 动机 adj. 运动的  `P2` [COCA 5000]
+- [x] **obstacle** - n. 障碍  `P2` [COCA 5000]
+- [x] **overwhelming** - adj. 压倒性的  `P2` [COCA 5000]
+- [x] **primary** - adj. 主要的；初级的  `P2` [COCA 5000]
+- [x] **adolescent** - n./adj. 青少年；青春期的  `P2` [COCA 5000]
+- [x] **assert** - v. 断言；维护  `P2` [COCA 5000]
+- [ ] **activist** - n. 活动家；积极分子  `P2` [COCA 5000]
+- [ ] **adventure**  `P2` [COCA 5000]
+- [ ] **advertising** - n. 广告业；广告活动  `P2` [COCA 5000]
+- [ ] **aircraft**  `P2` [COCA 5000]
+- [ ] **approval**  `P2` [COCA 5000]
+- [ ] **arise**  `P2` [COCA 5000]
+- [ ] **assistant**  `P2` [COCA 5000]
+- [ ] **assure**  `P2` [COCA 5000]
+- [ ] **awareness**  `P2` [COCA 5000]
+- [ ] **bake**  `P2` [COCA 5000]
+- [ ] **bible**  `P2` [COCA 5000]
+- [ ] **bind**  `P2` [COCA 5000]
+- [x] **biology** - n. 生物学  `P2` [COCA 5000]
+- [ ] **biological**  `P2` [COCA 5000]
+- [ ] **brand**  `P2` [COCA 5000]
+- [ ] **buck**  `P2` [COCA 5000]
+- [ ] **bullet**  `P2` [COCA 5000]
+- [ ] **buyer**  `P2` [COCA 5000]
+- [ ] **cabinet**  `P2` [COCA 5000]
+- [x] **calculate** - v. 计算；核算  `P2` [COCA 5000]
+- [ ] **capability**  `P2` [COCA 5000]
+- [ ] **ceremony**  `P2` [COCA 5000]
+- [ ] **champion**  `P2` [COCA 5000]
+- [x] **charge** - n./v. 费用；指控；充电  `P2` [COCA 5000]
+- [ ] **chart**  `P2` [COCA 5000]
+- [ ] **clinical**  `P2` [COCA 5000]
+- [ ] **clothing**  `P2` [COCA 5000]
+- [ ] **concentration**  `P2` [COCA 5000]
+- [ ] **confident**  `P2` [COCA 5000]
+- [ ] **consideration**  `P2` [COCA 5000]
+- [x] **consumption** - n. 消费；消耗  `P2` [COCA 5000]
+- [x] **content** - n. 内容 adj. 满足的  `P2` [COCA 5000]
+- [ ] **controversy**  `P2` [COCA 5000]
+- [ ] **convert**  `P2` [COCA 5000]
+- [x] **cooperate** - v. 合作  `P2` [COCA 5000]
+- [ ] **cooperation**  `P2` [COCA 5000]
+- [ ] **corporation**  `P2` [COCA 5000]
+- [ ] **correspondent**  `P2` [COCA 5000]
+- [ ] **council**  `P2` [COCA 5000]
+- [ ] **craft**  `P2` [COCA 5000]
+- [ ] **darkness**  `P2` [COCA 5000]
+- [ ] **date**  `P2` [COCA 5000]
+- [ ] **dealer**  `P2` [COCA 5000]
+- [ ] **deck**  `P2` [COCA 5000]
+- [ ] **depth**  `P2` [COCA 5000]
+- [ ] **delivery**  `P2` [COCA 5000]
+- [ ] **deputy**  `P2` [COCA 5000]
+- [x] **descend** - v. 下降；下来  `P2` [COCA 5000]
+- [ ] **detect**  `P2` [COCA 5000]
+- [x] **dilemma** - n. 困境  `P2` [COCA 5000]
+- [ ] **disagree**  `P2` [COCA 5000]
+- [ ] **dismiss**  `P2` [COCA 5000]
+- [ ] **distribute**  `P2` [COCA 5000]
+- [ ] **diversity**  `P2` [COCA 5000]
+- [x] **donate** - v. 捐赠  `P2` [COCA 5000]
+- [x] **donation** - n. 捐赠  `P2` [COCA 5000]
+- [ ] **drama**  `P2` [COCA 5000]
+- [x] **dynamic** - adj./n. 动态的；动力  `P2` [COCA 5000]
+- [ ] **earnings**  `P2` [COCA 5000]
+- [ ] **elementary**  `P2` [COCA 5000]
+- [ ] **elite**  `P2` [COCA 5000]
+- [ ] **episode**  `P2` [COCA 5000]
+- [ ] **equivalent** - adj./n. 等同的；等价物  `P2` [COCA 5000]
+- [ ] **establishment**  `P2` [COCA 5000]
+- [x] **exchange** - n./v. 交换；交流  `P2` [COCA 5000]
+- [x] **exploit** - v./n. 利用；剥削；功绩  `P2` [COCA 5000]
+- [ ] **fade**  `P2` [COCA 5000]
+- [ ] **fantasy**  `P2` [COCA 5000]
+- [ ] **flee**  `P2` [COCA 5000]
+- [ ] **found**  `P2` [COCA 5000]
+- [ ] **founder**  `P2` [COCA 5000]
+- [ ] **framework**  `P2` [COCA 5000]
+- [ ] **gang**  `P2` [COCA 5000]
+- [ ] **gear**  `P2` [COCA 5000]
+- [ ] **gesture**  `P2` [COCA 5000]
+- [ ] **headquarters**  `P2` [COCA 5000]
+- [ ] **hip**  `P2` [COCA 5000]
+- [ ] **historic**  `P2` [COCA 5000]
+- [ ] **historian**  `P2` [COCA 5000]
+- [ ] **hunting**  `P2` [COCA 5000]
+- [ ] **ill**  `P2` [COCA 5000]
+- [ ] **index**  `P2` [COCA 5000]
+- [ ] **infection**  `P2` [COCA 5000]
+- [ ] **lover**  `P2` [COCA 5000]
+- [ ] **mad**  `P2` [COCA 5000]
+- [ ] **mask**  `P2` [COCA 5000]
+- [ ] **mayor**  `P2` [COCA 5000]
+- [ ] **mode**  `P2` [COCA 5000]
+- [ ] **onion**  `P2` [COCA 5000]
+- [ ] **pan**  `P2` [COCA 5000]
+- [ ] **penalty**  `P2` [COCA 5000]
+- [ ] **possess**  `P2` [COCA 5000]
+- [ ] **presentation**  `P2` [COCA 5000]
+- [ ] **pretend**  `P2` [COCA 5000]
+- [ ] **representation**  `P2` [COCA 5000]
+- [ ] **respondent**  `P2` [COCA 5000]
+- [ ] **restore**  `P2` [COCA 5000]
+- [ ] **scheme** - n./v. 计划；方案；策划  `P2` [COCA 5000]
+- [ ] **senator**  `P2` [COCA 5000]
+- [ ] **spin**  `P2` [COCA 5000]
+- [ ] **split**  `P2` [COCA 5000]
+- [ ] **squeeze**  `P2` [COCA 5000]
+- [ ] **stake**  `P2` [COCA 5000]
+- [x] **suspect** - v./n./adj. 怀疑；嫌疑犯；可疑的  `P2` [COCA 5000]
+- [ ] **teen**  `P2` [COCA 5000]
+- [x] **tendency** - n. 倾向；趋势  `P2` [COCA 5000]
+- [ ] **tragedy**  `P2` [COCA 5000]
+- [ ] **utility**  `P2` [COCA 5000]
+- [ ] **vacation**  `P2` [COCA 5000]
+- [ ] **variation**  `P2` [COCA 5000]
+- [ ] **violation**  `P2` [COCA 5000]
+- [ ] **weigh**  `P2` [COCA 5000]
+- [ ] **wipe**  `P2` [COCA 5000]
+- [ ] **withdraw**  `P2` [COCA 5000]
+- [x] **transition** - n. 过渡；转变  `P2` [COCA 5000]
+- [x] **labor** - n./v. 劳动  `P2` [COCA Top2000]
+- [x] **realize** - v. 意识到；实现  `P2` [COCA Top2000]
+- [x] **recognize** - v. 认出；承认  `P2` [COCA Top2000]
+- [x] **consciousness** - n. 意识；知觉  `P2` [COCA 5000]
+- [x] **echo** - n./v. 回声；附和  `P2` [COCA 5000]
+- [x] **exceed** - v. 超过；超出  `P2` [COCA 5000]
+- [x] **finance** - n./v. 财政；金融；资助  `P2` [COCA 5000]
+- [x] **highlight** - v./n. 强调；突出；亮点  `P2` [COCA 5000]
+- [x] **horizon** - n. 地平线；视野  `P2` [COCA 5000]
+- [x] **register** - v./n. 登记；注册  `P2` [COCA 5000]
+- [x] **regulate** - v. 管理；调节  `P2` [COCA 5000]
+- [x] **superior** - adj./n. 优越的；上级  `P2` [COCA 5000]
+- [ ] **discourse** - n. 论述；话语  `P2` [COCA 5000]
+- [x] **analyze** - v. 分析  `P2` [COCA 5000]
+- [x] **profound** - adj. 深刻的  `P2` [COCA 5000]
+- [ ] **recipient** - n. 接受者  `P2` [COCA 5000]
+- [ ] **recession** - n. 衰退；不景气  `P2` [COCA 5000]
+- [x] **reluctant** - adj. 不情愿的  `P2` [COCA 5000]
+- [x] **reliable** - adj. 可靠的  `P2` [COCA 5000]
+- [ ] **render** - v. 使成为；给予；翻译  `P2` [COCA 5000]
+- [x] **research** - n./v. 研究  `P2` [COCA 5000]
+- [x] **restrict** - v. 限制  `P2` [COCA 5000]
+- [x] **reverse** - v./adj./n. 逆转；相反的  `P2` [COCA 5000]
+- [x] **signal** - n./v. 信号；示意  `P2` [COCA 5000]
+- [x] **survey** - n./v. 调查；审视  `P2` [COCA 5000]
+- [x] **suspend** - v. 暂停；悬挂  `P2` [COCA 5000]
+- [ ] **transaction** - n. 交易；事务  `P2` [COCA 5000]
+- [x] **trigger** - v./n. 引发；触发器  `P2` [COCA 5000]
+- [x] **undermine** - v. 逐渐削弱  `P2` [COCA 5000]
+- [x] **value** - n./v. 价值；重视  `P2` [COCA 5000]
+- [x] **vanish** - v. 消失  `P2` [COCA 5000]
+- [x] **virtual** - adj. 虚拟的；实质上的  `P2` [COCA 5000]
+- [x] **accelerate** - v. 加速；促进  `P2` [COCA 5000]
+- [x] **aid** - n./v. 帮助；援助  `P2` [COCA 5000]
+- [x] **apart** - adv. 分开；相隔  `P2` [COCA 5000]
+- [x] **biography** - n. 传记  `P2` [COCA 5000]
+- [ ] **brutal** - adj. 残酷的  `P2` [COCA 5000]
+- [ ] **bulk** - n. 大部分；体积  `P2` [COCA 5000]
+- [ ] **commodity** - n. 商品  `P2` [COCA 5000]
+- [x] **harm** - n./v. 伤害  `P2` [COCA 5000]
+- [x] **hostile** - adj. 敌对的  `P2` [COCA 5000]
+- [x] **illusion** - n. 幻想；错觉  `P2` [COCA 5000]
+- [x] **immune** - adj. 免疫的；不受影响的  `P2` [COCA 5000]
+- [x] **interact** - v. 相互作用；交流  `P2` [COCA 5000]
+- [x] **interfere** - v. 干涉；妨碍  `P2` [COCA 5000]
+- [x] **isolate** - v. 使隔离  `P2` [COCA 5000]
+- [ ] **liability** - n. 责任；负债  `P2` [COCA 5000]
+- [x] **manipulate** - v. 操纵；熟练处理  `P2` [COCA 5000]
+- [x] **minimum** - n./adj. 最小量；最低的  `P2` [COCA 5000]
+- [x] **neutral** - adj. 中立的  `P2` [COCA 5000]
+- [x] **optimistic** - adj. 乐观的  `P2` [COCA 5000]
+- [x] **patent** - n./adj./v. 专利；明显的；取得专利  `P2` [COCA 5000]
+- [x] **position** - n. 位置；职位；立场  `P2` [COCA 5000]
+- [x] **array** - n. 大量；数组；排列  `P2` [COCA 5000]
+- [x] **chronic** - adj. 慢性的；长期的  `P2` [COCA 5000]
+- [x] **emphasize** - v. 强调  `P2` [COCA 5000]
+- [ ] **adjustment** - n. 调整；调节  `P2` [COCA 5000]
+- [ ] **admission** - n. 准许进入；入场费；承认  `P2` [COCA 5000]
+- [ ] **angle**  `P2` [COCA 5000]
+- [ ] **arrest**  `P2` [COCA 5000]
+- [ ] **athletic**  `P2` [COCA 5000]
+- [ ] **blade**  `P2` [COCA 5000]
+- [ ] **carbon**  `P2` [COCA 5000]
+- [ ] **celebration**  `P2` [COCA 5000]
+- [ ] **chapter**  `P2` [COCA 5000]
+- [ ] **chef**  `P2` [COCA 5000]
+- [ ] **cholesterol**  `P2` [COCA 5000]
+- [ ] **composition**  `P2` [COCA 5000]
+- [ ] **detailed**  `P2` [COCA 5000]
+- [ ] **differ**  `P2` [COCA 5000]
+- [ ] **economist**  `P2` [COCA 5000]
+- [ ] **efficiency**  `P2` [COCA 5000]
+- [ ] **fabric**  `P2` [COCA 5000]
+- [ ] **formation**  `P2` [COCA 5000]
+- [ ] **gifted**  `P2` [COCA 5000]
+- [ ] **heel**  `P2` [COCA 5000]
+- [ ] **hunter**  `P2` [COCA 5000]
+- [ ] **institutional**  `P2` [COCA 5000]
+- [ ] **limitation**  `P2` [COCA 5000]
+- [ ] **mount**  `P2` [COCA 5000]
+- [ ] **myth**  `P2` [COCA 5000]
+- [ ] **owe**  `P2` [COCA 5000]
+- [ ] **palm**  `P2` [COCA 5000]
+- [ ] **psychologist**  `P2` [COCA 5000]
+- [ ] **qualify**  `P2` [COCA 5000]
+- [ ] **resemble**  `P2` [COCA 5000]
+- [ ] **rid**  `P2` [COCA 5000]
+- [ ] **satisfy**  `P2` [COCA 5000]
+- [ ] **scandal**  `P2` [COCA 5000]
+- [ ] **shit**  `P2` [COCA 5000]
+- [ ] **shrug**  `P2` [COCA 5000]
+- [ ] **ski**  `P2` [COCA 5000]
+- [ ] **strengthen**  `P2` [COCA 5000]
+- [ ] **terrorist**  `P2` [COCA 5000]
+- [ ] **abortion** - n. 流产；堕胎  `P2` [COCA Top2000]
+- [ ] **intervention**  `P2` [COCA Top2000]
+- [ ] **regime**  `P2` [COCA Top2000]
+- [x] **abuse** - n./v. 滥用；虐待  `P2` [COCA 5000]
+- [ ] **acceptance** - n. 接受；承认  `P2` [COCA 5000]
+- [ ] **acid** - n./adj. 酸；酸性的  `P2` [COCA 5000]
+- [ ] **actress** - n. 女演员  `P2` [COCA 5000]
+- [ ] **admire** - v. 钦佩；羡慕  `P2` [COCA 5000]
+- [ ] **alliance**  `P2` [COCA 5000]
+- [ ] **anniversary**  `P2` [COCA 5000]
+- [ ] **appointment**  `P2` [COCA 5000]
+- [ ] **architect**  `P2` [COCA 5000]
+- [ ] **artistic**  `P2` [COCA 5000]
+- [ ] **assignment**  `P2` [COCA 5000]
+- [x] **ban** - v./n. 禁止；禁令  `P2` [COCA 5000]
+- [ ] **barrel**  `P2` [COCA 5000]
+- [ ] **battery**  `P2` [COCA 5000]
+- [ ] **beg**  `P2` [COCA 5000]
+- [x] **beyond** - prep. 超出；在……之外  `P2` [COCA 5000]
+- [ ] **blanket**  `P2` [COCA 5000]
+- [ ] **borrow**  `P2` [COCA 5000]
+- [ ] **cabin**  `P2` [COCA 5000]
+- [x] **cancel** - v. 取消；废除  `P2` [COCA 5000]
+- [ ] **candy**  `P2` [COCA 5000]
+- [ ] **carrier**  `P2` [COCA 5000]
+- [x] **chaos** - n. 混乱；紊乱  `P2` [COCA 5000]
+- [ ] **charity**  `P2` [COCA 5000]
+- [ ] **chase**  `P2` [COCA 5000]
+- [ ] **christian**  `P2` [COCA 5000]
+- [x] **classify** - v. 分类  `P2` [COCA 5000]
+- [ ] **clue**  `P2` [COCA 5000]
+- [ ] **collective**  `P2` [COCA 5000]
+- [ ] **colonial**  `P2` [COCA 5000]
+- [ ] **combat**  `P2` [COCA 5000]
+- [ ] **comedy**  `P2` [COCA 5000]
+- [ ] **competitor**  `P2` [COCA 5000]
+- [ ] **compose**  `P2` [COCA 5000]
+- [ ] **compound**  `P2` [COCA 5000]
+- [ ] **concrete**  `P2` [COCA 5000]
+- [ ] **confusion**  `P2` [COCA 5000]
+- [x] **conscious** - adj. 有意识的；自觉的  `P2` [COCA 5000]
+- [ ] **container**  `P2` [COCA 5000]
+- [ ] **cool**  `P2` [COCA 5000]
+- [x] **coordinate** - v./n. 协调；坐标  `P2` [COCA 5000]
+- [ ] **cope**  `P2` [COCA 5000]
+- [ ] **couch**  `P2` [COCA 5000]
+- [ ] **counsel**  `P2` [COCA 5000]
+- [ ] **crack**  `P2` [COCA 5000]
+- [ ] **crash**  `P2` [COCA 5000]
+- [ ] **curve**  `P2` [COCA 5000]
+- [ ] **decrease**  `P2` [COCA 5000]
+- [ ] **defendant**  `P2` [COCA 5000]
+- [ ] **devote**  `P2` [COCA 5000]
+- [ ] **dictate** - v./n. 命令；规定  `P2` [COCA 5000]
+- [ ] **distinguish**  `P2` [COCA 5000]
+- [x] **distract** - v. 使分心  `P2` [COCA 5000]
+- [ ] **economics**  `P2` [COCA 5000]
+- [x] **elegant** - adj. 优雅的  `P2` [COCA 5000]
+- [ ] **ethics**  `P2` [COCA 5000]
+- [ ] **everyday**  `P2` [COCA 5000]
+- [x] **excessive** - adj. 过度的  `P2` [COCA 5000]
+- [x] **exhaust** - v./n. 使筋疲力尽；排气  `P2` [COCA 5000]
+- [x] **explicit** - adj. 明确的  `P2` [COCA 5000]
+- [ ] **explode**  `P2` [COCA 5000]
+- [ ] **export**  `P2` [COCA 5000]
+- [x] **fatal** - adj. 致命的  `P2` [COCA 5000]
+- [ ] **final**  `P2` [COCA 5000]
+- [ ] **flesh**  `P2` [COCA 5000]
+- [ ] **float**  `P2` [COCA 5000]
+- [ ] **formula**  `P2` [COCA 5000]
+- [ ] **frustration**  `P2` [COCA 5000]
+- [ ] **gallery**  `P2` [COCA 5000]
+- [ ] **ghost**  `P2` [COCA 5000]
+- [ ] **grain**  `P2` [COCA 5000]
+- [ ] **grocery**  `P2` [COCA 5000]
+- [ ] **habitat**  `P2` [COCA 5000]
+- [ ] **handful**  `P2` [COCA 5000]
+- [ ] **homeless**  `P2` [COCA 5000]
+- [ ] **identification**  `P2` [COCA 5000]
+- [ ] **impress**  `P2` [COCA 5000]
+- [ ] **indication**  `P2` [COCA 5000]
+- [x] **infrastructure** - n. 基础设施  `P2` [COCA 5000]
+- [ ] **instructor**  `P2` [COCA 5000]
+- [ ] **intensity**  `P2` [COCA 5000]
+- [ ] **interrupt**  `P2` [COCA 5000]
+- [ ] **jet**  `P2` [COCA 5000]
+- [ ] **legend**  `P2` [COCA 5000]
+- [ ] **log**  `P2` [COCA 5000]
+- [ ] **logic**  `P2` [COCA 5000]
+- [ ] **makeup**  `P2` [COCA 5000]
+- [x] **maximum** - adj./n. 最大的；最大值  `P2` [COCA 5000]
+- [ ] **melt**  `P2` [COCA 5000]
+- [x] **necessity** - n. 必需品；必要性  `P2` [COCA 5000]
+- [ ] **northwest**  `P2` [COCA 5000]
+- [ ] **odds**  `P2` [COCA 5000]
+- [ ] **patch**  `P2` [COCA 5000]
+- [ ] **peer**  `P2` [COCA 5000]
+- [ ] **permission**  `P2` [COCA 5000]
+- [ ] **persuade**  `P2` [COCA 5000]
+- [ ] **pregnancy**  `P2` [COCA 5000]
+- [ ] **presidency**  `P2` [COCA 5000]
+- [ ] **recording**  `P2` [COCA 5000]
+- [ ] **sake**  `P2` [COCA 5000]
+- [ ] **seize**  `P2` [COCA 5000]
+- [ ] **serving**  `P2` [COCA 5000]
+- [ ] **summit**  `P2` [COCA 5000]
+- [ ] **surgeon**  `P2` [COCA 5000]
+- [ ] **tunnel**  `P2` [COCA 5000]
+- [x] **volunteer** - n./v. 志愿者；自愿  `P2` [COCA 5000]
+- [x] **dedicate** - v. 奉献；致力于  `P2` [COCA 5000]
+- [ ] **doctrine** - n. 教义；主义  `P2` [COCA 5000]
+- [ ] **entity** - n. 实体  `P2` [COCA 5000]
+- [x] **prohibit** - v. 禁止  `P2` [COCA 5000]
+- [x] **quantity** - n. 数量  `P2` [COCA 5000]
+- [x] **reserve** - v./n. 保留；预订  `P2` [COCA 5000]
+- [x] **respect** - n./v. 尊重；方面  `P2` [COCA 5000]
+- [x] **revolutionary** - adj. 革命性的  `P2` [COCA 5000]
+- [x] **secure** - adj./v. 安全的；确保  `P2` [COCA 5000]
+- [x] **senior** - adj./n. 高级的；年长者  `P2` [COCA 5000]
+- [x] **stimulate** - v. 刺激；激励  `P2` [COCA 5000]
+- [x] **tackle** - v./n. 处理；用具  `P2` [COCA 5000]
+- [x] **undertake** - v. 承担；从事  `P2` [COCA 5000]
+- [ ] **coalition**  `P2` [COCA 5000]
+- [ ] **suicide**  `P2` [COCA 5000]
+- [x] **fierce** - adj. 激烈的；凶猛的  `P2` [COCA 5000]
+- [x] **frustrate** - v. 使沮丧；阻挠  `P2` [COCA 5000]
+- [ ] **hazard** - n./v. 危险；冒险提出  `P2` [COCA 5000]
+- [x] **launch** - v./n. 发起；发射  `P2` [COCA 5000]
+- [x] **likelihood** - n. 可能性  `P2` [COCA 5000]
+- [x] **major** - adj./n./v. 主要的；专业  `P2` [COCA 5000]
+- [x] **aesthetic** - adj. 审美的  `P2` [COCA 5000]
+- [x] **alien** - adj./n. 外国的；陌生的；外星人  `P2` [COCA 5000]
+- [ ] **casualty** - n. 伤亡人员  `P2` [COCA 5000]
+- [x] **portray** - v. 描绘；扮演  `P2` [COCA 5000]
+- [x] **subtle** - adj. 微妙的  `P2` [COCA 5000]
+
+### P3｜中频词（综合评分 30-49）
+
+- [ ] **accounting**  `P3` [COCA 5000]
+- [ ] **acquisition** - n. 获得；习得  `P3` [COCA 5000]
+- [ ] **adoption** - n. 采纳；收养  `P3` [COCA 5000]
+- [ ] **allegation**  `P3` [COCA 5000]
+- [ ] **ankle**  `P3` [COCA 5000]
+- [ ] **announcement**  `P3` [COCA 5000]
+- [ ] **architecture**  `P3` [COCA 5000]
+- [ ] **astronomer**  `P3` [COCA 5000]
+- [ ] **attraction**  `P3` [COCA 5000]
+- [ ] **automatically**  `P3` [COCA 5000]
+- [ ] **await**  `P3` [COCA 5000]
+- [ ] **bacteria**  `P3` [COCA 5000]
+- [ ] **ballot**  `P3` [COCA 5000]
+- [ ] **banking**  `P3` [COCA 5000]
+- [ ] **basement**  `P3` [COCA 5000]
+- [ ] **bat**  `P3` [COCA 5000]
+- [ ] **bay**  `P3` [COCA 5000]
+- [ ] **beam**  `P3` [COCA 5000]
+- [ ] **behave**  `P3` [COCA 5000]
+- [ ] **belly**  `P3` [COCA 5000]
+- [ ] **blend**  `P3` [COCA 5000]
+- [ ] **blow**  `P3` [COCA 5000]
+- [ ] **blue**  `P3` [COCA 5000]
+- [ ] **bold**  `P3` [COCA 5000]
+- [ ] **boost**  `P3` [COCA 5000]
+- [ ] **bounce**  `P3` [COCA 5000]
+- [ ] **burst**  `P3` [COCA 5000]
+- [ ] **businessman**  `P3` [COCA 5000]
+- [ ] **cattle**  `P3` [COCA 5000]
+- [ ] **chin**  `P3` [COCA 5000]
+- [ ] **chop**  `P3` [COCA 5000]
+- [ ] **clerk**  `P3` [COCA 5000]
+- [ ] **click**  `P3` [COCA 5000]
+- [ ] **cloth**  `P3` [COCA 5000]
+- [ ] **cold**  `P3` [COCA 5000]
+- [ ] **colony**  `P3` [COCA 5000]
+- [ ] **companion**  `P3` [COCA 5000]
+- [ ] **compensation**  `P3` [COCA 5000]
+- [ ] **complexity**  `P3` [COCA 5000]
+- [ ] **confess**  `P3` [COCA 5000]
+- [ ] **contend**  `P3` [COCA 5000]
+- [ ] **contractor**  `P3` [COCA 5000]
+- [ ] **corridor**  `P3` [COCA 5000]
+- [ ] **corruption**  `P3` [COCA 5000]
+- [ ] **counterpart**  `P3` [COCA 5000]
+- [ ] **crawl**  `P3` [COCA 5000]
+- [ ] **crystal**  `P3` [COCA 5000]
+- [ ] **currency**  `P3` [COCA 5000]
+- [ ] **database**  `P3` [COCA 5000]
+- [ ] **departure**  `P3` [COCA 5000]
+- [ ] **detective**  `P3` [COCA 5000]
+- [ ] **developer**  `P3` [COCA 5000]
+- [ ] **diagnosis**  `P3` [COCA 5000]
+- [ ] **donor**  `P3` [COCA 5000]
+- [ ] **dose**  `P3` [COCA 5000]
+- [ ] **drain**  `P3` [COCA 5000]
+- [ ] **drift**  `P3` [COCA 5000]
+- [ ] **dump**  `P3` [COCA 5000]
+- [ ] **elevator**  `P3` [COCA 5000]
+- [ ] **engagement**  `P3` [COCA 5000]
+- [ ] **exit**  `P3` [COCA 5000]
+- [ ] **expertise**  `P3` [COCA 5000]
+- [ ] **fluid**  `P3` [COCA 5000]
+- [ ] **forehead**  `P3` [COCA 5000]
+- [ ] **format**  `P3` [COCA 5000]
+- [ ] **freshman**  `P3` [COCA 5000]
+- [ ] **grace**  `P3` [COCA 5000]
+- [ ] **gravity**  `P3` [COCA 5000]
+- [ ] **greet**  `P3` [COCA 5000]
+- [ ] **grip**  `P3` [COCA 5000]
+- [ ] **guilt**  `P3` [COCA 5000]
+- [ ] **handsome**  `P3` [COCA 5000]
+- [ ] **hay**  `P3` [COCA 5000]
+- [ ] **hint**  `P3` [COCA 5000]
+- [ ] **hug**  `P3` [COCA 5000]
+- [ ] **implementation**  `P3` [COCA 5000]
+- [ ] **indicator**  `P3` [COCA 5000]
+- [ ] **inspector**  `P3` [COCA 5000]
+- [ ] **integration**  `P3` [COCA 5000]
+- [ ] **landing**  `P3` [COCA 5000]
+- [ ] **leap**  `P3` [COCA 5000]
+- [ ] **legislative**  `P3` [COCA 5000]
+- [ ] **lens**  `P3` [COCA 5000]
+- [ ] **liberty**  `P3` [COCA 5000]
+- [ ] **limb**  `P3` [COCA 5000]
+- [ ] **lobby**  `P3` [COCA 5000]
+- [ ] **missing**  `P3` [COCA 5000]
+- [ ] **monster**  `P3` [COCA 5000]
+- [ ] **nail**  `P3` [COCA 5000]
+- [ ] **nightmare**  `P3` [COCA 5000]
+- [ ] **olympics**  `P3` [COCA 5000]
+- [ ] **pad**  `P3` [COCA 5000]
+- [ ] **parade**  `P3` [COCA 5000]
+- [ ] **pitch**  `P3` [COCA 5000]
+- [ ] **pop**  `P3` [COCA 5000]
+- [ ] **prediction**  `P3` [COCA 5000]
+- [ ] **pursuit**  `P3` [COCA 5000]
+- [ ] **questionnaire**  `P3` [COCA 5000]
+- [ ] **racism**  `P3` [COCA 5000]
+- [ ] **realm**  `P3` [COCA 5000]
+- [ ] **rebel**  `P3` [COCA 5000]
+- [ ] **relieve**  `P3` [COCA 5000]
+- [ ] **respectively**  `P3` [COCA 5000]
+- [ ] **resume**  `P3` [COCA 5000]
+- [ ] **rider**  `P3` [COCA 5000]
+- [ ] **rip**  `P3` [COCA 5000]
+- [ ] **scare**  `P3` [COCA 5000]
+- [ ] **scatter**  `P3` [COCA 5000]
+- [ ] **separation**  `P3` [COCA 5000]
+- [ ] **shuttle**  `P3` [COCA 5000]
+- [ ] **southeast**  `P3` [COCA 5000]
+- [ ] **southwest**  `P3` [COCA 5000]
+- [ ] **spill**  `P3` [COCA 5000]
+- [ ] **spouse**  `P3` [COCA 5000]
+- [ ] **starter**  `P3` [COCA 5000]
+- [ ] **suck**  `P3` [COCA 5000]
+- [ ] **supervisor**  `P3` [COCA 5000]
+- [ ] **timing**  `P3` [COCA 5000]
+- [ ] **trail**  `P3` [COCA 5000]
+- [ ] **trunk**  `P3` [COCA 5000]
+- [ ] **uncertainty**  `P3` [COCA 5000]
+- [ ] **wilderness**  `P3` [COCA 5000]
+- [ ] **ideology** - n. 意识形态  `P3` [COCA 5000]
+- [x] **abolish** - v. 废除  `P3`
+- [x] **abstract** - adj./n./v. 抽象的；摘要；提取  `P3` [COCA 5000]
+- [x] **abundant** - adj. 丰富的  `P3`
+- [ ] **accordance** - n. 一致；符合  `P3`
+- [x] **accumulate** - v. 积累  `P3`
+- [x] **accustom** - v. 使习惯  `P3`
+- [x] **acute** - adj. 严重的；敏锐的  `P3`
+- [x] **addict** - n. 上瘾者 v. 使沉迷  `P3`
+- [x] **advertise** - v. 做广告  `P3`
+- [x] **affection** - n. 喜爱；感情  `P3`
+- [x] **alert** - adj./v./n. 警觉的；提醒；警报  `P3`
+- [ ] **allege** - v. 宣称；断言  `P3`
+- [x] **allowance** - n. 津贴；限额  `P3`
+- [x] **amaze** - v. 使惊讶  `P3`
+- [ ] **appliance** - n. 电器；器具  `P3`
+- [x] **applicable** - adj. 适用的  `P3`
+- [x] **approximate** - adj./v. 大约的；接近  `P3`
+- [x] **arbitrary** - adj. 任意的；武断的  `P3`
+- [x] **assurance** - n. 保证；信心  `P3`
+- [x] **attain** - v. 获得；达到  `P3`
+- [x] **authentic** - adj. 真实的；可靠的  `P3`
+- [x] **bankrupt** - adj./v. 破产的；使破产  `P3`
+- [x] **breakthrough** - n. 突破  `P3`
+- [x] **breed** - v./n. 繁殖；品种  `P3`
+- [x] **calorie** - n. 卡路里  `P3`
+- [x] **capitalism** - n. 资本主义  `P3`
+- [x] **cater** - v. 迎合；提供饮食  `P3`
+- [x] **caution** - n./v. 谨慎；警告  `P3`
+- [x] **circulation** - n. 流通；循环；发行量  `P3`
+- [x] **clarify** - v. 澄清；阐明  `P3`
+- [ ] **clash** - n./v. 冲突  `P3`
+- [x] **clumsy** - adj. 笨拙的  `P3`
+- [x] **coherent** - adj. 连贯的；一致的  `P3`
+- [x] **collaborate** - v. 合作  `P3`
+- [x] **commence** - v. 开始  `P3`
+- [x] **commonplace** - adj./n. 普通的；平常事  `P3`
+- [x] **compensate** - v. 补偿  `P3`
+- [x] **competent** - adj. 胜任的  `P3`
+- [ ] **condemn** - v. 谴责；判刑  `P3` [COCA 5000]
+- [x] **dissolve** - v. 溶解；解散  `P3` [COCA 5000]
+- [x] **output** - n. 输出；产量  `P3` [COCA 5000]
+- [x] **outstanding** - adj. 杰出的；显著的  `P3` [COCA 5000]
+- [x] **productivity** - n. 生产力；生产率  `P3` [COCA 5000]
+- [x] **shortage** - n. 短缺；不足  `P3` [COCA 5000]
+- [x] **tolerate** - v. 容忍；忍受  `P3` [COCA 5000]
+- [x] **practice** - n./v. 练习；实践  `P3` [COCA 5000]
+- [x] **install** - v. 安装；任命  `P3` [COCA 5000]
+- [ ] **assault**  `P3` [COCA 5000]
+- [ ] **celebrity**  `P3` [COCA 5000]
+- [ ] **chamber**  `P3` [COCA 5000]
+- [x] **conceive** - v. 设想；怀孕  `P3` [COCA 5000]
+- [ ] **disclose** - v. 揭露；透露  `P3` [COCA 5000]
+- [ ] **garlic**  `P3` [COCA 5000]
+- [ ] **incorporate**  `P3` [COCA 5000]
+- [ ] **lawsuit**  `P3` [COCA 5000]
+- [ ] **pant**  `P3` [COCA 5000]
+- [ ] **profile**  `P3` [COCA 5000]
+- [ ] **scenario**  `P3` [COCA 5000]
+- [ ] **snap**  `P3` [COCA 5000]
+- [ ] **testify**  `P3` [COCA 5000]
+- [ ] **testimony**  `P3` [COCA 5000]
+- [ ] **tournament**  `P3` [COCA 5000]
+- [ ] **tribe**  `P3` [COCA 5000]
+- [ ] **plunge** - v./n. 暴跌；投入  `P3` [COCA 5000]
+- [ ] **prevail** - v. 盛行；获胜  `P3` [COCA 5000]
+- [x] **provoke** - v. 激起；挑衅  `P3` [COCA 5000]
+- [x] **rational** - adj. 理性的  `P3` [COCA 5000]
+- [x] **soar** - v. 猛增；高飞  `P3` [COCA 5000]
+- [ ] **specify** - v. 明确说明  `P3` [COCA 5000]
+- [x] **strain** - n./v. 压力；拉伤；拉紧  `P3` [COCA 5000]
+- [x] **suspicious** - adj. 怀疑的；可疑的  `P3` [COCA 5000]
+- [x] **tolerance** - n. 容忍；耐受性  `P3` [COCA 5000]
+- [x] **transmit** - v. 传输；传播  `P3` [COCA 5000]
+- [x] **transport** - n./v. 运输  `P3` [COCA 5000]
+- [x] **valid** - adj. 有效的；合理的  `P3` [COCA 5000]
+- [x] **validity** - n. 有效性  `P3` [COCA 5000]
+- [x] **voluntary** - adj. 自愿的  `P3` [COCA 5000]
+- [x] **yield** - v./n. 产生；让步；产量  `P3` [COCA 5000]
+- [ ] **condense** - v. 压缩；凝结  `P3`
+- [x] **conform** - v. 遵守；符合  `P3`
+- [ ] **conscientious** - adj. 认真的；尽责的  `P3`
+- [x] **consolidate** - v. 巩固；合并  `P3`
+- [x] **contaminate** - v. 污染  `P3`
+- [x] **convenient** - adj. 方便的  `P3`
+- [x] **correspond** - v. 符合；通信  `P3`
+- [x] **criterion** - n. 标准  `P3`
+- [ ] **curb** - v./n. 控制；路缘  `P3`
+- [x] **decay** - v./n. 衰退；腐烂  `P3`
+- [x] **defect** - n. 缺陷 v. 叛逃  `P3`
+- [x] **deficiency** - n. 缺乏；不足  `P3`
+- [ ] **defy** - v. 反抗；违抗  `P3`
+- [x] **deliberate** - adj./v. 故意的；仔细考虑  `P3`
+- [x] **deprive** - v. 剥夺  `P3`
+- [x] **destructive** - adj. 破坏性的  `P3`
+- [ ] **deteriorate** - v. 恶化  `P3`
+- [ ] **devise** - v. 设计；想出  `P3`
+- [x] **dim** - adj./v. 昏暗的；变暗  `P3`
+- [x] **disastrous** - adj. 灾难性的  `P3`
+- [x] **discard** - v. 丢弃  `P3`
+- [x] **disguise** - v./n. 伪装  `P3`
+- [x] **dispose** - v. 处理；安排  `P3`
+- [x] **disrupt** - v. 扰乱；中断  `P3`
+- [x] **drastic** - adj. 激烈的；极端的  `P3`
+- [x] **duration** - n. 持续时间  `P3`
+- [x] **ecology** - n. 生态学  `P3`
+- [x] **endanger** - v. 危及  `P3`
+- [x] **enhancement** - n. 增强；提高  `P3`
+- [x] **enrich** - v. 使丰富  `P3`
+- [x] **enthusiastic** - adj. 热情的  `P3`
+- [ ] **erroneous** - adj. 错误的  `P3`
+- [x] **eternal** - adj. 永恒的  `P3`
+- [x] **exaggerate** - v. 夸大  `P3`
+- [ ] **exemplify** - v. 例证；体现  `P3`
+- [x] **excel** - v. 擅长；胜过  `P3`
+- [x] **exceptional** - adj. 异常的；杰出的  `P3`
+- [ ] **exert** - v. 施加；努力运用  `P3`
+- [ ] **feasible** - adj. 可行的  `P3`
+- [x] **random** - adj. 随机的  `P3` [COCA 5000]
+- [ ] **articulate** - v./adj. 清楚表达；表达清楚的  `P3` [COCA 5000]
+- [ ] **cemetery** - n. 墓地  `P3` [COCA 5000]
+- [x] **apologize** - v. 道歉  `P3` [COCA 5000]
+- [x] **statistics** - n. 统计；统计学  `P3` [COCA 5000]
+- [ ] **accent** - n. 口音；重音  `P3` [COCA 5000]
+- [ ] **accomplishment** - n. 成就；才艺  `P3` [COCA 5000]
+- [ ] **accuracy** - n. 准确；精确度  `P3` [COCA 5000]
+- [ ] **alleged**  `P3` [COCA 5000]
+- [ ] **alley**  `P3` [COCA 5000]
+- [ ] **alongside**  `P3` [COCA 5000]
+- [ ] **ambition**  `P3` [COCA 5000]
+- [ ] **ancestor**  `P3` [COCA 5000]
+- [ ] **angel**  `P3` [COCA 5000]
+- [ ] **appreciation**  `P3` [COCA 5000]
+- [ ] **ass**  `P3` [COCA 5000]
+- [ ] **assembly**  `P3` [COCA 5000]
+- [ ] **attendance**  `P3` [COCA 5000]
+- [ ] **backyard**  `P3` [COCA 5000]
+- [ ] **banker**  `P3` [COCA 5000]
+- [ ] **bankruptcy**  `P3` [COCA 5000]
+- [ ] **beast**  `P3` [COCA 5000]
+- [ ] **behalf**  `P3` [COCA 5000]
+- [ ] **bet**  `P3` [COCA 5000]
+- [ ] **bid**  `P3` [COCA 5000]
+- [ ] **bless**  `P3` [COCA 5000]
+- [ ] **boil**  `P3` [COCA 5000]
+- [ ] **bonus**  `P3` [COCA 5000]
+- [ ] **booth**  `P3` [COCA 5000]
+- [ ] **breeze**  `P3` [COCA 5000]
+- [ ] **broker**  `P3` [COCA 5000]
+- [ ] **bubble**  `P3` [COCA 5000]
+- [ ] **buddy**  `P3` [COCA 5000]
+- [ ] **bug**  `P3` [COCA 5000]
+- [ ] **bull**  `P3` [COCA 5000]
+- [ ] **bureau**  `P3` [COCA 5000]
+- [ ] **bush**  `P3` [COCA 5000]
+- [ ] **cab**  `P3` [COCA 5000]
+- [ ] **cage**  `P3` [COCA 5000]
+- [ ] **cartoon**  `P3` [COCA 5000]
+- [ ] **cast**  `P3` [COCA 5000]
+- [ ] **charter**  `P3` [COCA 5000]
+- [ ] **cheat**  `P3` [COCA 5000]
+- [ ] **christianity**  `P3` [COCA 5000]
+- [ ] **circuit**  `P3` [COCA 5000]
+- [ ] **cliff**  `P3` [COCA 5000]
+- [ ] **clip**  `P3` [COCA 5000]
+- [ ] **collaboration**  `P3` [COCA 5000]
+- [ ] **columnist**  `P3` [COCA 5000]
+- [ ] **command**  `P3` [COCA 5000]
+- [ ] **consent**  `P3` [COCA 5000]
+- [ ] **cooperative**  `P3` [COCA 5000]
+- [ ] **coordinator**  `P3` [COCA 5000]
+- [ ] **cord**  `P3` [COCA 5000]
+- [ ] **costly**  `P3` [COCA 5000]
+- [ ] **costume**  `P3` [COCA 5000]
+- [ ] **counter**  `P3` [COCA 5000]
+- [ ] **credit**  `P3` [COCA 5000]
+- [ ] **crush**  `P3` [COCA 5000]
+- [ ] **cute**  `P3` [COCA 5000]
+- [ ] **dam**  `P3` [COCA 5000]
+- [ ] **damn**  `P3` [COCA 5000]
+- [ ] **dawn**  `P3` [COCA 5000]
+- [ ] **deadline**  `P3` [COCA 5000]
+- [ ] **decorate**  `P3` [COCA 5000]
+- [ ] **defeat**  `P3` [COCA 5000]
+- [ ] **dessert**  `P3` [COCA 5000]
+- [ ] **diabetes**  `P3` [COCA 5000]
+- [ ] **dignity**  `P3` [COCA 5000]
+- [ ] **discourage**  `P3` [COCA 5000]
+- [ ] **divorce**  `P3` [COCA 5000]
+- [ ] **documentary**  `P3` [COCA 5000]
+- [ ] **dynamics**  `P3` [COCA 5000]
+- [ ] **ease**  `P3` [COCA 5000]
+- [ ] **ecological**  `P3` [COCA 5000]
+- [ ] **edit**  `P3` [COCA 5000]
+- [ ] **encouraging**  `P3` [COCA 5000]
+- [ ] **entrepreneur**  `P3` [COCA 5000]
+- [ ] **equip**  `P3` [COCA 5000]
+- [ ] **execution**  `P3` [COCA 5000]
+- [ ] **experienced**  `P3` [COCA 5000]
+- [ ] **extended**  `P3` [COCA 5000]
+- [ ] **filter**  `P3` [COCA 5000]
+- [ ] **fisherman**  `P3` [COCA 5000]
+- [ ] **flash**  `P3` [COCA 5000]
+- [ ] **fleet**  `P3` [COCA 5000]
+- [ ] **flexibility**  `P3` [COCA 5000]
+- [ ] **frontier**  `P3` [COCA 5000]
+- [ ] **functional**  `P3` [COCA 5000]
+- [ ] **gathering**  `P3` [COCA 5000]
+- [ ] **gaze**  `P3` [COCA 5000]
+- [ ] **genius**  `P3` [COCA 5000]
+- [ ] **glory**  `P3` [COCA 5000]
+- [ ] **grasp**  `P3` [COCA 5000]
+- [ ] **grief**  `P3` [COCA 5000]
+- [ ] **gut**  `P3` [COCA 5000]
+- [ ] **haul**  `P3` [COCA 5000]
+- [ ] **heal**  `P3` [COCA 5000]
+- [ ] **homeland**  `P3` [COCA 5000]
+- [ ] **incredibly**  `P3` [COCA 5000]
+- [ ] **input**  `P3` [COCA 5000]
+- [ ] **instinct**  `P3` [COCA 5000]
+- [ ] **instruct**  `P3` [COCA 5000]
+- [ ] **intent**  `P3` [COCA 5000]
+- [ ] **irony**  `P3` [COCA 5000]
+- [ ] **isolation**  `P3` [COCA 5000]
+- [ ] **jaw**  `P3` [COCA 5000]
+- [ ] **juror**  `P3` [COCA 5000]
+- [ ] **kit**  `P3` [COCA 5000]
+- [ ] **lane**  `P3` [COCA 5000]
+- [ ] **loyalty**  `P3` [COCA 5000]
+- [ ] **mate**  `P3` [COCA 5000]
+- [ ] **mechanic**  `P3` [COCA 5000]
+- [ ] **northeast**  `P3` [COCA 5000]
+- [ ] **o'clock**  `P3` [COCA 5000]
+- [ ] **offering**  `P3` [COCA 5000]
+- [ ] **organism**  `P3` [COCA 5000]
+- [ ] **oversee**  `P3` [COCA 5000]
+- [ ] **partially**  `P3` [COCA 5000]
+- [ ] **performer**  `P3` [COCA 5000]
+- [ ] **persist**  `P3` [COCA 5000]
+- [ ] **photography**  `P3` [COCA 5000]
+- [ ] **placement**  `P3` [COCA 5000]
+- [ ] **popularity**  `P3` [COCA 5000]
+- [ ] **pork**  `P3` [COCA 5000]
+- [ ] **punch**  `P3` [COCA 5000]
+- [ ] **rack**  `P3` [COCA 5000]
+- [ ] **revelation**  `P3` [COCA 5000]
+- [ ] **ridiculous**  `P3` [COCA 5000]
+- [ ] **romance**  `P3` [COCA 5000]
+- [ ] **ruling**  `P3` [COCA 5000]
+- [ ] **scan**  `P3` [COCA 5000]
+- [ ] **scary**  `P3` [COCA 5000]
+- [ ] **seal**  `P3` [COCA 5000]
+- [ ] **sensitivity**  `P3` [COCA 5000]
+- [ ] **sexy**  `P3` [COCA 5000]
+- [ ] **shed**  `P3` [COCA 5000]
+- [ ] **sheep**  `P3` [COCA 5000]
+- [ ] **shrimp**  `P3` [COCA 5000]
+- [ ] **slap**  `P3` [COCA 5000]
+- [ ] **speculation**  `P3` [COCA 5000]
+- [ ] **spite**  `P3` [COCA 5000]
+- [ ] **stem**  `P3` [COCA 5000]
+- [ ] **supplier**  `P3` [COCA 5000]
+- [ ] **swimming**  `P3` [COCA 5000]
+- [ ] **tag**  `P3` [COCA 5000]
+- [ ] **trace**  `P3` [COCA 5000]
+- [ ] **trailer**  `P3` [COCA 5000]
+- [ ] **uncover**  `P3` [COCA 5000]
+- [ ] **unite**  `P3` [COCA 5000]
+- [ ] **whip**  `P3` [COCA 5000]
+- [ ] **withdrawal**  `P3` [COCA 5000]
+- [ ] **workout**  `P3` [COCA 5000]
+- [x] **foster** - v. 促进；培养 adj. 收养的  `P3` [COCA 5000]
+- [ ] **momentum** - n. 动力；势头  `P3` [COCA 5000]
+- [ ] **accountability** - n. 问责；责任  `P3` [COCA 5000]
+- [x] **deposit** - n./v. 存款；押金；存放  `P3` [COCA 5000]
+- [x] **liberal** - adj. 自由的；开明的；慷慨的  `P3` [COCA 5000]
+- [x] **sustainable** - adj. 可持续的  `P3` [COCA 5000]
+- [ ] **aide**  `P3` [COCA 5000]
+- [ ] **cognitive**  `P3` [COCA 5000]
+- [ ] **galaxy**  `P3` [COCA 5000]
+- [ ] **porch**  `P3` [COCA 5000]
+- [ ] **sanction**  `P3` [COCA 5000]
+- [x] **flaw** - n. 缺陷  `P3`
+- [ ] **fluctuate** - v. 波动  `P3`
+- [x] **formulate** - v. 制定；构想  `P3`
+- [x] **furnish** - v. 提供；布置家具  `P3`
+- [ ] **gloomy** - adj. 阴暗的；沮丧的  `P3`
+- [x] **halt** - v./n. 停止  `P3`
+- [x] **hinder** - v. 阻碍  `P3`
+- [x] **hospitality** - n. 好客；款待  `P3`
+- [x] **humble** - adj. 谦逊的；卑微的  `P3`
+- [x] **ignorance** - n. 无知  `P3`
+- [x] **immense** - adj. 巨大的  `P3`
+- [x] **implicit** - adj. 含蓄的；内含的  `P3`
+- [ ] **incline** - v. 倾向；倾斜  `P3`
+- [x] **inclusive** - adj. 包含的；包容的  `P3`
+- [x] **induce** - v. 引起；劝诱  `P3`
+- [x] **infer** - v. 推断  `P3`
+- [x] **literacy** - n. 读写能力  `P3`
+- [x] **manufacture** - v./n. 制造  `P3`
+- [x] **marginal** - adj. 边缘的；微小的  `P3`
+- [x] **migrate** - v. 迁移；移居  `P3`
+- [ ] **necessitate** - v. 使成为必要  `P3`
+- [x] **neglect** - v./n. 忽视  `P3`
+- [x] **originate** - v. 起源；发起  `P3`
+- [ ] **paradox** - n. 悖论  `P3`
+- [x] **persistent** - adj. 持续的；坚持的  `P3`
+- [x] **pessimistic** - adj. 悲观的  `P3`
+- [x] **pledge** - n./v. 保证；誓言  `P3`
+- [ ] **bishop**  `P3` [COCA 5000]
+- [ ] **catholic**  `P3` [COCA 5000]
+- [ ] **cluster**  `P3` [COCA 5000]
+- [ ] **conviction**  `P3` [COCA 5000]
+- [ ] **depict**  `P3` [COCA 5000]
+- [x] **expedition** - n. 远征；考察  `P3` [COCA 5000]
+- [ ] **hypothesis**  `P3` [COCA 5000]
+- [ ] **legacy**  `P3` [COCA 5000]
+- [ ] **medication**  `P3` [COCA 5000]
+- [ ] **nomination**  `P3` [COCA 5000]
+- [ ] **rape**  `P3` [COCA 5000]
+- [ ] **sacred**  `P3` [COCA 5000]
+- [ ] **salmon**  `P3` [COCA 5000]
+- [ ] **slam**  `P3` [COCA 5000]
+- [ ] **sue**  `P3` [COCA 5000]
+- [ ] **tactic**  `P3` [COCA 5000]
+- [x] **civilization** - n. 文明  `P3` [COCA 5000]
+- [x] **enroll** - v. 注册；入学  `P3` [COCA 5000]
+- [ ] **subsidy** - n. 补贴  `P3` [COCA 5000]
+- [ ] **toxic** - adj. 有毒的  `P3` [COCA 5000]
+- [ ] **accusation** - n. 控告；指控  `P3` [COCA 5000]
+- [ ] **aggression**  `P3` [COCA 5000]
+- [ ] **aisle**  `P3` [COCA 5000]
+- [ ] **allegedly**  `P3` [COCA 5000]
+- [ ] **ambassador**  `P3` [COCA 5000]
+- [ ] **apology**  `P3` [COCA 5000]
+- [ ] **arrow**  `P3` [COCA 5000]
+- [ ] **ash**  `P3` [COCA 5000]
+- [ ] **atop**  `P3` [COCA 5000]
+- [ ] **availability**  `P3` [COCA 5000]
+- [ ] **beard**  `P3` [COCA 5000]
+- [ ] **blast**  `P3` [COCA 5000]
+- [ ] **blessing**  `P3` [COCA 5000]
+- [ ] **boast**  `P3` [COCA 5000]
+- [ ] **bolt**  `P3` [COCA 5000]
+- [ ] **bomb**  `P3` [COCA 5000]
+- [ ] **bow**  `P3` [COCA 5000]
+- [ ] **brake**  `P3` [COCA 5000]
+- [ ] **bride**  `P3` [COCA 5000]
+- [ ] **broadcast**  `P3` [COCA 5000]
+- [ ] **bulb**  `P3` [COCA 5000]
+- [ ] **butterfly**  `P3` [COCA 5000]
+- [ ] **calculation**  `P3` [COCA 5000]
+- [ ] **calendar**  `P3` [COCA 5000]
+- [ ] **cargo**  `P3` [COCA 5000]
+- [ ] **cease**  `P3` [COCA 5000]
+- [ ] **charm**  `P3` [COCA 5000]
+- [ ] **cheer**  `P3` [COCA 5000]
+- [ ] **chemistry**  `P3` [COCA 5000]
+- [ ] **chew**  `P3` [COCA 5000]
+- [ ] **chill**  `P3` [COCA 5000]
+- [ ] **citizenship**  `P3` [COCA 5000]
+- [ ] **clay**  `P3` [COCA 5000]
+- [ ] **cling**  `P3` [COCA 5000]
+- [ ] **compelling**  `P3` [COCA 5000]
+- [ ] **comply**  `P3` [COCA 5000]
+- [ ] **compliance**  `P3` [COCA 5000]
+- [ ] **compromise**  `P3` [COCA 5000]
+- [ ] **confession**  `P3` [COCA 5000]
+- [ ] **confrontation**  `P3` [COCA 5000]
+- [ ] **conscience**  `P3` [COCA 5000]
+- [ ] **constitution**  `P3` [COCA 5000]
+- [ ] **contributor**  `P3` [COCA 5000]
+- [ ] **convenience**  `P3` [COCA 5000]
+- [ ] **conversion**  `P3` [COCA 5000]
+- [ ] **cottage**  `P3` [COCA 5000]
+- [ ] **crowded**  `P3` [COCA 5000]
+- [ ] **cruise**  `P3` [COCA 5000]
+- [ ] **cue**  `P3` [COCA 5000]
+- [ ] **curiosity**  `P3` [COCA 5000]
+- [ ] **deem**  `P3` [COCA 5000]
+- [ ] **dense**  `P3` [COCA 5000]
+- [ ] **density**  `P3` [COCA 5000]
+- [ ] **denial**  `P3` [COCA 5000]
+- [ ] **depart**  `P3` [COCA 5000]
+- [ ] **developmental**  `P3` [COCA 5000]
+- [ ] **devil**  `P3` [COCA 5000]
+- [ ] **dying**  `P3` [COCA 5000]
+- [ ] **dip**  `P3` [COCA 5000]
+- [ ] **diplomat**  `P3` [COCA 5000]
+- [ ] **discount**  `P3` [COCA 5000]
+- [ ] **disturb**  `P3` [COCA 5000]
+- [ ] **dock**  `P3` [COCA 5000]
+- [ ] **drill**  `P3` [COCA 5000]
+- [ ] **drown**  `P3` [COCA 5000]
+- [ ] **dumb**  `P3` [COCA 5000]
+- [ ] **electronics**  `P3` [COCA 5000]
+- [ ] **equality**  `P3` [COCA 5000]
+- [ ] **fare**  `P3` [COCA 5000]
+- [ ] **fatigue**  `P3` [COCA 5000]
+- [ ] **forbid**  `P3` [COCA 5000]
+- [ ] **foreigner**  `P3` [COCA 5000]
+- [ ] **fraction**  `P3` [COCA 5000]
+- [ ] **fragment**  `P3` [COCA 5000]
+- [ ] **glimpse**  `P3` [COCA 5000]
+- [ ] **graduation**  `P3` [COCA 5000]
+- [ ] **grape**  `P3` [COCA 5000]
+- [ ] **grin**  `P3` [COCA 5000]
+- [ ] **halfway**  `P3` [COCA 5000]
+- [ ] **harmony**  `P3` [COCA 5000]
+- [ ] **high-tech**  `P3` [COCA 5000]
+- [ ] **impulse**  `P3` [COCA 5000]
+- [ ] **inherit**  `P3` [COCA 5000]
+- [ ] **intact**  `P3` [COCA 5000]
+- [ ] **interval**  `P3` [COCA 5000]
+- [ ] **invade**  `P3` [COCA 5000]
+- [ ] **ironically**  `P3` [COCA 5000]
+- [ ] **journalism**  `P3` [COCA 5000]
+- [ ] **kneel**  `P3` [COCA 5000]
+- [ ] **legislator**  `P3` [COCA 5000]
+- [ ] **lighting**  `P3` [COCA 5000]
+- [ ] **liver**  `P3` [COCA 5000]
+- [ ] **middle-class**  `P3` [COCA 5000]
+- [ ] **nutrient**  `P3` [COCA 5000]
+- [ ] **objection**  `P3` [COCA 5000]
+- [ ] **offender**  `P3` [COCA 5000]
+- [ ] **old-fashioned**  `P3` [COCA 5000]
+- [ ] **opt**  `P3` [COCA 5000]
+- [ ] **overwhelm**  `P3` [COCA 5000]
+- [ ] **pat**  `P3` [COCA 5000]
+- [ ] **peanut**  `P3` [COCA 5000]
+- [ ] **pistol**  `P3` [COCA 5000]
+- [ ] **planner**  `P3` [COCA 5000]
+- [ ] **preach**  `P3` [COCA 5000]
+- [ ] **processor**  `P3` [COCA 5000]
+- [ ] **proclaim**  `P3` [COCA 5000]
+- [ ] **projection**  `P3` [COCA 5000]
+- [ ] **radar**  `P3` [COCA 5000]
+- [ ] **rally**  `P3` [COCA 5000]
+- [ ] **reckon** - v. 认为；估计  `P3`
+- [x] **refine** - v. 改进；提炼  `P3`
+- [ ] **regulator**  `P3` [COCA 5000]
+- [x] **renovate** - v. 翻新；修复  `P3`
+- [ ] **rental**  `P3` [COCA 5000]
+- [x] **reproduce** - v. 复制；繁殖  `P3`
+- [ ] **resent** - v. 愤恨  `P3`
+- [ ] **reside** - v. 居住；存在于  `P3`
+- [x] **respective** - adj. 各自的  `P3`
+- [ ] **retailer**  `P3` [COCA 5000]
+- [ ] **retention** - n. 保留；保持  `P3`
+- [ ] **retreat**  `P3` [COCA 5000]
+- [x] **revise** - v. 修改；复习  `P3`
+- [ ] **rib**  `P3` [COCA 5000]
+- [ ] **ribbon**  `P3` [COCA 5000]
+- [ ] **risky**  `P3` [COCA 5000]
+- [ ] **robot**  `P3` [COCA 5000]
+- [ ] **rod**  `P3` [COCA 5000]
+- [ ] **rubber**  `P3` [COCA 5000]
+- [ ] **running**  `P3` [COCA 5000]
+- [ ] **sack**  `P3` [COCA 5000]
+- [ ] **scent**  `P3` [COCA 5000]
+- [ ] **seminar**  `P3` [COCA 5000]
+- [x] **sensible** - adj. 明智的；合理的  `P3`
+- [ ] **sensor**  `P3` [COCA 5000]
+- [x] **setback** - n. 挫折  `P3`
+- [ ] **shorts**  `P3` [COCA 5000]
+- [ ] **shrink**  `P3` [COCA 5000]
+- [ ] **skip**  `P3` [COCA 5000]
+- [ ] **soak**  `P3` [COCA 5000]
+- [ ] **soften**  `P3` [COCA 5000]
+- [ ] **sometime**  `P3` [COCA 5000]
+- [ ] **spark**  `P3` [COCA 5000]
+- [ ] **speculate**  `P3` [COCA 5000]
+- [ ] **sphere**  `P3` [COCA 5000]
+- [ ] **spit**  `P3` [COCA 5000]
+- [ ] **sponsor**  `P3` [COCA 5000]
+- [x] **spontaneous** - adj. 自发的  `P3`
+- [ ] **stack**  `P3` [COCA 5000]
+- [ ] **standpoint** - n. 立场；观点  `P3`
+- [ ] **steer**  `P3` [COCA 5000]
+- [ ] **stimulus**  `P3` [COCA 5000]
+- [ ] **straighten**  `P3` [COCA 5000]
+- [x] **straightforward** - adj. 直截了当的  `P3`
+- [ ] **straw**  `P3` [COCA 5000]
+- [x] **tangible** - adj. 有形的；切实的  `P3`
+- [ ] **technician**  `P3` [COCA 5000]
+- [ ] **thanksgiving**  `P3` [COCA 5000]
+- [ ] **thrive**  `P3` [COCA 5000]
+- [ ] **tighten**  `P3` [COCA 5000]
+- [ ] **toll**  `P3` [COCA 5000]
+- [ ] **trainer**  `P3` [COCA 5000]
+- [ ] **transit**  `P3` [COCA 5000]
+- [x] **transparent** - adj. 透明的；清晰的  `P3`
+- [ ] **tray**  `P3` [COCA 5000]
+- [ ] **triumph**  `P3` [COCA 5000]
+- [ ] **undergraduate**  `P3` [COCA 5000]
+- [ ] **vacuum**  `P3` [COCA 5000]
+- [ ] **vendor**  `P3` [COCA 5000]
+- [x] **verify** - v. 核实；证明  `P3`
+- [ ] **warehouse**  `P3` [COCA 5000]
+- [ ] **weaken**  `P3` [COCA 5000]
+- [ ] **weave**  `P3` [COCA 5000]
+- [ ] **weed**  `P3` [COCA 5000]
+- [ ] **well-being**  `P3` [COCA 5000]
+- [ ] **widow**  `P3` [COCA 5000]
+- [x] **withstand** - v. 承受；抵抗  `P3`
+- [x] **worthwhile** - adj. 值得的  `P3`
+- [ ] **youngster**  `P3` [COCA 5000]
+- [x] **fragile** - adj. 脆弱的  `P3` [COCA 5000]
+- [ ] **amendment**  `P3` [COCA 5000]
+- [ ] **arena**  `P3` [COCA 5000]
+- [ ] **canvas**  `P3` [COCA 5000]
+- [ ] **carbohydrate**  `P3` [COCA 5000]
+- [ ] **carve**  `P3` [COCA 5000]
+- [ ] **closet**  `P3` [COCA 5000]
+- [ ] **convict**  `P3` [COCA 5000]
+- [ ] **correlation**  `P3` [COCA 5000]
+- [ ] **diminish**  `P3` [COCA 5000]
+- [ ] **domain**  `P3` [COCA 5000]
+- [ ] **endorse**  `P3` [COCA 5000]
+- [ ] **equity**  `P3` [COCA 5000]
+- [ ] **fiscal**  `P3` [COCA 5000]
+- [ ] **flip**  `P3` [COCA 5000]
+- [ ] **fraud**  `P3` [COCA 5000]
+- [ ] **herb**  `P3` [COCA 5000]
+- [ ] **indigenous**  `P3` [COCA 5000]
+- [ ] **judicial**  `P3` [COCA 5000]
+- [ ] **mandate**  `P3` [COCA 5000]
+- [ ] **metaphor**  `P3` [COCA 5000]
+- [ ] **peel**  `P3` [COCA 5000]
+- [ ] **plead**  `P3` [COCA 5000]
+- [ ] **portfolio**  `P3` [COCA 5000]
+- [ ] **prosecution**  `P3` [COCA 5000]
+- [ ] **rhetoric**  `P3` [COCA 5000]
+- [ ] **sodium**  `P3` [COCA 5000]
+- [ ] **spectrum**  `P3` [COCA 5000]
+- [ ] **trait**  `P3` [COCA 5000]
+- [x] **abnormal** - adj. 反常的  `P3`
+- [x] **abrupt** - adj. 突然的；粗鲁的  `P3`
+- [x] **absurd** - adj. 荒谬的  `P3`
+- [x] **accessory** - n. 附件；配件  `P3`
+- [x] **adhere** - v. 坚持；粘附  `P3`
+- [ ] **adjacent** - adj. 邻近的  `P3`
+- [x] **adverse** - adj. 不利的  `P3`
+- [ ] **aggravate** - v. 加重；恶化  `P3`
+- [ ] **aggregate** - n./v./adj. 总计；聚集  `P3`
+- [x] **allocate** - v. 分配  `P3`
+- [x] **ambiguous** - adj. 模棱两可的  `P3`
+- [ ] **amend** - v. 修改；修正  `P3`
+- [x] **analogy** - n. 类比  `P3`
+- [ ] **appendix** - n. 附录；阑尾  `P3`
+- [x] **autonomous** - adj. 自主的  `P3`
+- [ ] **baffle** - v. 使困惑  `P3`
+- [ ] **bureaucracy** - n. 官僚制度  `P3`
+- [x] **coincide** - v. 同时发生；一致  `P3`
+- [x] **compile** - v. 编纂；汇编  `P3`
+- [x] **complement** - v./n. 补充；补足物  `P3`
+- [x] **commerce** - n. 商业；贸易  `P3`
+- [x] **competence** - n. 能力；胜任  `P3`
+- [ ] **delegate** - n./v. 代表；委派  `P3`
+- [x] **disposal** - n. 处理；处置  `P3`
+- [x] **drought** - n. 干旱  `P3`
+- [x] **durable** - adj. 耐用的  `P3`
+- [x] **forecast** - n./v. 预测；预报  `P3`
+- [x] **luxury** - n. 奢侈（品）  `P3`
+- [x] **mature** - adj./v. 成熟的；成熟  `P3`
+- [x] **optional** - adj. 可选的  `P3`
+- [x] **outlook** - n. 观点；前景；展望  `P3`
+- [x] **substitute** - n./v. 代用品；替代  `P3`
+- [x] **thorough** - adj. 彻底的；完全的  `P3`
+- [x] **transparency** - n. 透明；透明度  `P3`
+- [x] **urgent** - adj. 紧急的  `P3`
+- [x] **vacant** - adj. 空的；空缺的  `P3`
+- [ ] **protocol** - n. 协议；礼仪  `P3` [COCA 5000]
+- [ ] **threshold** - n. 门槛；阈值  `P3` [COCA 5000]
+- [x] **project** - n./v. 项目；投射  `P3` [COCA 5000]
+- [ ] **concession** - n. 让步；特许权  `P3`
+- [x] **conserve** - v. 保护；节约  `P3`
+- [ ] **conspicuous** - adj. 显眼的  `P3`
+- [x] **constrain** - v. 限制；约束  `P3`
+- [x] **correlate** - v. 相关  `P3`
+- [x] **credible** - adj. 可信的  `P3`
+- [ ] **cumulative** - adj. 累积的  `P3`
+- [ ] **denote** - v. 表示；指代  `P3`
+- [ ] **detach** - v. 分离；派遣  `P3`
+- [x] **differentiate** - v. 区分  `P3`
+- [ ] **discrepancy** - n. 差异；不一致  `P3`
+- [ ] **disperse** - v. 分散；驱散  `P3`
+- [x] **distort** - v. 扭曲  `P3`
+- [ ] **divert** - v. 转移；使改道  `P3`
+- [ ] **dividend** - n. 红利；股息  `P3`
+- [ ] **duplicate** - v./adj./n. 复制；副本  `P3`
+- [ ] **eccentric** - adj. 古怪的  `P3`
+- [ ] **elastic** - adj. 有弹性的 n. 松紧带  `P3`
+- [ ] **eloquent** - adj. 雄辩的  `P3`
+- [x] **embody** - v. 体现；包含  `P3`
+- [ ] **empirical** - adj. 经验主义的；实证的  `P3`
+- [x] **enclose** - v. 围住；附上  `P3`
+- [x] **erode** - v. 侵蚀；削弱  `P3`
+- [x] **evoke** - v. 唤起；引发  `P3`
+- [x] **extinct** - adj. 灭绝的  `P3`
+- [x] **extract** - v./n. 提取；摘录  `P3`
+- [x] **authorize** - v. 授权；批准  `P3` [COCA 5000]
+- [ ] **anonymous**  `P3` [COCA 5000]
+- [ ] **barn**  `P3` [COCA 5000]
+- [ ] **casino**  `P3` [COCA 5000]
+- [ ] **civic**  `P3` [COCA 5000]
+- [ ] **cocaine**  `P3` [COCA 5000]
+- [ ] **concede**  `P3` [COCA 5000]
+- [ ] **conservation**  `P3` [COCA 5000]
+- [ ] **conspiracy**  `P3` [COCA 5000]
+- [ ] **credibility**  `P3` [COCA 5000]
+- [ ] **custody**  `P3` [COCA 5000]
+- [ ] **divine**  `P3` [COCA 5000]
+- [ ] **dough**  `P3` [COCA 5000]
+- [ ] **equation**  `P3` [COCA 5000]
+- [ ] **franchise**  `P3` [COCA 5000]
+- [ ] **helmet**  `P3` [COCA 5000]
+- [ ] **hockey**  `P3` [COCA 5000]
+- [ ] **hostage**  `P3` [COCA 5000]
+- [ ] **icon**  `P3` [COCA 5000]
+- [ ] **ideological**  `P3` [COCA 5000]
+- [ ] **inmate**  `P3` [COCA 5000]
+- [ ] **inventory**  `P3` [COCA 5000]
+- [ ] **loop**  `P3` [COCA 5000]
+- [ ] **magnitude**  `P3` [COCA 5000]
+- [ ] **midst**  `P3` [COCA 5000]
+- [ ] **nominee**  `P3` [COCA 5000]
+- [ ] **oak**  `P3` [COCA 5000]
+- [ ] **outfit**  `P3` [COCA 5000]
+- [ ] **patrol**  `P3` [COCA 5000]
+- [ ] **practitioner**  `P3` [COCA 5000]
+- [ ] **presumably**  `P3` [COCA 5000]
+- [ ] **quest**  `P3` [COCA 5000]
+- [ ] **ranch**  `P3` [COCA 5000]
+- [ ] **scramble**  `P3` [COCA 5000]
+- [ ] **secular**  `P3` [COCA 5000]
+- [ ] **sensation**  `P3` [COCA 5000]
+- [ ] **sentiment**  `P3` [COCA 5000]
+- [ ] **shove**  `P3` [COCA 5000]
+- [ ] **stance**  `P3` [COCA 5000]
+- [ ] **statute**  `P3` [COCA 5000]
+- [ ] **stumble**  `P3` [COCA 5000]
+- [ ] **syndrome**  `P3` [COCA 5000]
+- [ ] **texture**  `P3` [COCA 5000]
+- [ ] **thigh**  `P3` [COCA 5000]
+- [ ] **tuck**  `P3` [COCA 5000]
+- [ ] **vaccine**  `P3` [COCA 5000]
+- [ ] **verdict**  `P3` [COCA 5000]
+
+### P4｜低频/补充词（综合评分 < 30）
+
+- [ ] **epidemic** - n./adj. 流行病；流行的  `P4` [COCA 5000]
+- [ ] **aboard** - adv./prep. 在船/飞机/火车上  `P4`
+- [ ] **abolition** - n. 废除；废止  `P4`
+- [ ] **absorption** - n. 吸收；专心  `P4`
+- [ ] **abundance** - n. 丰富；充裕  `P4`
+- [ ] **abusive** - adj. 辱骂的；虐待的  `P4`
+- [ ] **academy**  `P4`
+- [ ] **academician** - n. 院士；学会会员  `P4`
+- [ ] **acceleration** - n. 加速；加速度  `P4`
+- [ ] **accidental** - adj. 偶然的；意外的  `P4`
+- [ ] **accommodation** - n. 住宿；膳宿  `P4`
+- [ ] **accord** - n./v. 一致；协议；给予  `P4`
+- [ ] **according to**  `P4`
+- [ ] **accountant** - n. 会计；会计师  `P4`
+- [ ] **accountancy**  `P4`
+- [ ] **accountable**  `P4`
+- [ ] **accumulation** - n. 积累；堆积  `P4`
+- [ ] **accumulative**  `P4`
+- [ ] **accustomed** - adj. 习惯的  `P4`
+- [ ] **ace**  `P4`
+- [ ] **ache** - n./v. 疼痛  `P4`
+- [ ] **acidity**  `P4`
+- [ ] **acknowledgement**  `P4`
+- [ ] **acquaint**  `P4`
+- [ ] **acquaintance** - n. 熟人；了解  `P4`
+- [ ] **acre** - n. 英亩  `P4`
+- [ ] **acting**  `P4`
+- [ ] **adaptation** - n. 适应；改编  `P4`
+- [ ] **adaptive**  `P4`
+- [ ] **addiction**  `P4`
+- [ ] **addictive** - adj. 上瘾的  `P4`
+- [ ] **adequacy** - n. 足够；适当  `P4`
+- [ ] **adequately**  `P4`
+- [ ] **adjective** - n. 形容词  `P4`
+- [ ] **administer/administrate**  `P4`
+- [ ] **admiration** - n. 钦佩；赞赏  `P4`
+- [ ] **admirable** - adj. 令人钦佩的  `P4`
+- [ ] **admittance**  `P4`
+- [ ] **admittedly** - adv. 诚然；公认地  `P4`
+- [ ] **adulthood**  `P4`
+- [ ] **advancement** - n. 前进；进步  `P4`
+- [ ] **advantageous**  `P4`
+- [ ] **adventurer**  `P4`
+- [ ] **adventurous**  `P4`
+- [ ] **adverb** - n. 副词  `P4`
+- [ ] **advertisement/ad**  `P4`
+- [ ] **advisor/adviser**  `P4`
+- [ ] **advisory**  `P4`
+- [ ] **advocacy**  `P4`
+- [ ] **aerial** - adj./n. 空中的；天线  `P4`
+- [ ] **affectionate**  `P4`
+- [ ] **affluent**  `P4`
+- [ ] **affluence**  `P4`
+- [ ] **affordable**  `P4`
+- [ ] **affordability**  `P4`
+- [ ] **afterward/afterwards**  `P4`
+- [ ] **aged**  `P4`
+- [ ] **aging/ageing**  `P4`
+- [ ] **agreeable**  `P4`
+- [ ] **air-conditioning**  `P4`
+- [ ] **air-conditioner**  `P4`
+- [ ] **airplane/aeroplane**  `P4`
+- [ ] **alcoholic**  `P4`
+- [ ] **algebra**  `P4`
+- [ ] **aloud**  `P4`
+- [ ] **alphabet**  `P4`
+- [ ] **alphabetic/alphabetical**  `P4`
+- [ ] **alteration**  `P4`
+- [ ] **altitude**  `P4`
+- [ ] **aluminum/aluminium**  `P4`
+- [ ] **amazement**  `P4`
+- [ ] **ambulance**  `P4`
+- [ ] **amid/amidst**  `P4`
+- [ ] **among/amongst**  `P4`
+- [ ] **ample**  `P4`
+- [ ] **amuse**  `P4`
+- [ ] **amusing**  `P4`
+- [ ] **amusement**  `P4`
+- [ ] **analyze/analyse**  `P4`
+- [ ] **analytic/analytical**  `P4`
+- [ ] **ancestry**  `P4`
+- [ ] **anchor**  `P4`
+- [ ] **anchorage**  `P4`
+- [ ] **anew**  `P4`
+- [ ] **annoy**  `P4`
+- [ ] **annoyance**  `P4`
+- [ ] **ant**  `P4`
+- [ ] **anticipation**  `P4`
+- [ ] **antique**  `P4`
+- [ ] **anybody/anyone**  `P4`
+- [ ] **anyhow**  `P4`
+- [ ] **apartment/apt.**  `P4`
+- [ ] **apologize/apologise**  `P4`
+- [ ] **apologetic**  `P4`
+- [ ] **app**  `P4`
+- [ ] **apparatus**  `P4`
+- [ ] **appealing**  `P4`
+- [ ] **appetite**  `P4`
+- [ ] **applaud**  `P4`
+- [ ] **applause**  `P4`
+- [ ] **applicant**  `P4`
+- [ ] **appreciative**  `P4`
+- [ ] **approximation**  `P4`
+- [ ] **april**  `P4`
+- [ ] **aptitude**  `P4`
+- [ ] **arbitrarily**  `P4`
+- [ ] **argumentation**  `P4`
+- [ ] **argumentative**  `P4`
+- [ ] **arguable**  `P4`
+- [ ] **arithmetic**  `P4`
+- [ ] **armament**  `P4`
+- [ ] **arouse**  `P4`
+- [ ] **arousal**  `P4`
+- [ ] **artistically**  `P4`
+- [ ] **ashore**  `P4`
+- [ ] **astonish**  `P4`
+- [ ] **astonishment**  `P4`
+- [ ] **astronaut**  `P4`
+- [ ] **astronomy**  `P4`
+- [ ] **astronomical**  `P4`
+- [ ] **atmospheric**  `P4`
+- [ ] **atom**  `P4`
+- [ ] **atomic**  `P4`
+- [ ] **attachment**  `P4`
+- [ ] **attainment**  `P4`
+- [ ] **attendant**  `P4`
+- [ ] **attentive**  `P4`
+- [ ] **attic**  `P4`
+- [ ] **attributable**  `P4`
+- [ ] **attributive**  `P4`
+- [ ] **audio**  `P4`
+- [ ] **auditorium**  `P4`
+- [ ] **august**  `P4`
+- [ ] **auntie**  `P4`
+- [ ] **authenticity**  `P4`
+- [ ] **authoritative**  `P4`
+- [ ] **authorize/authorise**  `P4`
+- [ ] **authorization/authorisation**  `P4`
+- [ ] **auto/automobile**  `P4`
+- [ ] **automate**  `P4`
+- [ ] **automation**  `P4`
+- [ ] **avenue**  `P4`
+- [ ] **aviation**  `P4`
+- [ ] **avoidance**  `P4`
+- [ ] **awe**  `P4`
+- [ ] **awesome**  `P4`
+- [ ] **ax/axe**  `P4`
+- [ ] **axis**  `P4`
+- [ ] **babyboom**  `P4`
+- [ ] **babyboomer**  `P4`
+- [ ] **bachelor**  `P4`
+- [ ] **backup**  `P4`
+- [ ] **backwards**  `P4`
+- [ ] **bacon**  `P4`
+- [ ] **badge**  `P4`
+- [ ] **badminton**  `P4`
+- [ ] **baggage**  `P4`
+- [ ] **bail**  `P4`
+- [ ] **bait**  `P4`
+- [ ] **bakery**  `P4`
+- [ ] **balcony**  `P4`
+- [ ] **ballet**  `P4`
+- [ ] **bamboo**  `P4`
+- [ ] **bandage**  `P4`
+- [ ] **bang**  `P4`
+- [ ] **banknote**  `P4`
+- [ ] **banner**  `P4`
+- [ ] **banquet**  `P4`
+- [ ] **barbecue/bbq**  `P4`
+- [ ] **barber**  `P4`
+- [ ] **bargain**  `P4`
+- [ ] **bark**  `P4`
+- [ ] **basin**  `P4`
+- [ ] **batch**  `P4`
+- [ ] **bathe**  `P4`
+- [ ] **battalion**  `P4`
+- [ ] **bearing**  `P4`
+- [ ] **beautify**  `P4`
+- [ ] **bedding**  `P4`
+- [ ] **beggar**  `P4`
+- [ ] **behavior/behaviour**  `P4`
+- [ ] **behavioral/behavioural**  `P4`
+- [ ] **belongings**  `P4`
+- [ ] **beloved**  `P4`
+- [ ] **beneficiary**  `P4`
+- [ ] **berry**  `P4`
+- [ ] **best-seller**  `P4`
+- [ ] **best-selling**  `P4`
+- [ ] **betray**  `P4`
+- [ ] **betrayal**  `P4`
+- [ ] **beverage**  `P4`
+- [ ] **biblical/biblical**  `P4`
+- [ ] **bicycle/bike**  `P4`
+- [ ] **billionaire**  `P4`
+- [ ] **bin**  `P4`
+- [ ] **biochemistry**  `P4`
+- [ ] **biochemical**  `P4`
+- [ ] **biochemist**  `P4`
+- [ ] **biographical**  `P4`
+- [ ] **biographer**  `P4`
+- [ ] **biologist**  `P4`
+- [ ] **biotechnology**  `P4`
+- [ ] **biscuit**  `P4`
+- [ ] **bitch**  `P4`
+- [ ] **bleed**  `P4`
+- [ ] **blog**  `P4`
+- [ ] **blond/blonde**  `P4`
+- [ ] **bloom**  `P4`
+- [ ] **blossom**  `P4`
+- [ ] **blouse**  `P4`
+- [ ] **blueprint**  `P4`
+- [ ] **blur**  `P4`
+- [ ] **boastful**  `P4`
+- [ ] **bodily**  `P4`
+- [ ] **boiler**  `P4`
+- [ ] **bondage**  `P4`
+- [ ] **bony**  `P4`
+- [ ] **bore**  `P4`
+- [ ] **bound**  `P4`
+- [ ] **bowel**  `P4`
+- [ ] **boxing**  `P4`
+- [ ] **bracket**  `P4`
+- [ ] **brag**  `P4`
+- [ ] **brand-new**  `P4`
+- [ ] **brandy**  `P4`
+- [ ] **brass**  `P4`
+- [ ] **bravery**  `P4`
+- [ ] **breakdown**  `P4`
+- [ ] **bribe**  `P4`
+- [ ] **bribery**  `P4`
+- [ ] **bridegroom**  `P4`
+- [ ] **briefing**  `P4`
+- [ ] **briefcase**  `P4`
+- [ ] **brighten**  `P4`
+- [ ] **brilliance**  `P4`
+- [ ] **broaden**  `P4`
+- [ ] **breadth**  `P4`
+- [ ] **brochure**  `P4`
+- [ ] **broke**  `P4`
+- [ ] **broom**  `P4`
+- [ ] **brow**  `P4`
+- [ ] **browse**  `P4`
+- [ ] **browser**  `P4`
+- [ ] **brunch**  `P4`
+- [ ] **brutality**  `P4`
+- [ ] **buckle**  `P4`
+- [ ] **bud**  `P4`
+- [ ] **budgetary**  `P4`
+- [ ] **buffet**  `P4`
+- [ ] **bulky**  `P4`
+- [ ] **bulletin**  `P4`
+- [ ] **bully**  `P4`
+- [ ] **bump**  `P4`
+- [ ] **bumper**  `P4`
+- [ ] **bundle**  `P4`
+- [ ] **burial**  `P4`
+- [ ] **bushy**  `P4`
+- [ ] **butcher**  `P4`
+- [ ] **bypass**  `P4`
+- [ ] **bystander**  `P4`
+- [ ] **cabbage**  `P4`
+- [ ] **cafe**  `P4`
+- [ ] **cafeteria**  `P4`
+- [ ] **calculator**  `P4`
+- [ ] **calculating**  `P4`
+- [ ] **calf**  `P4`
+- [ ] **calling**  `P4`
+- [ ] **camel**  `P4`
+- [ ] **canal**  `P4`
+- [ ] **cancellation**  `P4`
+- [ ] **candidacy**  `P4`
+- [ ] **cane**  `P4`
+- [ ] **canteen**  `P4`
+- [ ] **capitalist**  `P4`
+- [ ] **cardboard**  `P4`
+- [ ] **carpenter**  `P4`
+- [ ] **carriage**  `P4`
+- [ ] **cartoonist**  `P4`
+- [ ] **cashier**  `P4`
+- [ ] **catalog/catalogue**  `P4`
+- [ ] **cautious**  `P4`
+- [ ] **cellar**  `P4`
+- [ ] **cell-phone**  `P4`
+- [ ] **celsius/celcius**  `P4`
+- [ ] **cement**  `P4`
+- [ ] **center/centre**  `P4`
+- [ ] **centralize/centralise**  `P4`
+- [ ] **centigrade**  `P4`
+- [ ] **centimeter/centimetre**  `P4`
+- [ ] **cereal**  `P4`
+- [ ] **ceremonial**  `P4`
+- [ ] **certainty**  `P4`
+- [ ] **certificate**  `P4`
+- [ ] **chairman/chairperson**  `P4`
+- [ ] **challenging**  `P4`
+- [ ] **champagne**  `P4`
+- [ ] **chaotic**  `P4`
+- [ ] **characterize/characterise**  `P4`
+- [ ] **charitable**  `P4`
+- [ ] **chat**  `P4`
+- [ ] **check/cheque**  `P4`
+- [ ] **chemist**  `P4`
+- [ ] **cherish**  `P4`
+- [ ] **chess**  `P4`
+- [ ] **chilly**  `P4`
+- [ ] **chimney**  `P4`
+- [ ] **china**  `P4`
+- [ ] **choke**  `P4`
+- [ ] **choosy**  `P4`
+- [ ] **chopstick**  `P4`
+- [ ] **chore**  `P4`
+- [ ] **chorus**  `P4`
+- [ ] **christ**  `P4`
+- [ ] **cigar**  `P4`
+- [ ] **cigaret/cigarette**  `P4`
+- [ ] **circular**  `P4`
+- [ ] **circulate**  `P4`
+- [ ] **circus**  `P4`
+- [ ] **citation**  `P4`
+- [ ] **civilize/civilise**  `P4`
+- [ ] **civilization/civilisation**  `P4`
+- [ ] **clap**  `P4`
+- [ ] **clarity**  `P4`
+- [ ] **clarification**  `P4`
+- [ ] **classification**  `P4`
+- [ ] **classified**  `P4`
+- [ ] **clause**  `P4`
+- [ ] **claw**  `P4`
+- [ ] **clear-cut**  `P4`
+- [ ] **clerical**  `P4`
+- [ ] **climatic**  `P4`
+- [ ] **climax**  `P4`
+- [ ] **clockwise**  `P4`
+- [ ] **clone**  `P4`
+- [ ] **clothe**  `P4`
+- [ ] **cloudy**  `P4`
+- [ ] **clown**  `P4`
+- [ ] **coarse**  `P4`
+- [ ] **cock**  `P4`
+- [ ] **coherence**  `P4`
+- [ ] **cohesion**  `P4`
+- [ ] **cohesive**  `P4`
+- [ ] **coil**  `P4`
+- [ ] **coinage**  `P4`
+- [ ] **collaborative**  `P4`
+- [ ] **colon**  `P4`
+- [ ] **semi-colon**  `P4`
+- [ ] **colonialism**  `P4`
+- [ ] **colonize/colonise**  `P4`
+- [ ] **color/colour**  `P4`
+- [ ] **colorful/colourful**  `P4`
+- [ ] **combative**  `P4`
+- [ ] **comma**  `P4`
+- [ ] **commencement**  `P4`
+- [ ] **commentary**  `P4`
+- [ ] **commentator**  `P4`
+- [ ] **commercialize/commercialise**  `P4`
+- [ ] **communicative**  `P4`
+- [ ] **commune**  `P4`
+- [ ] **communism**  `P4`
+- [ ] **commute**  `P4`
+- [ ] **commuter**  `P4`
+- [ ] **companionship**  `P4`
+- [ ] **compass**  `P4`
+- [ ] **compatibility**  `P4`
+- [ ] **compensatory**  `P4`
+- [ ] **completion**  `P4`
+- [ ] **complicate**  `P4`
+- [ ] **complication**  `P4`
+- [ ] **composer**  `P4`
+- [ ] **comprehend**  `P4`
+- [ ] **comprehension**  `P4`
+- [ ] **compulsory**  `P4`
+- [ ] **compute**  `P4`
+- [ ] **computerize/computerise**  `P4`
+- [ ] **computation**  `P4`
+- [ ] **comrade**  `P4`
+- [ ] **conceal**  `P4`
+- [ ] **concealment**  `P4`
+- [ ] **conceptual**  `P4`
+- [ ] **concerted**  `P4`
+- [ ] **conclusive**  `P4`
+- [ ] **condemnation**  `P4`
+- [ ] **condensation**  `P4`
+- [ ] **conditional**  `P4`
+- [ ] **conditioner**  `P4`
+- [ ] **conductor**  `P4`
+- [ ] **confidential**  `P4`
+- [ ] **confine**  `P4`
+- [ ] **confinement**  `P4`
+- [ ] **confirmation**  `P4`
+- [ ] **conformity**  `P4`
+- [ ] **confucian**  `P4`
+- [ ] **confucianism**  `P4`
+- [ ] **congratulatory**  `P4`
+- [ ] **conjunction**  `P4`
+- [ ] **connection/connexion**  `P4`
+- [ ] **conquer**  `P4`
+- [ ] **conqueror**  `P4`
+- [ ] **conquest**  `P4`
+- [ ] **consequent**  `P4`
+- [ ] **considerate**  `P4`
+- [ ] **consistency**  `P4`
+- [ ] **consolidation**  `P4`
+- [ ] **consultation**  `P4`
+- [ ] **consultative**  `P4`
+- [ ] **containment**  `P4`
+- [ ] **contamination**  `P4`
+- [ ] **contempt**  `P4`
+- [ ] **contemptible**  `P4`
+- [ ] **contention**  `P4`
+- [ ] **contentious**  `P4`
+- [ ] **contestant**  `P4`
+- [ ] **contextual**  `P4`
+- [ ] **continental**  `P4`
+- [ ] **continuation**  `P4`
+- [ ] **continuity**  `P4`
+- [ ] **contraction**  `P4`
+- [ ] **contradict**  `P4`
+- [ ] **contradiction**  `P4`
+- [ ] **contradictory**  `P4`
+- [ ] **contrary**  `P4`
+- [ ] **convertible**  `P4`
+- [ ] **conveyance**  `P4`
+- [ ] **convincing**  `P4`
+- [ ] **coordination**  `P4`
+- [ ] **copper**  `P4`
+- [ ] **copyright**  `P4`
+- [ ] **cornerstone**  `P4`
+- [ ] **corps**  `P4`
+- [ ] **correction**  `P4`
+- [ ] **corrective**  `P4`
+- [ ] **correspondence**  `P4`
+- [ ] **corresponding**  `P4`
+- [ ] **corrupt**  `P4`
+- [ ] **cosmos**  `P4`
+- [ ] **cosmic**  `P4`
+- [ ] **councilor/councillor**  `P4`
+- [ ] **counselor/counsellor**  `P4`
+- [ ] **countdown**  `P4`
+- [ ] **coupon**  `P4`
+- [ ] **courageous**  `P4`
+- [ ] **courtyard**  `P4`
+- [ ] **coward**  `P4`
+- [ ] **cowardly**  `P4`
+- [ ] **cowardice**  `P4`
+- [ ] **cowboy**  `P4`
+- [ ] **crab**  `P4`
+- [ ] **cracker**  `P4`
+- [ ] **crane**  `P4`
+- [ ] **craze**  `P4`
+- [ ] **creamy**  `P4`
+- [ ] **creator**  `P4`
+- [ ] **creditable**  `P4`
+- [ ] **creep**  `P4`
+- [ ] **criticize/criticise**  `P4`
+- [ ] **crocodile**  `P4`
+- [ ] **crossing**  `P4`
+- [ ] **crown**  `P4`
+- [ ] **cruelty**  `P4`
+- [ ] **cruiser**  `P4`
+- [ ] **cube**  `P4`
+- [ ] **cubic**  `P4`
+- [ ] **cucumber**  `P4`
+- [ ] **cultivate**  `P4`
+- [ ] **cultivation**  `P4`
+- [ ] **curable**  `P4`
+- [ ] **curl**  `P4`
+- [ ] **curse**  `P4`
+- [ ] **customary**  `P4`
+- [ ] **customs**  `P4`
+- [ ] **cyberspace**  `P4`
+- [ ] **cycling**  `P4`
+- [ ] **cyclist**  `P4`
+- [ ] **dad/daddy**  `P4`
+- [ ] **dairy**  `P4`
+- [ ] **damp**  `P4`
+- [ ] **dampen**  `P4`
+- [ ] **daring**  `P4`
+- [ ] **darken**  `P4`
+- [ ] **darling**  `P4`
+- [ ] **dash**  `P4`
+- [ ] **datum**  `P4`
+- [ ] **dating**  `P4`
+- [ ] **daylight**  `P4`
+- [ ] **dealing**  `P4`
+- [ ] **dean**  `P4`
+- [ ] **debtor**  `P4`
+- [ ] **deceive**  `P4`
+- [ ] **deceit**  `P4`
+- [ ] **deception**  `P4`
+- [ ] **deceptive**  `P4`
+- [ ] **december**  `P4`
+- [ ] **declarative**  `P4`
+- [ ] **decorative**  `P4`
+- [ ] **defective**  `P4`
+- [ ] **defection**  `P4`
+- [ ] **defense/defence**  `P4`
+- [ ] **deficient**  `P4`
+- [ ] **defiance**  `P4`
+- [ ] **defiant**  `P4`
+- [ ] **delegation**  `P4`
+- [ ] **delete**  `P4`
+- [ ] **deletion**  `P4`
+- [ ] **deliberation**  `P4`
+- [ ] **demanding**  `P4`
+- [ ] **demonstration/demo**  `P4`
+- [ ] **demonstrative**  `P4`
+- [ ] **dent**  `P4`
+- [ ] **dental**  `P4`
+- [ ] **dependencedependable**  `P4`
+- [ ] **depress**  `P4`
+- [ ] **deprivation**  `P4`
+- [ ] **derivative**  `P4`
+- [ ] **derivation**  `P4`
+- [ ] **descent**  `P4`
+- [ ] **descendant**  `P4`
+- [ ] **descriptive**  `P4`
+- [ ] **desertion**  `P4`
+- [ ] **desirability**  `P4`
+- [ ] **desirous**  `P4`
+- [ ] **desktop**  `P4`
+- [ ] **despair**  `P4`
+- [ ] **despatch**  `P4`
+- [ ] **detection**  `P4`
+- [ ] **deterioration**  `P4`
+- [ ] **dew**  `P4`
+- [ ] **diagram**  `P4`
+- [ ] **dial**  `P4`
+- [ ] **dialect**  `P4`
+- [ ] **dialog/dialogue**  `P4`
+- [ ] **diameter**  `P4`
+- [ ] **dictator**  `P4`
+- [ ] **dietary**  `P4`
+- [ ] **digest**  `P4`
+- [ ] **digestion**  `P4`
+- [ ] **digestive**  `P4`
+- [ ] **digit**  `P4`
+- [ ] **dignify**  `P4`
+- [ ] **diligent**  `P4`
+- [ ] **diligence**  `P4`
+- [ ] **dime**  `P4`
+- [ ] **dimensional**  `P4`
+- [ ] **dine**  `P4`
+- [ ] **diner**  `P4`
+- [ ] **dioxide**  `P4`
+- [ ] **diploma**  `P4`
+- [ ] **diplomacy**  `P4`
+- [ ] **disable**  `P4`
+- [ ] **disappearance**  `P4`
+- [ ] **disappoint**  `P4`
+- [ ] **disapprove**  `P4`
+- [ ] **disapproval**  `P4`
+- [ ] **discharge**  `P4`
+- [ ] **disciplinary**  `P4`
+- [ ] **disco**  `P4`
+- [ ] **discriminate**  `P4`
+- [ ] **discriminatory**  `P4`
+- [ ] **disgust**  `P4`
+- [ ] **disgusting**  `P4`
+- [ ] **disintegrate**  `P4`
+- [ ] **disintegration**  `P4`
+- [ ] **disk/disc**  `P4`
+- [ ] **dislike**  `P4`
+- [ ] **dismissal**  `P4`
+- [ ] **disputable**  `P4`
+- [ ] **disruptive**  `P4`
+- [ ] **disruption**  `P4`
+- [ ] **distinguishable**  `P4`
+- [ ] **distraction**  `P4`
+- [ ] **distress**  `P4`
+- [ ] **distressful**  `P4`
+- [ ] **distributive**  `P4`
+- [ ] **ditch**  `P4`
+- [ ] **diversify**  `P4`
+- [ ] **divisive**  `P4`
+- [ ] **dizzy**  `P4`
+- [ ] **doctorate**  `P4`
+- [ ] **doctoral**  `P4`
+- [ ] **dolphin**  `P4`
+- [ ] **domination**  `P4`
+- [ ] **dominance**  `P4`
+- [ ] **donkey**  `P4`
+- [ ] **doom**  `P4`
+- [ ] **dormitory/dorm**  `P4`
+- [ ] **dosage**  `P4`
+- [ ] **doubtless**  `P4`
+- [ ] **dove**  `P4`
+- [ ] **download**  `P4`
+- [ ] **downstairs**  `P4`
+- [ ] **downward**  `P4`
+- [ ] **downwards**  `P4`
+- [ ] **dragon**  `P4`
+- [ ] **drainage**  `P4`
+- [ ] **drastically**  `P4`
+- [ ] **dreamy**  `P4`
+- [ ] **drip**  `P4`
+- [ ] **dropout**  `P4`
+- [ ] **drunken**  `P4`
+- [ ] **drunkard**  `P4`
+- [ ] **dryer**  `P4`
+- [ ] **dual**  `P4`
+- [ ] **duly**  `P4`
+- [ ] **durability**  `P4`
+- [ ] **dusk**  `P4`
+- [ ] **dusty**  `P4`
+- [ ] **dye**  `P4`
+- [ ] **dynasty**  `P4`
+- [ ] **eagle**  `P4`
+- [ ] **earnest**  `P4`
+- [ ] **easy-going**  `P4`
+- [ ] **editorial**  `P4`
+- [ ] **eggplant**  `P4`
+- [ ] **elective**  `P4`
+- [ ] **electric/electrical**  `P4`
+- [ ] **electrician**  `P4`
+- [ ] **electron**  `P4`
+- [ ] **electronically**  `P4`
+- [ ] **elegance**  `P4`
+- [ ] **elevate**  `P4`
+- [ ] **elevation**  `P4`
+- [ ] **elimination**  `P4`
+- [ ] **email**  `P4`
+- [ ] **embarrass**  `P4`
+- [ ] **embarrassment**  `P4`
+- [ ] **embassy**  `P4`
+- [ ] **emergence**  `P4`
+- [ ] **emit**  `P4`
+- [ ] **empress**  `P4`
+- [ ] **emphasize/emphasise**  `P4`
+- [ ] **emphatic**  `P4`
+- [ ] **emptiness**  `P4`
+- [ ] **encouragement**  `P4`
+- [ ] **ending**  `P4`
+- [ ] **endurance**  `P4`
+- [ ] **energetically**  `P4`
+- [ ] **enlarge**  `P4`
+- [ ] **enlighten**  `P4`
+- [ ] **enlightenment**  `P4`
+- [ ] **enlightening**  `P4`
+- [ ] **enquire**  `P4`
+- [ ] **enquiry**  `P4`
+- [ ] **enrol/enroll**  `P4`
+- [ ] **enrolment/enrollment**  `P4`
+- [ ] **enterprising**  `P4`
+- [ ] **entertain**  `P4`
+- [ ] **entertaining**  `P4`
+- [ ] **enthusiastically**  `P4`
+- [ ] **enthusiast**  `P4`
+- [ ] **entirety**  `P4`
+- [ ] **entrepreneurial**  `P4`
+- [ ] **environmentalist**  `P4`
+- [ ] **envy**  `P4`
+- [ ] **envious**  `P4`
+- [ ] **equivalence**  `P4`
+- [ ] **erase**  `P4`
+- [ ] **eraser**  `P4`
+- [ ] **err**  `P4`
+- [ ] **essayist**  `P4`
+- [ ] **estimation**  `P4`
+- [ ] **eternity**  `P4`
+- [ ] **ethic**  `P4`
+- [ ] **euro**  `P4`
+- [ ] **evenly**  `P4`
+- [ ] **eventful**  `P4`
+- [ ] **eventuality**  `P4`
+- [ ] **evolutionary**  `P4`
+- [ ] **exaggeration**  `P4`
+- [ ] **exam/examination**  `P4`
+- [ ] **examiner**  `P4`
+- [ ] **examinee**  `P4`
+- [ ] **exemplary**  `P4`
+- [ ] **exceedingly**  `P4`
+- [ ] **excess**  `P4`
+- [ ] **excite**  `P4`
+- [ ] **exclaim**  `P4`
+- [ ] **exclamation**  `P4`
+- [ ] **exclamatory**  `P4`
+- [ ] **exclusion**  `P4`
+- [ ] **excursion**  `P4`
+- [ ] **exertion**  `P4`
+- [ ] **exhaustion**  `P4`
+- [ ] **exhaustive**  `P4`
+- [ ] **exile**  `P4`
+- [ ] **existent**  `P4`
+- [ ] **expansive**  `P4`
+- [ ] **expectancy**  `P4`
+- [ ] **expel**  `P4`
+- [ ] **expend**  `P4`
+- [ ] **expenditure**  `P4`
+- [ ] **explanatory**  `P4`
+- [ ] **exploitation**  `P4`
+- [ ] **exportation**  `P4`
+- [ ] **expressway**  `P4`
+- [ ] **exterior**  `P4`
+- [ ] **extinguish**  `P4`
+- [ ] **extremity**  `P4`
+- [ ] **eyesight**  `P4`
+- [ ] **fable**  `P4`
+- [ ] **facial**  `P4`
+- [ ] **facilitation**  `P4`
+- [ ] **factual**  `P4`
+- [ ] **fiarly**  `P4`
+- [ ] **fairy**  `P4`
+- [ ] **fake**  `P4`
+- [ ] **falsehood**  `P4`
+- [ ] **familiarity**  `P4`
+- [ ] **familiarize/familiarise**  `P4`
+- [ ] **famine**  `P4`
+- [ ] **farewell**  `P4`
+- [ ] **farming**  `P4`
+- [ ] **farther**  `P4`
+- [ ] **fascinate**  `P4`
+- [ ] **fascination**  `P4`
+- [ ] **fasten**  `P4`
+- [ ] **fatality**  `P4`
+- [ ] **fatherly**  `P4`
+- [ ] **faulty**  `P4`
+- [ ] **favor/favour**  `P4`
+- [ ] **favorable/favourable**  `P4`
+- [ ] **favorite/favourite**  `P4`
+- [ ] **fax**  `P4`
+- [ ] **fearful**  `P4`
+- [ ] **feasibility**  `P4`
+- [ ] **february**  `P4`
+- [ ] **federation**  `P4`
+- [ ] **fellowship**  `P4`
+- [ ] **ferry**  `P4`
+- [ ] **fertility**  `P4`
+- [ ] **fertilizer/fertiliser**  `P4`
+- [ ] **fetch**  `P4`
+- [ ] **feverish**  `P4`
+- [ ] **fiber/fibre**  `P4`
+- [ ] **fictional**  `P4`
+- [ ] **figurative**  `P4`
+- [ ] **filling**  `P4`
+- [ ] **finalize/finalise**  `P4`
+- [ ] **fingerprint**  `P4`
+- [ ] **fireplace**  `P4`
+- [ ] **fireworks**  `P4`
+- [ ] **fixture**  `P4`
+- [ ] **fixation**  `P4`
+- [ ] **flavor/flavour**  `P4`
+- [ ] **flawless**  `P4`
+- [ ] **flock**  `P4`
+- [ ] **flourish**  `P4`
+- [ ] **fluctuation**  `P4`
+- [ ] **fluency**  `P4`
+- [ ] **foggy**  `P4`
+- [ ] **footprint**  `P4`
+- [ ] **forceful**  `P4`
+- [ ] **foremost**  `P4`
+- [ ] **foresee**  `P4`
+- [ ] **foreseeable**  `P4`
+- [ ] **foresight**  `P4`
+- [ ] **forestry**  `P4`
+- [ ] **forge**  `P4`
+- [ ] **forgery**  `P4`
+- [ ] **forgetful**  `P4`
+- [ ] **forgettable**  `P4`
+- [ ] **forgiving**  `P4`
+- [ ] **formality**  `P4`
+- [ ] **formulation**  `P4`
+- [ ] **forthcoming**  `P4`
+- [ ] **fossil**  `P4`
+- [ ] **founding**  `P4`
+- [ ] **fragmentation**  `P4`
+- [ ] **fragmentary**  `P4`
+- [ ] **frank**  `P4`
+- [ ] **freight**  `P4`
+- [ ] **friday**  `P4`
+- [ ] **fright**  `P4`
+- [ ] **frighten**  `P4`
+- [ ] **frost**  `P4`
+- [ ] **frosty**  `P4`
+- [ ] **fruitful**  `P4`
+- [ ] **frustrating**  `P4`
+- [ ] **fry**  `P4`
+- [ ] **fuck**  `P4`
+- [ ] **fulfil/fulfill**  `P4`
+- [ ] **fulfilment/fulfillment**  `P4`
+- [ ] **furnace**  `P4`
+- [ ] **fuss**  `P4`
+- [ ] **gadget**  `P4`
+- [ ] **gadgetry**  `P4`
+- [ ] **gallon**  `P4`
+- [ ] **gamble**  `P4`
+- [ ] **gangster**  `P4`
+- [ ] **gaol**  `P4`
+- [ ] **gardener**  `P4`
+- [ ] **gardening**  `P4`
+- [ ] **garment**  `P4`
+- [ ] **gasoline/petrol**  `P4`
+- [ ] **genetically**  `P4`
+- [ ] **generalize/generalise**  `P4`
+- [ ] **generator**  `P4`
+- [ ] **generosity**  `P4`
+- [ ] **geographic**  `P4`
+- [ ] **geographically**  `P4`
+- [ ] **geology**  `P4`
+- [ ] **geological**  `P4`
+- [ ] **geologically**  `P4`
+- [ ] **geometric**  `P4`
+- [ ] **geometrically**  `P4`
+- [ ] **germ**  `P4`
+- [ ] **gigantic**  `P4`
+- [ ] **globalize/globalise**  `P4`
+- [ ] **gloom**  `P4`
+- [ ] **glow**  `P4`
+- [ ] **gossip**  `P4`
+- [ ] **gown**  `P4`
+- [ ] **graceful**  `P4`
+- [ ] **gracious**  `P4`
+- [ ] **gram/gramme**  `P4`
+- [ ] **grammatical**  `P4`
+- [ ] **grandchildren**  `P4`
+- [ ] **graph**  `P4`
+- [ ] **graphic**  `P4`
+- [ ] **graphically**  `P4`
+- [ ] **grassy**  `P4`
+- [ ] **gravitation**  `P4`
+- [ ] **gray/grey**  `P4`
+- [ ] **greenhouse**  `P4`
+- [ ] **grieve**  `P4`
+- [ ] **grievous**  `P4`
+- [ ] **grind**  `P4`
+- [ ] **grocer**  `P4`
+- [ ] **guardian**  `P4`
+- [ ] **guitarist**  `P4`
+- [ ] **gulf**  `P4`
+- [ ] **gum**  `P4`
+- [ ] **gym/gymnasium**  `P4`
+- [ ] **habitual**  `P4`
+- [ ] **hack**  `P4`
+- [ ] **hacker**  `P4`
+- [ ] **hail**  `P4`
+- [ ] **hairy**  `P4`
+- [ ] **hamburger/burger**  `P4`
+- [ ] **handbook**  `P4`
+- [ ] **handicap**  `P4`
+- [ ] **handicapped**  `P4`
+- [ ] **handy**  `P4`
+- [ ] **harbor/harbour**  `P4`
+- [ ] **harden**  `P4`
+- [ ] **harmonious**  `P4`
+- [ ] **harness**  `P4`
+- [ ] **haste**  `P4`
+- [ ] **hasty**  `P4`
+- [ ] **hasten**  `P4`
+- [ ] **hatch**  `P4`
+- [ ] **hatred**  `P4`
+- [ ] **hateful**  `P4`
+- [ ] **haunt**  `P4`
+- [ ] **hazardous**  `P4`
+- [ ] **haze**  `P4`
+- [ ] **hazy**  `P4`
+- [ ] **heading**  `P4`
+- [ ] **headmistress**  `P4`
+- [ ] **healthful**  `P4`
+- [ ] **heap**  `P4`
+- [ ] **hearty**  `P4`
+- [ ] **heartfelt**  `P4`
+- [ ] **heated**  `P4`
+- [ ] **heating**  `P4`
+- [ ] **hectare**  `P4`
+- [ ] **hedge**  `P4`
+- [ ] **heighten**  `P4`
+- [ ] **heir**  `P4`
+- [ ] **heiress**  `P4`
+- [ ] **helplessly**  `P4`
+- [ ] **herd**  `P4`
+- [ ] **hereby**  `P4`
+- [ ] **hero/heroine**  `P4`
+- [ ] **heroic**  `P4`
+- [ ] **heroism**  `P4`
+- [ ] **hesitant**  `P4`
+- [ ] **hiding**  `P4`
+- [ ] **hijack**  `P4`
+- [ ] **hilly**  `P4`
+- [ ] **hindrance**  `P4`
+- [ ] **hollow**  `P4`
+- [ ] **holiness**  `P4`
+- [ ] **homely**  `P4`
+- [ ] **homosexual/homo**  `P4`
+- [ ] **honeymoon**  `P4`
+- [ ] **honor/honour**  `P4`
+- [ ] **honorable/honourable**  `P4`
+- [ ] **honorary/honourary**  `P4`
+- [ ] **horizontal**  `P4`
+- [ ] **horrify**  `P4`
+- [ ] **horsepower**  `P4`
+- [ ] **hospitalize**  `P4`
+- [ ] **hospitable**  `P4`
+- [ ] **hostess**  `P4`
+- [ ] **hostility**  `P4`
+- [ ] **humbly**  `P4`
+- [ ] **humor/humour**  `P4`
+- [ ] **humorous/humourous**  `P4`
+- [ ] **hurriedly**  `P4`
+- [ ] **hurtful**  `P4`
+- [ ] **hyphen**  `P4`
+- [ ] **icy**  `P4`
+- [ ] **ice-cream**  `P4`
+- [ ] **idealistic**  `P4`
+- [ ] **idealism**  `P4`
+- [ ] **idiom**  `P4`
+- [ ] **idiomatic**  `P4`
+- [ ] **idly**  `P4`
+- [ ] **ignorant**  `P4`
+- [ ] **illusory**  `P4`
+- [ ] **illustration**  `P4`
+- [ ] **illustrative**  `P4`
+- [ ] **imaging**  `P4`
+- [ ] **imaginary**  `P4`
+- [ ] **imitate**  `P4`
+- [ ] **imitation**  `P4`
+- [ ] **imitative**  `P4`
+- [ ] **immensity**  `P4`
+- [ ] **immigrate**  `P4`
+- [ ] **immunity**  `P4`
+- [ ] **immunize/immunise**  `P4`
+- [ ] **impatience**  `P4`
+- [ ] **imperialism**  `P4`
+- [ ] **imperialist**  `P4`
+- [ ] **importation**  `P4`
+- [ ] **imposition**  `P4`
+- [ ] **imposing**  `P4`
+- [ ] **impossibility**  `P4`
+- [ ] **impulsive**  `P4`
+- [ ] **inch**  `P4`
+- [ ] **incidence**  `P4`
+- [ ] **incidental**  `P4`
+- [ ] **incidentally**  `P4`
+- [ ] **inclined**  `P4`
+- [ ] **inclination**  `P4`
+- [ ] **inclusion**  `P4`
+- [ ] **indicative**  `P4`
+- [ ] **indifferent**  `P4`
+- [ ] **indifference**  `P4`
+- [ ] **individualism**  `P4`
+- [ ] **indoors**  `P4`
+- [ ] **inducement**  `P4`
+- [ ] **industrialize**  `P4`
+- [ ] **industrious**  `P4`
+- [ ] **infect**  `P4`
+- [ ] **infectious**  `P4`
+- [ ] **inference**  `P4`
+- [ ] **inferiority**  `P4`
+- [ ] **infinity**  `P4`
+- [ ] **infinitive**  `P4`
+- [ ] **inflate**  `P4`
+- [ ] **influenza/flu**  `P4`
+- [ ] **informative**  `P4`
+- [ ] **informant**  `P4`
+- [ ] **inhabit**  `P4`
+- [ ] **inhabitant**  `P4`
+- [ ] **inheritance**  `P4`
+- [ ] **initiation**  `P4`
+- [ ] **injurious**  `P4`
+- [ ] **inland**  `P4`
+- [ ] **innocence**  `P4`
+- [ ] **innovate**  `P4`
+- [ ] **inquire/enquire**  `P4`
+- [ ] **inquiry/enquiry**  `P4`
+- [ ] **inquisitive**  `P4`
+- [ ] **insane**  `P4`
+- [ ] **insanity**  `P4`
+- [ ] **insertion**  `P4`
+- [ ] **insider**  `P4`
+- [ ] **insightful**  `P4`
+- [ ] **insistent**  `P4`
+- [ ] **inspect**  `P4`
+- [ ] **inspirational**  `P4`
+- [ ] **instal/install**  `P4`
+- [ ] **instalation/installation**  `P4`
+- [ ] **instalment/installment**  `P4`
+- [ ] **instantaneous**  `P4`
+- [ ] **instructive**  `P4`
+- [ ] **instrumental**  `P4`
+- [ ] **insult**  `P4`
+- [ ] **insure/ensure**  `P4`
+- [ ] **intake**  `P4`
+- [ ] **intangible**  `P4`
+- [ ] **intensify**  `P4`
+- [ ] **interactive**  `P4`
+- [ ] **interference**  `P4`
+- [ ] **intermediary**  `P4`
+- [ ] **internet/internet**  `P4`
+- [ ] **interpreter**  `P4`
+- [ ] **interruption**  `P4`
+- [ ] **interviewer**  `P4`
+- [ ] **interviewee**  `P4`
+- [ ] **intimacy**  `P4`
+- [ ] **introductory**  `P4`
+- [ ] **intrude**  `P4`
+- [ ] **intrusion**  `P4`
+- [ ] **intruder**  `P4`
+- [ ] **invader**  `P4`
+- [ ] **invaluable**  `P4`
+- [ ] **inventor**  `P4`
+- [ ] **inviting**  `P4`
+- [ ] **ironic/ironical**  `P4`
+- [ ] **irrational**  `P4`
+- [ ] **irregular**  `P4`
+- [ ] **irrigate**  `P4`
+- [ ] **irrigation**  `P4`
+- [ ] **jail/gaol**  `P4`
+- [ ] **january**  `P4`
+- [ ] **jealousy**  `P4`
+- [ ] **jeep**  `P4`
+- [ ] **jetlag**  `P4`
+- [ ] **jewelery/jewellery**  `P4`
+- [ ] **jog**  `P4`
+- [ ] **joyous**  `P4`
+- [ ] **joyful**  `P4`
+- [ ] **judgment/judgement**  `P4`
+- [ ] **juicy**  `P4`
+- [ ] **july**  `P4`
+- [ ] **june**  `P4`
+- [ ] **junk**  `P4`
+- [ ] **justification**  `P4`
+- [ ] **kilogram/kilogramme/kilo**  `P4`
+- [ ] **kilometer/kilometre**  `P4`
+- [ ] **kin**  `P4`
+- [ ] **knit**  `P4`
+- [ ] **knotty**  `P4`
+- [ ] **knowhow**  `P4`
+- [ ] **labor/labour**  `P4`
+- [ ] **laborious**  `P4`
+- [ ] **laboratory/lab**  `P4`
+- [ ] **lace**  `P4`
+- [ ] **lag**  `P4`
+- [ ] **lamb**  `P4`
+- [ ] **lame**  `P4`
+- [ ] **landlord/landlady**  `P4`
+- [ ] **laptop**  `P4`
+- [ ] **lass**  `P4`
+- [ ] **lavatory**  `P4`
+- [ ] **lawful**  `P4`
+- [ ] **layoff**  `P4`
+- [ ] **layout**  `P4`
+- [ ] **laziness**  `P4`
+- [ ] **leak**  `P4`
+- [ ] **learner**  `P4`
+- [ ] **lease**  `P4`
+- [ ] **lecturer**  `P4`
+- [ ] **leftist**  `P4`
+- [ ] **legalize/legalise**  `P4`
+- [ ] **legendary**  `P4`
+- [ ] **legislate**  `P4`
+- [ ] **leisure**  `P4`
+- [ ] **lemonade**  `P4`
+- [ ] **lest**  `P4`
+- [ ] **liberate**  `P4`
+- [ ] **liberation**  `P4`
+- [ ] **librarian**  `P4`
+- [ ] **license/licence**  `P4`
+- [ ] **lick**  `P4`
+- [ ] **liar**  `P4`
+- [ ] **lily**  `P4`
+- [ ] **linkage**  `P4`
+- [ ] **lioness**  `P4`
+- [ ] **liquor**  `P4`
+- [ ] **liter/liter**  `P4`
+- [ ] **literate**  `P4`
+- [ ] **litter**  `P4`
+- [ ] **livelihood**  `P4`
+- [ ] **living-room**  `P4`
+- [ ] **lobbyist**  `P4`
+- [ ] **locality**  `P4`
+- [ ] **locker**  `P4`
+- [ ] **lodge**  `P4`
+- [ ] **lodging**  `P4`
+- [ ] **logo**  `P4`
+- [ ] **loophole**  `P4`
+- [ ] **loosen**  `P4`
+- [ ] **lorry**  `P4`
+- [ ] **lump**  `P4`
+- [ ] **lunar**  `P4`
+- [ ] **luncheon**  `P4`
+- [ ] **machinery**  `P4`
+- [ ] **madden**  `P4`
+- [ ] **magnet**  `P4`
+- [ ] **magnificence**  `P4`
+- [ ] **maiden**  `P4`
+- [ ] **mammal**  `P4`
+- [ ] **manly**  `P4`
+- [ ] **manhood**  `P4`
+- [ ] **manipulation**  `P4`
+- [ ] **manipulative**  `P4`
+- [ ] **mankind**  `P4`
+- [ ] **marsh**  `P4`
+- [ ] **marshal**  `P4`
+- [ ] **marvel**  `P4`
+- [ ] **marvelous/marvellous**  `P4`
+- [ ] **marxism**  `P4`
+- [ ] **marxist**  `P4`
+- [ ] **massage**  `P4`
+- [ ] **mastery**  `P4`
+- [ ] **masterpiece**  `P4`
+- [ ] **materialism**  `P4`
+- [ ] **materialist**  `P4`
+- [ ] **materialize/materialise**  `P4`
+- [ ] **math/mathematics/maths**  `P4`
+- [ ] **maturity**  `P4`
+- [ ] **maximize/maximise**  `P4`
+- [ ] **maximal**  `P4`
+- [ ] **means**  `P4`
+- [ ] **measurable**  `P4`
+- [ ] **meaty**  `P4`
+- [ ] **mechanics**  `P4`
+- [ ] **mechanize/mechanise**  `P4`
+- [ ] **mechanization/mechanisation**  `P4`
+- [ ] **medicare**  `P4`
+- [ ] **medicinal**  `P4`
+- [ ] **melon**  `P4`
+- [ ] **memorandum/memo**  `P4`
+- [ ] **memorize/memorise**  `P4`
+- [ ] **mend**  `P4`
+- [ ] **mentality**  `P4`
+- [ ] **merciful**  `P4`
+- [ ] **meritorious**  `P4`
+- [ ] **merriment**  `P4`
+- [ ] **messenger**  `P4`
+- [ ] **metallic**  `P4`
+- [ ] **meter/metre**  `P4`
+- [ ] **metric**  `P4`
+- [ ] **methodical**  `P4`
+- [ ] **methodology**  `P4`
+- [ ] **metro**  `P4`
+- [ ] **microphone**  `P4`
+- [ ] **microscope**  `P4`
+- [ ] **microscopic**  `P4`
+- [ ] **microwave**  `P4`
+- [ ] **microwavable**  `P4`
+- [ ] **midday**  `P4`
+- [ ] **mighty**  `P4`
+- [ ] **migrant**  `P4`
+- [ ] **mileage**  `P4`
+- [ ] **milky**  `P4`
+- [ ] **millimeter/millimetre**  `P4`
+- [ ] **millionaire**  `P4`
+- [ ] **mining**  `P4`
+- [ ] **minimize/minimise**  `P4`
+- [ ] **ministerial**  `P4`
+- [ ] **miserable**  `P4`
+- [ ] **misery**  `P4`
+- [ ] **misfortune**  `P4`
+- [ ] **mislead**  `P4`
+- [ ] **misleading**  `P4`
+- [ ] **misty**  `P4`
+- [ ] **mistaken**  `P4`
+- [ ] **mister**  `P4`
+- [ ] **mistress**  `P4`
+- [ ] **misunderstand**  `P4`
+- [ ] **misunderstanding**  `P4`
+- [ ] **mixer**  `P4`
+- [ ] **moderation**  `P4`
+- [ ] **moderator**  `P4`
+- [ ] **modernize**  `P4`
+- [ ] **modernization/modernisation**  `P4`
+- [ ] **modesty**  `P4`
+- [ ] **modification**  `P4`
+- [ ] **modifier**  `P4`
+- [ ] **moisture**  `P4`
+- [ ] **mold/mould**  `P4`
+- [ ] **moldy/mouldy**  `P4`
+- [ ] **mom/mummy**  `P4`
+- [ ] **momentarily**  `P4`
+- [ ] **monday**  `P4`
+- [ ] **monstrous**  `P4`
+- [ ] **moody**  `P4`
+- [ ] **motel**  `P4`
+- [ ] **motorway**  `P4`
+- [ ] **mounting**  `P4`
+- [ ] **mouthful**  `P4`
+- [ ] **muddy**  `P4`
+- [ ] **mug**  `P4`
+- [ ] **mule**  `P4`
+- [ ] **multiply**  `P4`
+- [ ] **multiplication**  `P4`
+- [ ] **municipality**  `P4`
+- [ ] **murderous**  `P4`
+- [ ] **mythology**  `P4`
+- [ ] **narrate**  `P4`
+- [ ] **narration**  `P4`
+- [ ] **nationalist**  `P4`
+- [ ] **nationalism**  `P4`
+- [ ] **needy**  `P4`
+- [ ] **negate**  `P4`
+- [ ] **negation**  `P4`
+- [ ] **neglectful**  `P4`
+- [ ] **negotiable**  `P4`
+- [ ] **neighbor/neighbour**  `P4`
+- [ ] **neighborhood/neighbourhood**  `P4`
+- [ ] **networking**  `P4`
+- [ ] **neutrality**  `P4`
+- [ ] **neutralize/neutralise**  `P4`
+- [ ] **nicety**  `P4`
+- [ ] **nickel**  `P4`
+- [ ] **nightly**  `P4`
+- [ ] **nobility**  `P4`
+- [ ] **nonsense**  `P4`
+- [ ] **noodle**  `P4`
+- [ ] **normalize/normalise**  `P4`
+- [ ] **normalization/normalisation**  `P4`
+- [ ] **northeastern**  `P4`
+- [ ] **northwestern**  `P4`
+- [ ] **nosy**  `P4`
+- [ ] **notation**  `P4`
+- [ ] **notify**  `P4`
+- [ ] **notification**  `P4`
+- [ ] **notional**  `P4`
+- [ ] **nourish**  `P4`
+- [ ] **nourishment**  `P4`
+- [ ] **novelty**  `P4`
+- [ ] **november**  `P4`
+- [ ] **nucleus**  `P4`
+- [ ] **nude**  `P4`
+- [ ] **nudity**  `P4`
+- [ ] **nuisance**  `P4`
+- [ ] **nutrition**  `P4`
+- [ ] **obese**  `P4`
+- [ ] **obesity**  `P4`
+- [ ] **obedience**  `P4`
+- [ ] **oblige**  `P4`
+- [ ] **obliged**  `P4`
+- [ ] **obligatory**  `P4`
+- [ ] **obtainment**  `P4`
+- [ ] **occupancy**  `P4`
+- [ ] **occupant**  `P4`
+- [ ] **oceanic**  `P4`
+- [ ] **october**  `P4`
+- [ ] **oddity**  `P4`
+- [ ] **odor/odour**  `P4`
+- [ ] **odorous**  `P4`
+- [ ] **offend**  `P4`
+- [ ] **offense/offence**  `P4`
+- [ ] **often/oftentimes**  `P4`
+- [ ] **oily**  `P4`
+- [ ] **olympiad**  `P4`
+- [ ] **omit**  `P4`
+- [ ] **omission**  `P4`
+- [ ] **oneself**  `P4`
+- [ ] **onward**  `P4`
+- [ ] **opener**  `P4`
+- [ ] **optimism**  `P4`
+- [ ] **optimist**  `P4`
+- [ ] **orbital**  `P4`
+- [ ] **ore**  `P4`
+- [ ] **organize/organise**  `P4`
+- [ ] **organization/organisation**  `P4`
+- [ ] **organizational/organisational**  `P4`
+- [ ] **orient**  `P4`
+- [ ] **oriental**  `P4`
+- [ ] **originality**  `P4`
+- [ ] **ornament**  `P4`
+- [ ] **orphanage**  `P4`
+- [ ] **oughtto**  `P4`
+- [ ] **outbreak**  `P4`
+- [ ] **outdated**  `P4`
+- [ ] **outing**  `P4`
+- [ ] **outskirts**  `P4`
+- [ ] **outward**  `P4`
+- [ ] **outwards**  `P4`
+- [ ] **oval**  `P4`
+- [ ] **overhear**  `P4`
+- [ ] **oversight**  `P4`
+- [ ] **overtake**  `P4`
+- [ ] **overthrow**  `P4`
+- [ ] **overtime**  `P4`
+- [ ] **overwhelmingly**  `P4`
+- [ ] **owingto**  `P4`
+- [ ] **ox**  `P4`
+- [ ] **ozone**  `P4`
+- [ ] **paddy**  `P4`
+- [ ] **panda**  `P4`
+- [ ] **pants**  `P4`
+- [ ] **paperback**  `P4`
+- [ ] **paradoxical**  `P4`
+- [ ] **parenting**  `P4`
+- [ ] **password**  `P4`
+- [ ] **paste**  `P4`
+- [ ] **pastime**  `P4`
+- [ ] **pave**  `P4`
+- [ ] **pavement**  `P4`
+- [ ] **paw**  `P4`
+- [ ] **payroll**  `P4`
+- [ ] **pea**  `P4`
+- [ ] **peach**  `P4`
+- [ ] **pearl**  `P4`
+- [ ] **peculiarity**  `P4`
+- [ ] **pedestrian**  `P4`
+- [ ] **penalize/penalise**  `P4`
+- [ ] **penetrate**  `P4`
+- [ ] **penetration**  `P4`
+- [ ] **pensioner**  `P4`
+- [ ] **perfection**  `P4`
+- [ ] **peril**  `P4`
+- [ ] **perilous**  `P4`
+- [ ] **periodic**  `P4`
+- [ ] **periodical**  `P4`
+- [ ] **permanence**  `P4`
+- [ ] **permissive**  `P4`
+- [ ] **persevere**  `P4`
+- [ ] **perseverance**  `P4`
+- [ ] **persistence**  `P4`
+- [ ] **persuasion**  `P4`
+- [ ] **pessimism**  `P4`
+- [ ] **pessimist**  `P4`
+- [ ] **petroleum**  `P4`
+- [ ] **philosopher**  `P4`
+- [ ] **photo/photograph**  `P4`
+- [ ] **phrasal**  `P4`
+- [ ] **physicist**  `P4`
+- [ ] **pianist**  `P4`
+- [ ] **picky**  `P4`
+- [ ] **pierce**  `P4`
+- [ ] **pigeon**  `P4`
+- [ ] **pillar**  `P4`
+- [ ] **pinch**  `P4`
+- [ ] **pirate**  `P4`
+- [ ] **piracy**  `P4`
+- [ ] **plague**  `P4`
+- [ ] **planetary**  `P4`
+- [ ] **plantation**  `P4`
+- [ ] **plough/plow**  `P4`
+- [ ] **plural**  `P4`
+- [ ] **podcast**  `P4`
+- [ ] **poetic**  `P4`
+- [ ] **pointless**  `P4`
+- [ ] **poisonous**  `P4`
+- [ ] **polar**  `P4`
+- [ ] **polish**  `P4`
+- [ ] **polite**  `P4`
+- [ ] **politeness**  `P4`
+- [ ] **pollster**  `P4`
+- [ ] **pollute**  `P4`
+- [ ] **pollutant**  `P4`
+- [ ] **populous**  `P4`
+- [ ] **populate**  `P4`
+- [ ] **portable**  `P4`
+- [ ] **porter**  `P4`
+- [ ] **posture**  `P4`
+- [ ] **possessive**  `P4`
+- [ ] **postage**  `P4`
+- [ ] **postman**  `P4`
+- [ ] **postpone**  `P4`
+- [ ] **postponement**  `P4`
+- [ ] **potentiality**  `P4`
+- [ ] **practise/practice**  `P4`
+- [ ] **practicable**  `P4`
+- [ ] **practicality**  `P4`
+- [ ] **preacher**  `P4`
+- [ ] **precautionary**  `P4`
+- [ ] **precision**  `P4`
+- [ ] **preface**  `P4`
+- [ ] **preferable**  `P4`
+- [ ] **preferential**  `P4`
+- [ ] **preparatory**  `P4`
+- [ ] **preposition**  `P4`
+- [ ] **prescribe**  `P4`
+- [ ] **presently**  `P4`
+- [ ] **preservation**  `P4`
+- [ ] **preservative**  `P4`
+- [ ] **pretense/pretence**  `P4`
+- [ ] **prevalence**  `P4`
+- [ ] **preventive**  `P4`
+- [ ] **preview**  `P4`
+- [ ] **priceless**  `P4`
+- [ ] **prince/princess**  `P4`
+- [ ] **printing**  `P4`
+- [ ] **privatize/privatise**  `P4`
+- [ ] **privatization/privatisation**  `P4`
+- [ ] **privileged**  `P4`
+- [ ] **proceedings**  `P4`
+- [ ] **proclamation**  `P4`
+- [ ] **proficiency**  `P4`
+- [ ] **program/programme**  `P4`
+- [ ] **progression**  `P4`
+- [ ] **prohibition**  `P4`
+- [ ] **prominence**  `P4`
+- [ ] **pronoun**  `P4`
+- [ ] **pronounce**  `P4`
+- [ ] **proposition**  `P4`
+- [ ] **prose**  `P4`
+- [ ] **proverb**  `P4`
+- [ ] **proverbial**  `P4`
+- [ ] **provocation**  `P4`
+- [ ] **publicize/publicise**  `P4`
+- [ ] **punctual**  `P4`
+- [ ] **punctuality**  `P4`
+- [ ] **purity**  `P4`
+- [ ] **purify**  `P4`
+- [ ] **purposeful**  `P4`
+- [ ] **pushy**  `P4`
+- [ ] **puzzlement**  `P4`
+- [ ] **quake**  `P4`
+- [ ] **qualitative**  `P4`
+- [ ] **quantify**  `P4`
+- [ ] **quantification**  `P4`
+- [ ] **quarrelsome**  `P4`
+- [ ] **quota**  `P4`
+- [ ] **racist**  `P4`
+- [ ] **rag**  `P4`
+- [ ] **ragged**  `P4`
+- [ ] **raggedly**  `P4`
+- [ ] **raging**  `P4`
+- [ ] **raid**  `P4`
+- [ ] **railway/railroad**  `P4`
+- [ ] **rapidity**  `P4`
+- [ ] **rarity**  `P4`
+- [ ] **ray**  `P4`
+- [ ] **reactionary**  `P4`
+- [ ] **realism**  `P4`
+- [ ] **realization/realisation**  `P4`
+- [ ] **reap**  `P4`
+- [ ] **rebellion**  `P4`
+- [ ] **rebellious**  `P4`
+- [ ] **receptionist**  `P4`
+- [ ] **recite**  `P4`
+- [ ] **recitation**  `P4`
+- [ ] **recognize**  `P4`
+- [ ] **recruitment**  `P4`
+- [ ] **recycle**  `P4`
+- [ ] **recyclable**  `P4`
+- [ ] **refinery**  `P4`
+- [ ] **refinement**  `P4`
+- [ ] **reformationreformist**  `P4`
+- [ ] **refrain**  `P4`
+- [ ] **refresh**  `P4`
+- [ ] **refreshment**  `P4`
+- [ ] **refrigerator/fridge**  `P4`
+- [ ] **refrigeration**  `P4`
+- [ ] **registration**  `P4`
+- [ ] **registrar**  `P4`
+- [ ] **regrettable**  `P4`
+- [ ] **regretful**  `P4`
+- [ ] **regularity**  `P4`
+- [ ] **reinforcement**  `P4`
+- [ ] **relay**  `P4`
+- [ ] **reluctance**  `P4`
+- [ ] **reliance**  `P4`
+- [ ] **remembrance**  `P4`
+- [ ] **rendering**  `P4`
+- [ ] **renew**  `P4`
+- [ ] **renewal**  `P4`
+- [ ] **renovation**  `P4`
+- [ ] **reparable**  `P4`
+- [ ] **repay**  `P4`
+- [ ] **repayment**  `P4`
+- [ ] **resemblance**  `P4`
+- [ ] **resentment**  `P4`
+- [ ] **respectable**  `P4`
+- [ ] **respectful**  `P4`
+- [ ] **restoration**  `P4`
+- [ ] **restrain**  `P4`
+- [ ] **restraint**  `P4`
+- [ ] **resumption**  `P4`
+- [ ] **résumé**  `P4`
+- [ ] **retell**  `P4`
+- [ ] **retelling**  `P4`
+- [ ] **reunite**  `P4`
+- [ ] **reunification**  `P4`
+- [ ] **reunion**  `P4`
+- [ ] **reversal**  `P4`
+- [ ] **reversible**  `P4`
+- [ ] **reviewer**  `P4`
+- [ ] **revolve**  `P4`
+- [ ] **riddle**  `P4`
+- [ ] **ridicule**  `P4`
+- [ ] **riotous**  `P4`
+- [ ] **ripen**  `P4`
+- [ ] **rivalry**  `P4`
+- [ ] **roar**  `P4`
+- [ ] **roast**  `P4`
+- [ ] **rob**  `P4`
+- [ ] **robbery**  `P4`
+- [ ] **robotic**  `P4`
+- [ ] **roller**  `P4`
+- [ ] **rosy**  `P4`
+- [ ] **rouse**  `P4`
+- [ ] **royalty**  `P4`
+- [ ] **rug**  `P4`
+- [ ] **ruinous**  `P4`
+- [ ] **rumor/rumour**  `P4`
+- [ ] **runway**  `P4`
+- [ ] **sacrificial**  `P4`
+- [ ] **sadden**  `P4`
+- [ ] **sailing**  `P4`
+- [ ] **saint**  `P4`
+- [ ] **salesman**  `P4`
+- [ ] **saturday**  `P4`
+- [ ] **saying**  `P4`
+- [ ] **scandalous**  `P4`
+- [ ] **scar**  `P4`
+- [ ] **scarce**  `P4`
+- [ ] **scarcity**  `P4`
+- [ ] **scholastic**  `P4`
+- [ ] **schooling**  `P4`
+- [ ] **scout**  `P4`
+- [ ] **scripture**  `P4`
+- [ ] **second-hand**  `P4`
+- [ ] **secrecy**  `P4`
+- [ ] **secretive**  `P4`
+- [ ] **secretarial**  `P4`
+- [ ] **seedling**  `P4`
+- [ ] **seeming**  `P4`
+- [ ] **segmental**  `P4`
+- [ ] **seizure**  `P4`
+- [ ] **selfless**  `P4`
+- [ ] **semester**  `P4`
+- [ ] **seniority**  `P4`
+- [ ] **separatist**  `P4`
+- [ ] **september**  `P4`
+- [ ] **sequential**  `P4`
+- [ ] **severity**  `P4`
+- [ ] **sew**  `P4`
+- [ ] **shaky**  `P4`
+- [ ] **shameless**  `P4`
+- [ ] **sharpen**  `P4`
+- [ ] **shave**  `P4`
+- [ ] **shaver**  `P4`
+- [ ] **shipping**  `P4`
+- [ ] **shipment**  `P4`
+- [ ] **shiver**  `P4`
+- [ ] **shortcoming**  `P4`
+- [ ] **showy**  `P4`
+- [ ] **shyness**  `P4`
+- [ ] **shyly**  `P4`
+- [ ] **sicken**  `P4`
+- [ ] **sideways**  `P4`
+- [ ] **siege**  `P4`
+- [ ] **sightseeing**  `P4`
+- [ ] **silicon**  `P4`
+- [ ] **silky**  `P4`
+- [ ] **silvery**  `P4`
+- [ ] **simplify**  `P4`
+- [ ] **sincerity**  `P4`
+- [ ] **singularity**  `P4`
+- [ ] **sip**  `P4`
+- [ ] **sitting**  `P4`
+- [ ] **situate**  `P4`
+- [ ] **sizable**  `P4`
+- [ ] **skate**  `P4`
+- [ ] **skating**  `P4`
+- [ ] **skeleton**  `P4`
+- [ ] **sketch**  `P4`
+- [ ] **sketchy**  `P4`
+- [ ] **skiing**  `P4`
+- [ ] **skilful/skillful**  `P4`
+- [ ] **skinny**  `P4`
+- [ ] **skyline**  `P4`
+- [ ] **sleepiness**  `P4`
+- [ ] **slender**  `P4`
+- [ ] **slippery**  `P4`
+- [ ] **slipper**  `P4`
+- [ ] **slogan**  `P4`
+- [ ] **smartphone**  `P4`
+- [ ] **smash**  `P4`
+- [ ] **smelly**  `P4`
+- [ ] **smog**  `P4`
+- [ ] **smoggy**  `P4`
+- [ ] **smoky**  `P4`
+- [ ] **snack**  `P4`
+- [ ] **socialize/socialise**  `P4`
+- [ ] **sociology**  `P4`
+- [ ] **sociologist**  `P4`
+- [ ] **soda**  `P4`
+- [ ] **solemnity**  `P4`
+- [ ] **solidity**  `P4`
+- [ ] **solidify**  `P4`
+- [ ] **solvent**  `P4`
+- [ ] **soluble**  `P4`
+- [ ] **sophistication**  `P4`
+- [ ] **sore**  `P4`
+- [ ] **sorrow**  `P4`
+- [ ] **sorrowful**  `P4`
+- [ ] **southeastern**  `P4`
+- [ ] **southwestern**  `P4`
+- [ ] **sow**  `P4`
+- [ ] **spaceship/spacecraft**  `P4`
+- [ ] **span**  `P4`
+- [ ] **sparingly**  `P4`
+- [ ] **sparkle**  `P4`
+- [ ] **specialize/specialise**  `P4`
+- [ ] **specialization/specialisation**  `P4`
+- [ ] **specification**  `P4`
+- [ ] **specimen**  `P4`
+- [ ] **speechless**  `P4`
+- [ ] **speedy**  `P4`
+- [ ] **speeding**  `P4`
+- [ ] **spherical**  `P4`
+- [ ] **splash**  `P4`
+- [ ] **splendid**  `P4`
+- [ ] **splendid/splendour**  `P4`
+- [ ] **spoil**  `P4`
+- [ ] **spokesman/spokeswoman**  `P4`
+- [ ] **spokesperson**  `P4`
+- [ ] **sponsorship**  `P4`
+- [ ] **spontaneity**  `P4`
+- [ ] **spoonful**  `P4`
+- [ ] **sportsman/sportswoman**  `P4`
+- [ ] **spur**  `P4`
+- [ ] **stabilize/stabilise**  `P4`
+- [ ] **stain**  `P4`
+- [ ] **staircase**  `P4`
+- [ ] **standardize**  `P4`
+- [ ] **standardization/standardisation**  `P4`
+- [ ] **starry**  `P4`
+- [ ] **startle**  `P4`
+- [ ] **starve**  `P4`
+- [ ] **starvation**  `P4`
+- [ ] **statesman**  `P4`
+- [ ] **stationary**  `P4`
+- [ ] **statistic**  `P4`
+- [ ] **steamy**  `P4`
+- [ ] **steamer**  `P4`
+- [ ] **stiffen**  `P4`
+- [ ] **stimulation**  `P4`
+- [ ] **stimulant**  `P4`
+- [ ] **sting**  `P4`
+- [ ] **stocking**  `P4`
+- [ ] **stony**  `P4`
+- [ ] **stool**  `P4`
+- [ ] **stoppage**  `P4`
+- [ ] **stormy**  `P4`
+- [ ] **story/storey**  `P4`
+- [ ] **strap**  `P4`
+- [ ] **stressful**  `P4`
+- [ ] **stride**  `P4`
+- [ ] **stripe**  `P4`
+- [ ] **strive**  `P4`
+- [ ] **stuffy**  `P4`
+- [ ] **stuffing**  `P4`
+- [ ] **stupidity**  `P4`
+- [ ] **submission**  `P4`
+- [ ] **submissive**  `P4`
+- [ ] **substitution**  `P4`
+- [ ] **subtract**  `P4`
+- [ ] **subtraction**  `P4`
+- [ ] **successor**  `P4`
+- [ ] **succession**  `P4`
+- [ ] **suggestive**  `P4`
+- [ ] **suitcase**  `P4`
+- [ ] **summarize/summrise**  `P4`
+- [ ] **sunday**  `P4`
+- [ ] **superiority**  `P4`
+- [ ] **supervise**  `P4`
+- [ ] **supervision**  `P4`
+- [ ] **supper**  `P4`
+- [ ] **supplement**  `P4`
+- [ ] **supplementary**  `P4`
+- [ ] **supposition**  `P4`
+- [ ] **supremacy**  `P4`
+- [ ] **surf**  `P4`
+- [ ] **surfing**  `P4`
+- [ ] **surge**  `P4`
+- [ ] **surname**  `P4`
+- [ ] **surroundings**  `P4`
+- [ ] **suspension**  `P4`
+- [ ] **suspense**  `P4`
+- [ ] **sustainability**  `P4`
+- [ ] **sway**  `P4`
+- [ ] **swimmer**  `P4`
+- [ ] **swipe**  `P4`
+- [ ] **symbolic/symbolical**  `P4`
+- [ ] **sympathize/sympathise**  `P4`
+- [ ] **takeoff**  `P4`
+- [ ] **talkative**  `P4`
+- [ ] **taxation**  `P4`
+- [ ] **technology/tech**  `P4`
+- [ ] **telecommunications**  `P4`
+- [ ] **telephone/phone**  `P4`
+- [ ] **telescopic**  `P4`
+- [ ] **television/tv**  `P4`
+- [ ] **telling**  `P4`
+- [ ] **teller**  `P4`
+- [ ] **temper**  `P4`
+- [ ] **terrify**  `P4`
+- [ ] **textile**  `P4`
+- [ ] **thankful**  `P4`
+- [ ] **theater/theatre**  `P4`
+- [ ] **theft**  `P4`
+- [ ] **therapeutic/therapeutical**  `P4`
+- [ ] **thesis**  `P4`
+- [ ] **thrust**  `P4`
+- [ ] **thunderous**  `P4`
+- [ ] **thursday**  `P4`
+- [ ] **tick**  `P4`
+- [ ] **tidal**  `P4`
+- [ ] **tigress**  `P4`
+- [ ] **tin**  `P4`
+- [ ] **tiring**  `P4`
+- [ ] **tireless**  `P4`
+- [ ] **token**  `P4`
+- [ ] **tolerable**  `P4`
+- [ ] **ton**  `P4`
+- [ ] **tonnage**  `P4`
+- [ ] **torch**  `P4`
+- [ ] **torture**  `P4`
+- [ ] **toward/towards**  `P4`
+- [ ] **township**  `P4`
+- [ ] **tractor**  `P4`
+- [ ] **trademark**  `P4`
+- [ ] **trafficking**  `P4`
+- [ ] **tragically**  `P4`
+- [ ] **trainee**  `P4`
+- [ ] **tram**  `P4`
+- [ ] **transcript**  `P4`
+- [ ] **transference**  `P4`
+- [ ] **translator**  `P4`
+- [ ] **transmitter**  `P4`
+- [ ] **transplant**  `P4`
+- [ ] **transplantation**  `P4`
+- [ ] **tremble**  `P4`
+- [ ] **trifle**  `P4`
+- [ ] **triple**  `P4`
+- [ ] **triumphant**  `P4`
+- [ ] **trolley**  `P4`
+- [ ] **trousers**  `P4`
+- [ ] **trustee**  `P4`
+- [ ] **trying**  `P4`
+- [ ] **tuesday**  `P4`
+- [ ] **tuition**  `P4`
+- [ ] **tumor/tumour**  `P4`
+- [ ] **tutorial**  `P4`
+- [ ] **typist**  `P4`
+- [ ] **tyre/tire**  `P4`
+- [ ] **underestimate**  `P4`
+- [ ] **underline**  `P4`
+- [ ] **undertaking**  `P4`
+- [ ] **undo**  `P4`
+- [ ] **uneasy**  `P4`
+- [ ] **uniformity**  `P4`
+- [ ] **upgrade**  `P4`
+- [ ] **upload**  `P4`
+- [ ] **up-to-date**  `P4`
+- [ ] **upwards**  `P4`
+- [ ] **urbanize/urbanise**  `P4`
+- [ ] **urbanization/urbanisation**  `P4`
+- [ ] **urgency**  `P4`
+- [ ] **utilize/utilise**  `P4`
+- [ ] **utilization/utilisation**  `P4`
+- [ ] **utmost**  `P4`
+- [ ] **utter**  `P4`
+- [ ] **vacancy**  `P4`
+- [ ] **vain**  `P4`
+- [ ] **vanity**  `P4`
+- [ ] **validate**  `P4`
+- [ ] **vapor/vapour**  `P4`
+- [ ] **variant**  `P4`
+- [ ] **veil**  `P4`
+- [ ] **verification**  `P4`
+- [ ] **veto**  `P4`
+- [ ] **victimize**  `P4`
+- [ ] **viewpoint**  `P4`
+- [ ] **vigor**  `P4`
+- [ ] **villager**  `P4`
+- [ ] **vinegar**  `P4`
+- [ ] **violinist**  `P4`
+- [ ] **virtuous**  `P4`
+- [ ] **visibility**  `P4`
+- [ ] **visionary**  `P4`
+- [ ] **visualize/visualise**  `P4`
+- [ ] **vitality**  `P4`
+- [ ] **vocation**  `P4`
+- [ ] **vocational**  `P4`
+- [ ] **volt**  `P4`
+- [ ] **voltage**  `P4`
+- [ ] **voluminous**  `P4`
+- [ ] **voyage**  `P4`
+- [ ] **vulnerability**  `P4`
+- [ ] **wagon/waggon**  `P4`
+- [ ] **waiter/waitress**  `P4`
+- [ ] **waken**  `P4`
+- [ ] **ware**  `P4`
+- [ ] **warfare**  `P4`
+- [ ] **washing**  `P4`
+- [ ] **waterproof**  `P4`
+- [ ] **watertight**  `P4`
+- [ ] **wavy**  `P4`
+- [ ] **wax**  `P4`
+- [ ] **webcast**  `P4`
+- [ ] **wed**  `P4`
+- [ ] **wednesday**  `P4`
+- [ ] **weep**  `P4`
+- [ ] **well-off**  `P4`
+- [ ] **westerner**  `P4`
+- [ ] **whatsoever**  `P4`
+- [ ] **while/whilst**  `P4`
+- [ ] **whisky**  `P4`
+- [ ] **widen**  `P4`
+- [ ] **widower**  `P4`
+- [ ] **willpower**  `P4`
+- [ ] **windy**  `P4`
+- [ ] **winery**  `P4`
+- [ ] **wireless**  `P4`
+- [ ] **witty**  `P4`
+- [ ] **woolen/woollen**  `P4`
+- [ ] **wording**  `P4`
+- [ ] **workforce**  `P4`
+- [ ] **worthless**  `P4`
+- [ ] **worthiness**  `P4`
+- [ ] **wrapping**  `P4`
+- [ ] **wreck**  `P4`
+- [ ] **wreckage**  `P4`
+- [ ] **wrinkle**  `P4`
+- [ ] **x-ray**  `P4`
+- [ ] **yoga**  `P4`
+- [ ] **yoghurt**  `P4`
+- [ ] **zero**  `P4`
+- [ ] **zoo**  `P4`
+- [ ] **zoology**  `P4`
+- [ ] **zoological**  `P4`
+- [ ] **harass** - v. 骚扰  `P4`
+- [x] **hierarchy** - n. 等级制度  `P4`
+- [ ] **homogeneous** - adj. 同质的  `P4`
+- [ ] **illuminate** - v. 照亮；阐明  `P4`
+- [ ] **intervene** - v. 干预；介入  `P4`
+- [ ] **irritate** - v. 激怒；刺激  `P4`
+- [ ] **juvenile** - adj./n. 青少年的；青少年  `P4`
+- [ ] **linger** - v. 逗留；徘徊  `P4`
+- [ ] **lucrative** - adj. 有利可图的  `P4`
+- [x] **magnify** - v. 放大；夸大  `P4`
+- [ ] **manifest** - v./adj. 表明；明显的  `P4`
+- [ ] **masculine** - adj. 男性的  `P4`
+- [ ] **mediate** - v. 调解；斡旋  `P4`
+- [ ] **monopoly** - n. 垄断  `P4`
+- [ ] **offset** - v./n. 抵消；补偿  `P4`
+- [ ] **overlap** - v./n. 重叠  `P4`
+- [x] **parameter** - n. 参数；界限  `P4`
+- [x] **symbolic** - adj. 象征性的  `P4` [COCA 5000]
+- [x] **utilize** - v. 利用  `P4` [COCA 5000]
+- [ ] **converse**  `P4`
+- [ ] **invalid**  `P4`
+- [ ] **staple**  `P4`
+- [ ] **artifact**  `P4` [COCA 5000]
+- [ ] **auction**  `P4` [COCA 5000]
+- [ ] **autonomy**  `P4` [COCA 5000]
+- [ ] **blink**  `P4` [COCA 5000]
+- [ ] **bronze**  `P4` [COCA 5000]
+- [ ] **butt**  `P4` [COCA 5000]
+- [ ] **chunk**  `P4` [COCA 5000]
+- [ ] **conception**  `P4` [COCA 5000]
+- [ ] **constraint**  `P4` [COCA 5000]
+- [ ] **contemplate**  `P4` [COCA 5000]
+- [ ] **debris**  `P4` [COCA 5000]
+- [ ] **debut**  `P4` [COCA 5000]
+- [ ] **demographic**  `P4` [COCA 5000]
+- [ ] **deploy**  `P4` [COCA 5000]
+- [ ] **devastating**  `P4` [COCA 5000]
+- [ ] **ecosystem**  `P4` [COCA 5000]
+- [ ] **ego**  `P4` [COCA 5000]
+- [ ] **enact**  `P4` [COCA 5000]
+- [ ] **feminist**  `P4` [COCA 5000]
+- [ ] **frown**  `P4` [COCA 5000]
+- [ ] **genre**  `P4` [COCA 5000]
+- [ ] **harassment**  `P4` [COCA 5000]
+- [ ] **hike**  `P4` [COCA 5000]
+- [ ] **jurisdiction**  `P4` [COCA 5000]
+- [ ] **landmark**  `P4` [COCA 5000]
+- [ ] **mansion**  `P4` [COCA 5000]
+- [ ] **mentor**  `P4` [COCA 5000]
+- [ ] **missionary**  `P4` [COCA 5000]
+- [ ] **molecule**  `P4` [COCA 5000]
+- [ ] **mortality**  `P4` [COCA 5000]
+- [ ] **mutter**  `P4` [COCA 5000]
+- [ ] **parish**  `P4` [COCA 5000]
+- [ ] **pasta**  `P4` [COCA 5000]
+- [ ] **patron**  `P4` [COCA 5000]
+- [ ] **plaintiff**  `P4` [COCA 5000]
+- [ ] **plea**  `P4` [COCA 5000]
+- [ ] **poke**  `P4` [COCA 5000]
+- [ ] **precede** - v. 在……之前  `P4`
+- [ ] **predator**  `P4` [COCA 5000]
+- [ ] **premise**  `P4` [COCA 5000]
+- [ ] **prestige** - n. 声望  `P4`
+- [x] **probe** - v./n. 探究；探针  `P4`
+- [x] **prosperity** - n. 繁荣  `P4`
+- [ ] **reconcile** - v. 调和；和解  `P4`
+- [ ] **refuge**  `P4` [COCA 5000]
+- [ ] **refute** - v. 反驳  `P4`
+- [ ] **rehabilitation**  `P4` [COCA 5000]
+- [ ] **retrieve** - v. 找回；检索  `P4`
+- [x] **rigorous** - adj. 严格的  `P4`
+- [ ] **rim**  `P4` [COCA 5000]
+- [ ] **scrutiny** - n. 仔细审查  `P4`
+- [x] **simulate** - v. 模拟；假装  `P4`
+- [ ] **slot**  `P4` [COCA 5000]
+- [ ] **sneak**  `P4` [COCA 5000]
+- [ ] **sovereignty**  `P4` [COCA 5000]
+- [ ] **spine**  `P4` [COCA 5000]
+- [ ] **sprinkle**  `P4` [COCA 5000]
+- [ ] **squad**  `P4` [COCA 5000]
+- [x] **stagger** - v. 蹒跚；使震惊  `P4`
+- [ ] **stereotype**  `P4` [COCA 5000]
+- [ ] **streak**  `P4` [COCA 5000]
+- [ ] **subordinate** - adj./n. 下级的；下属  `P4`
+- [ ] **suite**  `P4` [COCA 5000]
+- [ ] **suppress** - v. 镇压；抑制  `P4`
+- [ ] **surpass** - v. 超过  `P4`
+- [ ] **synthetic** - adj. 合成的  `P4`
+- [ ] **temperament** - n. 气质；性情  `P4`
+- [x] **tentative** - adj. 试探性的；暂定的  `P4`
+- [x] **terminate** - v. 终止  `P4`
+- [ ] **terrain**  `P4` [COCA 5000]
+- [ ] **tile**  `P4` [COCA 5000]
+- [ ] **transcend** - v. 超越  `P4`
+- [ ] **trauma**  `P4` [COCA 5000]
+- [ ] **trim**  `P4` [COCA 5000]
+- [ ] **turbulent** - adj. 动荡的  `P4`
+- [ ] **unfold**  `P4` [COCA 5000]
+- [ ] **warrant** - n./v. 授权；正当理由；保证  `P4`
+- [x] **severely** - adv. 严重地；严厉地  `P4` [COCA 5000]
+- [ ] **deduce** - v. 推断；演绎  `P4`
+- [ ] **dwell** - v. 居住；详述  `P4`
+- [x] **fulfill** - v. 履行；实现  `P4`
+- [ ] **grievance** - n. 不满；委屈  `P4`
+- [ ] **intersection** - n. 交叉口；交集  `P4`
+- [ ] **jeopardize** - v. 危及  `P4`
+- [ ] **abbreviation** - n. 缩写；缩写词  `P4`
+- [ ] **abide** - v. 遵守；忍受  `P4`
+- [ ] **abort** - v. 中止；流产  `P4`
+- [ ] **abreast** - adv. 并肩；并列  `P4`
+- [ ] **absurdity** - n. 荒谬；荒唐  `P4`
+- [ ] **acclaim** - n./v. 欢呼；称赞  `P4`
+- [ ] **activate** - v. 激活；使活动  `P4`
+- [ ] **acupuncture**  `P4`
+- [ ] **adherence**  `P4`
+- [ ] **adolescence**  `P4`
+- [ ] **adore**  `P4`
+- [ ] **adorable**  `P4`
+- [ ] **advent**  `P4`
+- [ ] **adversary**  `P4`
+- [ ] **adversity**  `P4`
+- [ ] **aesthetics**  `P4`
+- [ ] **affiliate**  `P4`
+- [ ] **affiliation**  `P4`
+- [ ] **affirm** - v. 断言；确认  `P4`
+- [ ] **affirmation**  `P4`
+- [ ] **affirmative** - adj. 肯定的  `P4`
+- [ ] **affix**  `P4`
+- [ ] **affixation**  `P4`
+- [ ] **afloat**  `P4`
+- [ ] **aftermath**  `P4`
+- [ ] **aggravation**  `P4`
+- [ ] **agitate**  `P4`
+- [ ] **agitation**  `P4`
+- [ ] **agony**  `P4`
+- [ ] **ail**  `P4`
+- [ ] **ailment**  `P4`
+- [ ] **airborne**  `P4`
+- [ ] **akin**  `P4`
+- [ ] **ale**  `P4`
+- [ ] **alienate**  `P4`
+- [ ] **alienation**  `P4`
+- [ ] **align**  `P4`
+- [ ] **alignment**  `P4`
+- [ ] **allergic**  `P4`
+- [ ] **allergy**  `P4`
+- [ ] **alleviate**  `P4`
+- [ ] **alleviation**  `P4`
+- [ ] **allocation**  `P4`
+- [ ] **allot**  `P4`
+- [ ] **allotment**  `P4`
+- [ ] **alloy**  `P4`
+- [ ] **allude**  `P4`
+- [ ] **allusion**  `P4`
+- [ ] **allure**  `P4`
+- [ ] **allurement**  `P4`
+- [ ] **almighty**  `P4`
+- [ ] **aloft**  `P4`
+- [ ] **alternate**  `P4`
+- [ ] **alternation**  `P4`
+- [ ] **alternately**  `P4`
+- [ ] **amass**  `P4`
+- [ ] **ambiguity**  `P4`
+- [ ] **amiable**  `P4`
+- [ ] **ammunition**  `P4`
+- [ ] **amplify**  `P4`
+- [ ] **amplification**  `P4`
+- [ ] **analogue**  `P4`
+- [ ] **analogous**  `P4`
+- [ ] **anecdote**  `P4`
+- [ ] **anecdotal**  `P4`
+- [ ] **anguish**  `P4`
+- [ ] **animate**  `P4`
+- [ ] **animated**  `P4`
+- [ ] **animation**  `P4`
+- [ ] **annex**  `P4`
+- [ ] **annexation**  `P4`
+- [ ] **anonymity**  `P4`
+- [ ] **antagonism**  `P4`
+- [ ] **antagonist**  `P4`
+- [ ] **antagonistic**  `P4`
+- [ ] **antagonistically**  `P4`
+- [ ] **antenna**  `P4`
+- [ ] **antibiotic**  `P4`
+- [ ] **antonym**  `P4`
+- [ ] **ape**  `P4`
+- [ ] **appal/appall**  `P4`
+- [ ] **appalling**  `P4`
+- [ ] **appease**  `P4`
+- [ ] **appeasement**  `P4`
+- [ ] **appraise**  `P4`
+- [ ] **appraisal**  `P4`
+- [ ] **apprentice**  `P4`
+- [ ] **appropriation**  `P4`
+- [ ] **apron**  `P4`
+- [ ] **apt**  `P4`
+- [ ] **aptly**  `P4`
+- [ ] **arbitrate**  `P4`
+- [ ] **arbitration**  `P4`
+- [ ] **arc**  `P4`
+- [ ] **arch**  `P4`
+- [ ] **archive**  `P4`
+- [ ] **ardent**  `P4`
+- [ ] **aristocrat**  `P4`
+- [ ] **aristocratic**  `P4`
+- [ ] **aristocracy**  `P4`
+- [ ] **armor/armour**  `P4`
+- [ ] **arrogant**  `P4`
+- [ ] **arrogance**  `P4`
+- [ ] **artery**  `P4`
+- [ ] **articulation**  `P4`
+- [ ] **artillery**  `P4`
+- [ ] **ascend**  `P4`
+- [ ] **ascendance**  `P4`
+- [ ] **ascertain**  `P4`
+- [ ] **ascribe**  `P4`
+- [ ] **aspire**  `P4`
+- [ ] **aspiration**  `P4`
+- [ ] **assassinate**  `P4`
+- [ ] **assassination**  `P4`
+- [ ] **assassin**  `P4`
+- [ ] **assertion**  `P4`
+- [ ] **assertive**  `P4`
+- [ ] **assimilate**  `P4`
+- [ ] **assimilation**  `P4`
+- [ ] **assorted**  `P4`
+- [ ] **assortment**  `P4`
+- [ ] **astray**  `P4`
+- [ ] **asylum**  `P4`
+- [ ] **atlas**  `P4`
+- [ ] **atrocity**  `P4`
+- [ ] **atrocious**  `P4`
+- [ ] **auctioneer**  `P4`
+- [ ] **audit**  `P4`
+- [ ] **auditing**  `P4`
+- [ ] **auditor**  `P4`
+- [ ] **augment**  `P4`
+- [ ] **augmentation**  `P4`
+- [ ] **autobiography**  `P4`
+- [ ] **autobiographic/autobiographical**  `P4`
+- [ ] **auxiliary**  `P4`
+- [ ] **avail**  `P4`
+- [ ] **avenge**  `P4`
+- [ ] **avert**  `P4`
+- [ ] **aversion**  `P4`
+- [ ] **bald**  `P4`
+- [ ] **barge**  `P4`
+- [ ] **barometer**  `P4`
+- [ ] **barracks**  `P4`
+- [ ] **barren**  `P4`
+- [ ] **bass**  `P4`
+- [ ] **batter**  `P4`
+- [ ] **bead**  `P4`
+- [ ] **beak**  `P4`
+- [ ] **beckon**  `P4`
+- [ ] **beetle**  `P4`
+- [ ] **benevolent**  `P4`
+- [ ] **benevolence**  `P4`
+- [ ] **benign**  `P4`
+- [ ] **beset**  `P4`
+- [ ] **besiege**  `P4`
+- [ ] **beware**  `P4`
+- [ ] **bewilder**  `P4`
+- [ ] **bewilderment**  `P4`
+- [ ] **bibliography**  `P4`
+- [ ] **bilateral**  `P4`
+- [ ] **binoculars**  `P4`
+- [ ] **bizarre**  `P4`
+- [ ] **blackmail**  `P4`
+- [ ] **blaze**  `P4`
+- [ ] **bleach**  `P4`
+- [ ] **bleak**  `P4`
+- [ ] **bloc**  `P4`
+- [ ] **bluff**  `P4`
+- [ ] **blunder**  `P4`
+- [ ] **blunt**  `P4`
+- [ ] **blush**  `P4`
+- [ ] **bolster**  `P4`
+- [ ] **botany**  `P4`
+- [ ] **botanical**  `P4`
+- [ ] **bouquet**  `P4`
+- [ ] **bout**  `P4`
+- [ ] **boycott**  `P4`
+- [ ] **brace**  `P4`
+- [ ] **breach**  `P4`
+- [ ] **brew**  `P4`
+- [ ] **brewery**  `P4`
+- [ ] **brigade**  `P4`
+- [ ] **brink**  `P4`
+- [ ] **brisk**  `P4`
+- [ ] **brood**  `P4`
+- [ ] **bruise**  `P4`
+- [ ] **buddhism**  `P4`
+- [ ] **buddhist**  `P4`
+- [ ] **buffalo**  `P4`
+- [ ] **buffer**  `P4`
+- [ ] **bureaucrat**  `P4`
+- [ ] **bureaucratic**  `P4`
+- [ ] **burglar**  `P4`
+- [ ] **burglary**  `P4`
+- [ ] **bust**  `P4`
+- [ ] **buzz**  `P4`
+- [ ] **calcium**  `P4`
+- [ ] **cannon**  `P4`
+- [ ] **canoe**  `P4`
+- [ ] **cape**  `P4`
+- [ ] **capsule**  `P4`
+- [ ] **caption**  `P4`
+- [ ] **captive**  `P4`
+- [ ] **caravan**  `P4`
+- [ ] **cardinal**  `P4`
+- [ ] **carton**  `P4`
+- [ ] **carving**  `P4`
+- [ ] **catastrophe**  `P4`
+- [ ] **catastrophic**  `P4`
+- [ ] **cathedral**  `P4`
+- [ ] **cauliflower**  `P4`
+- [ ] **cavity**  `P4`
+- [ ] **censor**  `P4`
+- [ ] **censorship**  `P4`
+- [ ] **census**  `P4`
+- [ ] **ceramic**  `P4`
+- [ ] **certify**  `P4`
+- [ ] **certification**  `P4`
+- [ ] **chancellor**  `P4`
+- [ ] **chant**  `P4`
+- [ ] **chapel**  `P4`
+- [ ] **choir**  `P4`
+- [ ] **chord**  `P4`
+- [ ] **chronically**  `P4`
+- [ ] **chronicle**  `P4`
+- [ ] **clamp**  `P4`
+- [ ] **clan**  `P4`
+- [ ] **clasp**  `P4`
+- [ ] **cleanse**  `P4`
+- [ ] **clearance**  `P4`
+- [ ] **clearing**  `P4`
+- [ ] **clench**  `P4`
+- [ ] **clergy**  `P4`
+- [ ] **cliché**  `P4`
+- [ ] **cloak**  `P4`
+- [ ] **clog**  `P4`
+- [ ] **clutch**  `P4`
+- [ ] **cockpit**  `P4`
+- [ ] **cocktail**  `P4`
+- [ ] **coconut**  `P4`
+- [ ] **coexist**  `P4`
+- [ ] **coexistence**  `P4`
+- [ ] **cognition**  `P4`
+- [ ] **coincidence**  `P4`
+- [ ] **collide**  `P4`
+- [ ] **collision**  `P4`
+- [ ] **colonel**  `P4`
+- [ ] **comet**  `P4`
+- [ ] **comic**  `P4`
+- [ ] **commemorate**  `P4`
+- [ ] **commemoration**  `P4`
+- [ ] **commend**  `P4`
+- [ ] **commendation**  `P4`
+- [ ] **commonwealth**  `P4`
+- [ ] **compartment**  `P4`
+- [ ] **compassion**  `P4`
+- [ ] **compassionate**  `P4`
+- [ ] **compilation**  `P4`
+- [ ] **complacent**  `P4`
+- [ ] **complacency**  `P4`
+- [ ] **complementary**  `P4`
+- [ ] **complexion**  `P4`
+- [ ] **compliment**  `P4`
+- [ ] **complimentary**  `P4`
+- [ ] **composite**  `P4`
+- [ ] **compress**  `P4`
+- [ ] **compression**  `P4`
+- [ ] **conceit**  `P4`
+- [ ] **conceited**  `P4`
+- [ ] **concise**  `P4`
+- [ ] **concurrent**  `P4`
+- [ ] **condolence**  `P4`
+- [ ] **conducive**  `P4`
+- [ ] **confederation**  `P4`
+- [ ] **confederate**  `P4`
+- [ ] **confer**  `P4`
+- [ ] **confide**  `P4`
+- [ ] **configuration**  `P4`
+- [ ] **congregate**  `P4`
+- [ ] **congregation**  `P4`
+- [ ] **connotation**  `P4`
+- [ ] **console**  `P4`
+- [ ] **consolation**  `P4`
+- [ ] **conspire**  `P4`
+- [ ] **constituent**  `P4`
+- [ ] **constituency**  `P4`
+- [ ] **consulate**  `P4`
+- [ ] **consul**  `P4`
+- [ ] **contagious**  `P4`
+- [ ] **contemplation**  `P4`
+- [ ] **contemplative**  `P4`
+- [ ] **contingent**  `P4`
+- [ ] **contrive**  `P4`
+- [ ] **convene**  `P4`
+- [ ] **converge**  `P4`
+- [ ] **convergence**  `P4`
+- [ ] **convoy**  `P4`
+- [ ] **coral**  `P4`
+- [ ] **cordial**  `P4`
+- [ ] **cordiality**  `P4`
+- [ ] **cork**  `P4`
+- [ ] **corporal**  `P4`
+- [ ] **corpse**  `P4`
+- [ ] **correlative**  `P4`
+- [ ] **corrode**  `P4`
+- [ ] **corrosion**  `P4`
+- [ ] **cosmetic**  `P4`
+- [ ] **cosmopolitan**  `P4`
+- [ ] **counteract**  `P4`
+- [ ] **counteraction**  `P4`
+- [ ] **counterfeit**  `P4`
+- [ ] **coup/coup d'état**  `P4`
+- [ ] **courtesy**  `P4`
+- [ ] **cozy/cosy**  `P4`
+- [ ] **crackdown**  `P4`
+- [ ] **cradle**  `P4`
+- [ ] **cram**  `P4`
+- [ ] **crate**  `P4`
+- [ ] **crave**  `P4`
+- [ ] **credential**  `P4`
+- [ ] **cricket**  `P4`
+- [ ] **cripple**  `P4`
+- [ ] **crisp**  `P4`
+- [ ] **crouch**  `P4`
+- [ ] **crow**  `P4`
+- [ ] **crumble**  `P4`
+- [ ] **crunch**  `P4`
+- [ ] **crust**  `P4`
+- [ ] **cub**  `P4`
+- [ ] **cuisine**  `P4`
+- [ ] **culminate**  `P4`
+- [ ] **culmination**  `P4`
+- [ ] **cult**  `P4`
+- [ ] **cunning**  `P4`
+- [ ] **curfew**  `P4`
+- [ ] **curtail**  `P4`
+- [ ] **cylinder**  `P4`
+- [ ] **cynical**  `P4`
+- [ ] **cynicism**  `P4`
+- [ ] **dart**  `P4`
+- [ ] **dazzle**  `P4`
+- [ ] **deadlock**  `P4`
+- [ ] **decimal**  `P4`
+- [ ] **decree**  `P4`
+- [ ] **dedication**  `P4`
+- [ ] **deducible**  `P4`
+- [ ] **deduct**  `P4`
+- [ ] **deduction**  `P4`
+- [ ] **deductive**  `P4`
+- [ ] **deductible**  `P4`
+- [ ] **default**  `P4`
+- [ ] **defer**  `P4`
+- [ ] **degenerate**  `P4`
+- [ ] **degeneration**  `P4`
+- [ ] **degrade**  `P4`
+- [ ] **degradation**  `P4`
+- [ ] **delicacy**  `P4`
+- [ ] **delude**  `P4`
+- [ ] **delusion**  `P4`
+- [ ] **denotation**  `P4`
+- [ ] **denounce**  `P4`
+- [ ] **denunciation**  `P4`
+- [ ] **depiction**  `P4`
+- [ ] **deplete**  `P4`
+- [ ] **depletion**  `P4`
+- [ ] **deplore**  `P4`
+- [ ] **deployment**  `P4`
+- [ ] **deport**  `P4`
+- [ ] **deportation**  `P4`
+- [ ] **depot**  `P4`
+- [ ] **depreciate**  `P4`
+- [ ] **depreciation**  `P4`
+- [ ] **derail**  `P4`
+- [ ] **derailment**  `P4`
+- [ ] **deregulate**  `P4`
+- [ ] **deregulation**  `P4`
+- [ ] **designate**  `P4`
+- [ ] **designation**  `P4`
+- [ ] **desolate**  `P4`
+- [ ] **despise**  `P4`
+- [ ] **destiny**  `P4`
+- [ ] **destined**  `P4`
+- [ ] **detached**  `P4`
+- [ ] **detachment**  `P4`
+- [ ] **detain**  `P4`
+- [ ] **detention**  `P4`
+- [ ] **deter**  `P4`
+- [ ] **deterrent**  `P4`
+- [ ] **detergent**  `P4`
+- [ ] **detriment**  `P4`
+- [ ] **detrimental**  `P4`
+- [ ] **devastate**  `P4`
+- [ ] **devastation**  `P4`
+- [ ] **deviate**  `P4`
+- [ ] **deviation**  `P4`
+- [ ] **devour**  `P4`
+- [ ] **diesel**  `P4`
+- [ ] **differentiation**  `P4`
+- [ ] **diffuse**  `P4`
+- [ ] **diffusion**  `P4`
+- [ ] **dilute**  `P4`
+- [ ] **dilution**  `P4`
+- [ ] **dinosaur**  `P4`
+- [ ] **directory**  `P4`
+- [ ] **disarm**  `P4`
+- [ ] **disarmament**  `P4`
+- [ ] **discern**  `P4`
+- [ ] **disclosure**  `P4`
+- [ ] **discord**  `P4`
+- [ ] **discreet**  `P4`
+- [ ] **dismantle**  `P4`
+- [ ] **dismay**  `P4`
+- [ ] **dispatch/despatch**  `P4`
+- [ ] **dispense**  `P4`
+- [ ] **displace**  `P4`
+- [ ] **displacement**  `P4`
+- [ ] **disposition**  `P4`
+- [ ] **disregard**  `P4`
+- [ ] **dissent**  `P4`
+- [ ] **dissertation**  `P4`
+- [ ] **dissident**  `P4`
+- [ ] **distil/distill**  `P4`
+- [ ] **distortion**  `P4`
+- [ ] **diversion**  `P4`
+- [ ] **dodge**  `P4`
+- [ ] **dogma**  `P4`
+- [ ] **dole**  `P4`
+- [ ] **dome**  `P4`
+- [ ] **downgrade**  `P4`
+- [ ] **doze**  `P4`
+- [ ] **drawback**  `P4`
+- [ ] **dread**  `P4`
+- [ ] **dressing**  `P4`
+- [ ] **dub**  `P4`
+- [ ] **dubious**  `P4`
+- [ ] **duplication**  `P4`
+- [ ] **dwarf**  `P4`
+- [ ] **dweller**  `P4`
+- [ ] **dwelling**  `P4`
+- [ ] **easter**  `P4`
+- [ ] **eclipse**  `P4`
+- [ ] **edible**  `P4`
+- [ ] **egoism**  `P4`
+- [ ] **egoist**  `P4`
+- [ ] **eject**  `P4`
+- [ ] **ejection**  `P4`
+- [ ] **elaboration**  `P4`
+- [ ] **elapse**  `P4`
+- [ ] **elasticity**  `P4`
+- [ ] **electoral**  `P4`
+- [ ] **electorate**  `P4`
+- [ ] **elicit**  `P4`
+- [ ] **eligibility**  `P4`
+- [ ] **eloquence**  `P4`
+- [ ] **emancipate**  `P4`
+- [ ] **emancipation**  `P4`
+- [ ] **embargo**  `P4`
+- [ ] **embark**  `P4`
+- [ ] **embed**  `P4`
+- [ ] **embodiment**  `P4`
+- [ ] **embroidery**  `P4`
+- [ ] **emigrate**  `P4`
+- [ ] **emigration**  `P4`
+- [ ] **emigrant**  `P4`
+- [ ] **eminent**  `P4`
+- [ ] **eminence**  `P4`
+- [ ] **emulate**  `P4`
+- [ ] **emulation**  `P4`
+- [ ] **enactment**  `P4`
+- [ ] **enclosure**  `P4`
+- [ ] **encyclopedia/encyclopaedia**  `P4`
+- [ ] **endeavor/endeavour**  `P4`
+- [ ] **endorsement**  `P4`
+- [ ] **endow**  `P4`
+- [ ] **endowment**  `P4`
+- [ ] **enlist**  `P4`
+- [ ] **ensue**  `P4`
+- [ ] **entail**  `P4`
+- [ ] **entrust**  `P4`
+- [ ] **envelop**  `P4`
+- [ ] **envisage**  `P4`
+- [ ] **envoy**  `P4`
+- [ ] **epic**  `P4`
+- [ ] **epoch**  `P4`
+- [ ] **equate**  `P4`
+- [ ] **equator**  `P4`
+- [ ] **equitable**  `P4`
+- [ ] **eradicate**  `P4`
+- [ ] **eradication**  `P4`
+- [ ] **erect**  `P4`
+- [ ] **erection**  `P4`
+- [ ] **erosion**  `P4`
+- [ ] **erosive**  `P4`
+- [ ] **errand**  `P4`
+- [ ] **erupt**  `P4`
+- [ ] **eruption**  `P4`
+- [ ] **escalate**  `P4`
+- [ ] **escalation**  `P4`
+- [ ] **escalator**  `P4`
+- [ ] **escort**  `P4`
+- [ ] **esteem**  `P4`
+- [ ] **esthetic/aesthetic**  `P4`
+- [ ] **esthetics/aesthetics**  `P4`
+- [ ] **etiquette**  `P4`
+- [ ] **evacuate**  `P4`
+- [ ] **evacuation**  `P4`
+- [ ] **evade**  `P4`
+- [ ] **evasive**  `P4`
+- [ ] **evasion**  `P4`
+- [ ] **evaporate**  `P4`
+- [ ] **evaporation**  `P4`
+- [ ] **excerpt**  `P4`
+- [ ] **exempt**  `P4`
+- [ ] **exemption**  `P4`
+- [ ] **expire**  `P4`
+- [ ] **expiration**  `P4`
+- [ ] **exponent**  `P4`
+- [ ] **exposition**  `P4`
+- [ ] **exquisite**  `P4`
+- [ ] **extinction**  `P4`
+- [ ] **extraction**  `P4`
+- [ ] **extravagant**  `P4`
+- [ ] **extravagance**  `P4`
+- [ ] **fabricate**  `P4`
+- [ ] **fabrication**  `P4`
+- [ ] **fabulous**  `P4`
+- [ ] **facet**  `P4`
+- [ ] **faction**  `P4`
+- [ ] **fascist**  `P4`
+- [ ] **fascism**  `P4`
+- [ ] **feast**  `P4`
+- [ ] **feat**  `P4`
+- [ ] **feeble**  `P4`
+- [ ] **feminine**  `P4`
+- [ ] **feminism**  `P4`
+- [ ] **finite**  `P4`
+- [ ] **flank**  `P4`
+- [ ] **flap**  `P4`
+- [ ] **flare**  `P4`
+- [ ] **flatter**  `P4`
+- [ ] **flattery**  `P4`
+- [ ] **fling**  `P4`
+- [ ] **flirt**  `P4`
+- [ ] **flirtation**  `P4`
+- [ ] **flush**  `P4`
+- [ ] **flutter**  `P4`
+- [ ] **foam**  `P4`
+- [ ] **foe**  `P4`
+- [ ] **foil**  `P4`
+- [ ] **folklore**  `P4`
+- [ ] **foretell**  `P4`
+- [ ] **forfeit**  `P4`
+- [ ] **formidable**  `P4`
+- [ ] **fort**  `P4`
+- [ ] **fortify**  `P4`
+- [ ] **fortification**  `P4`
+- [ ] **fortnight**  `P4`
+- [ ] **foul**  `P4`
+- [ ] **fracture**  `P4`
+- [ ] **fragility**  `P4`
+- [ ] **fragrant**  `P4`
+- [ ] **fragrance**  `P4`
+- [ ] **frantic**  `P4`
+- [ ] **frantically**  `P4`
+- [ ] **fraudulent**  `P4`
+- [ ] **friction**  `P4`
+- [ ] **fringe**  `P4`
+- [ ] **fury**  `P4`
+- [ ] **fuse**  `P4`
+- [ ] **fusion**  `P4`
+- [ ] **futile**  `P4`
+- [ ] **futility**  `P4`
+- [ ] **gasp**  `P4`
+- [ ] **gauge**  `P4`
+- [ ] **giggle**  `P4`
+- [ ] **glacier**  `P4`
+- [ ] **glamor/glamour**  `P4`
+- [ ] **glamorous/glamourous**  `P4`
+- [ ] **gland**  `P4`
+- [ ] **glare**  `P4`
+- [ ] **gleam**  `P4`
+- [ ] **glide**  `P4`
+- [ ] **glider**  `P4`
+- [ ] **glitter**  `P4`
+- [ ] **glossary**  `P4`
+- [ ] **gorge**  `P4`
+- [ ] **gospel**  `P4`
+- [ ] **graze**  `P4`
+- [ ] **grease**  `P4`
+- [ ] **greasy**  `P4`
+- [ ] **greed**  `P4`
+- [ ] **grid**  `P4`
+- [ ] **grill**  `P4`
+- [ ] **grim**  `P4`
+- [ ] **groan**  `P4`
+- [ ] **groove**  `P4`
+- [ ] **grope**  `P4`
+- [ ] **hamper**  `P4`
+- [ ] **handicraft**  `P4`
+- [ ] **hardy**  `P4`
+- [ ] **haven**  `P4`
+- [ ] **havoc**  `P4`
+- [ ] **hawk**  `P4`
+- [ ] **heave**  `P4`
+- [ ] **hectic**  `P4`
+- [ ] **hemisphere**  `P4`
+- [ ] **henceforth**  `P4`
+- [ ] **herald**  `P4`
+- [ ] **herbal**  `P4`
+- [ ] **heroin**  `P4`
+- [ ] **hibernate**  `P4`
+- [ ] **hibernation**  `P4`
+- [ ] **hierarchical**  `P4`
+- [ ] **hinge**  `P4`
+- [ ] **hitherto**  `P4`
+- [ ] **hive**  `P4`
+- [ ] **hoist**  `P4`
+- [ ] **hop**  `P4`
+- [ ] **hose**  `P4`
+- [ ] **hound**  `P4`
+- [ ] **hover**  `P4`
+- [ ] **howl**  `P4`
+- [ ] **huddle**  `P4`
+- [ ] **hum**  `P4`
+- [ ] **humane**  `P4`
+- [ ] **humanism**  `P4`
+- [ ] **humanist**  `P4`
+- [ ] **humanitarian**  `P4`
+- [ ] **humid**  `P4`
+- [ ] **humidity**  `P4`
+- [ ] **humiliate**  `P4`
+- [ ] **humiliation**  `P4`
+- [ ] **hurdle**  `P4`
+- [ ] **hurl**  `P4`
+- [ ] **hybrid**  `P4`
+- [ ] **hygiene**  `P4`
+- [ ] **hygienic**  `P4`
+- [ ] **hypocrisy**  `P4`
+- [ ] **hypocritical**  `P4`
+- [ ] **hypocrite**  `P4`
+- [ ] **hypothetical**  `P4`
+- [ ] **hysterical**  `P4`
+- [ ] **hysteria**  `P4`
+- [ ] **iceberg**  `P4`
+- [ ] **idiot**  `P4`
+- [ ] **idiotic**  `P4`
+- [ ] **idol**  `P4`
+- [ ] **ignite**  `P4`
+- [ ] **ignition**  `P4`
+- [ ] **illicit**  `P4`
+- [ ] **illiterate**  `P4`
+- [ ] **illiteracy**  `P4`
+- [ ] **illumination**  `P4`
+- [ ] **immerse**  `P4`
+- [ ] **immersion**  `P4`
+- [ ] **imminent**  `P4`
+- [ ] **impair**  `P4`
+- [ ] **impart**  `P4`
+- [ ] **imperative**  `P4`
+- [ ] **impetus**  `P4`
+- [ ] **imprison**  `P4`
+- [ ] **imprisonment**  `P4`
+- [ ] **impromptu**  `P4`
+- [ ] **inaugurate**  `P4`
+- [ ] **inauguration**  `P4`
+- [ ] **inborn**  `P4`
+- [ ] **incorporation**  `P4`
+- [ ] **incumbent**  `P4`
+- [ ] **incur**  `P4`
+- [ ] **indebted**  `P4`
+- [ ] **indefinite**  `P4`
+- [ ] **indict**  `P4`
+- [ ] **indictment**  `P4`
+- [ ] **indignant**  `P4`
+- [ ] **indignation**  `P4`
+- [ ] **indulge**  `P4`
+- [ ] **indulgence**  `P4`
+- [ ] **indulgent**  `P4`
+- [ ] **inertia**  `P4`
+- [ ] **inflict**  `P4`
+- [ ] **infliction**  `P4`
+- [ ] **infringe**  `P4`
+- [ ] **infringement**  `P4`
+- [ ] **ingenious**  `P4`
+- [ ] **ingenuity**  `P4`
+- [ ] **inhibit**  `P4`
+- [ ] **inhibition**  `P4`
+- [ ] **inject**  `P4`
+- [ ] **innumerable**  `P4`
+- [ ] **insulate**  `P4`
+- [ ] **insulation**  `P4`
+- [ ] **insulator**  `P4`
+- [ ] **integral**  `P4`
+- [ ] **intellect**  `P4`
+- [ ] **intelligible**  `P4`
+- [ ] **intercourse**  `P4`
+- [ ] **interim**  `P4`
+- [ ] **intermittent**  `P4`
+- [ ] **interrogate**  `P4`
+- [ ] **interrogation**  `P4`
+- [ ] **intimidate**  `P4`
+- [ ] **intimidation**  `P4`
+- [ ] **intricacy**  `P4`
+- [ ] **intrigue**  `P4`
+- [ ] **intrinsically**  `P4`
+- [ ] **intuition**  `P4`
+- [ ] **intuitive**  `P4`
+- [ ] **invert**  `P4`
+- [ ] **inversion**  `P4`
+- [ ] **irrespective**  `P4`
+- [ ] **irritation**  `P4`
+- [ ] **irritating**  `P4`
+- [ ] **isle**  `P4`
+- [ ] **ivory**  `P4`
+- [ ] **jack**  `P4`
+- [ ] **jargon**  `P4`
+- [ ] **jelly**  `P4`
+- [ ] **jeopardize/jeopardise**  `P4`
+- [ ] **jeopardy**  `P4`
+- [ ] **jerk**  `P4`
+- [ ] **jockey**  `P4`
+- [ ] **jolly**  `P4`
+- [ ] **judiciary**  `P4`
+- [ ] **junction**  `P4`
+- [ ] **kidnap**  `P4`
+- [ ] **kidney**  `P4`
+- [ ] **knight**  `P4`
+- [ ] **knob**  `P4`
+- [ ] **lad**  `P4`
+- [ ] **lash**  `P4`
+- [ ] **latitude**  `P4`
+- [ ] **lavish**  `P4`
+- [ ] **layman**  `P4`
+- [ ] **leaflet**  `P4`
+- [ ] **legitimacy**  `P4`
+- [ ] **lenient**  `P4`
+- [ ] **leniency**  `P4`
+- [ ] **lesbian**  `P4`
+- [ ] **lever**  `P4`
+- [ ] **leverage**  `P4`
+- [ ] **levy**  `P4`
+- [ ] **lieutenant**  `P4`
+- [ ] **lime**  `P4`
+- [ ] **limelight**  `P4`
+- [ ] **linen**  `P4`
+- [ ] **liner**  `P4`
+- [ ] **linguistics**  `P4`
+- [ ] **lipstick**  `P4`
+- [ ] **livestock**  `P4`
+- [ ] **locomotive**  `P4`
+- [ ] **lofty**  `P4`
+- [ ] **logistics**  `P4`
+- [ ] **logistic/logistical**  `P4`
+- [ ] **longevity**  `P4`
+- [ ] **longitude**  `P4`
+- [ ] **longitudinal**  `P4`
+- [ ] **loom**  `P4`
+- [ ] **loot**  `P4`
+- [ ] **lotion**  `P4`
+- [ ] **lottery**  `P4`
+- [ ] **lounge**  `P4`
+- [ ] **lubricate**  `P4`
+- [ ] **lubrication**  `P4`
+- [ ] **luminous**  `P4`
+- [ ] **lure**  `P4`
+- [ ] **lyric**  `P4`
+- [ ] **lyrical**  `P4`
+- [ ] **magistrate**  `P4`
+- [ ] **majesty**  `P4`
+- [ ] **majestic**  `P4`
+- [ ] **malice**  `P4`
+- [ ] **malicious**  `P4`
+- [ ] **malignant**  `P4`
+- [ ] **malpractice**  `P4`
+- [ ] **maneuver/manoeuvre**  `P4`
+- [ ] **manifestation**  `P4`
+- [ ] **manuscript**  `P4`
+- [ ] **mar**  `P4`
+- [ ] **maritime**  `P4`
+- [ ] **martyr**  `P4`
+- [ ] **martyrdom**  `P4`
+- [ ] **masculinity**  `P4`
+- [ ] **massacre**  `P4`
+- [ ] **maternity**  `P4`
+- [ ] **meadow**  `P4`
+- [ ] **mediation**  `P4`
+- [ ] **mediator**  `P4`
+- [ ] **melody**  `P4`
+- [ ] **melodious**  `P4`
+- [ ] **menace**  `P4`
+- [ ] **merchandise**  `P4`
+- [ ] **mercury**  `P4`
+- [ ] **merge**  `P4`
+- [ ] **merger**  `P4`
+- [ ] **metabolism**  `P4`
+- [ ] **metabolic**  `P4`
+- [ ] **metaphorical**  `P4`
+- [ ] **meticulous**  `P4`
+- [ ] **midwife**  `P4`
+- [ ] **milestone**  `P4`
+- [ ] **militant**  `P4`
+- [ ] **militancy**  `P4`
+- [ ] **militia**  `P4`
+- [ ] **mindset**  `P4`
+- [ ] **mingle**  `P4`
+- [ ] **mint**  `P4`
+- [ ] **moan**  `P4`
+- [ ] **mobilize/mobilise**  `P4`
+- [ ] **mock**  `P4`
+- [ ] **momentous**  `P4`
+- [ ] **monarchy**  `P4`
+- [ ] **monarch**  `P4`
+- [ ] **monopolize/monopolise**  `P4`
+- [ ] **monotony**  `P4`
+- [ ] **monotonous**  `P4`
+- [ ] **morale**  `P4`
+- [ ] **mosquito**  `P4`
+- [ ] **mourn**  `P4`
+- [ ] **mourning**  `P4`
+- [ ] **mow**  `P4`
+- [ ] **multilateral**  `P4`
+- [ ] **multitude**  `P4`
+- [ ] **murmur**  `P4`
+- [ ] **mute**  `P4`
+- [ ] **naive**  `P4`
+- [ ] **naivety**  `P4`
+- [ ] **navigate**  `P4`
+- [ ] **navigation**  `P4`
+- [ ] **negligent**  `P4`
+- [ ] **negligence**  `P4`
+- [ ] **negligible**  `P4`
+- [ ] **nickname**  `P4`
+- [ ] **nil**  `P4`
+- [ ] **nominate**  `P4`
+- [ ] **notoriety**  `P4`
+- [ ] **notwithstanding**  `P4`
+- [ ] **numb**  `P4`
+- [ ] **numerical**  `P4`
+- [ ] **nurture**  `P4`
+- [ ] **oar**  `P4`
+- [ ] **oath**  `P4`
+- [ ] **obscene**  `P4`
+- [ ] **obscenity**  `P4`
+- [ ] **obscurity**  `P4`
+- [ ] **observatory**  `P4`
+- [ ] **obsess**  `P4`
+- [ ] **obsession**  `P4`
+- [ ] **obsessive**  `P4`
+- [ ] **obstruct**  `P4`
+- [ ] **obstruction**  `P4`
+- [ ] **offspring**  `P4`
+- [ ] **olive**  `P4`
+- [ ] **onset**  `P4`
+- [ ] **opaque**  `P4`
+- [ ] **operative**  `P4`
+- [ ] **oppress**  `P4`
+- [ ] **oppression**  `P4`
+- [ ] **oppressive**  `P4`
+- [ ] **optic**  `P4`
+- [ ] **optimum**  `P4`
+- [ ] **optimal**  `P4`
+- [ ] **ordeal**  `P4`
+- [ ] **outlaw**  `P4`
+- [ ] **outrage**  `P4`
+- [ ] **outrageous**  `P4`
+- [ ] **overhaul**  `P4`
+- [ ] **override**  `P4`
+- [ ] **overstate**  `P4`
+- [ ] **overt**  `P4`
+- [ ] **overturn**  `P4`
+- [ ] **owl**  `P4`
+- [ ] **oxide**  `P4`
+- [ ] **pact**  `P4`
+- [ ] **pamphlet**  `P4`
+- [ ] **panorama**  `P4`
+- [ ] **panoramic**  `P4`
+- [ ] **parachute**  `P4`
+- [ ] **paradigm**  `P4`
+- [ ] **paradise**  `P4`
+- [ ] **paralyze/paralyse**  `P4`
+- [ ] **paralysis**  `P4`
+- [ ] **parasite**  `P4`
+- [ ] **parole**  `P4`
+- [ ] **parrot**  `P4`
+- [ ] **partition**  `P4`
+- [ ] **passerby**  `P4`
+- [ ] **pastry**  `P4`
+- [ ] **pasture**  `P4`
+- [ ] **pathetic**  `P4`
+- [ ] **patriot**  `P4`
+- [ ] **patriotism**  `P4`
+- [ ] **patronize/patronise**  `P4`
+- [ ] **patronage**  `P4`
+- [ ] **peck**  `P4`
+- [ ] **pedal**  `P4`
+- [ ] **peddle**  `P4`
+- [ ] **peep**  `P4`
+- [ ] **peg**  `P4`
+- [ ] **pendulum**  `P4`
+- [ ] **penguin**  `P4`
+- [ ] **peninsula**  `P4`
+- [ ] **perch**  `P4`
+- [ ] **perfume**  `P4`
+- [ ] **perish**  `P4`
+- [ ] **permeate**  `P4`
+- [ ] **permeation**  `P4`
+- [ ] **perpetual**  `P4`
+- [ ] **perpetuate**  `P4`
+- [ ] **perplex**  `P4`
+- [ ] **perplexity**  `P4`
+- [ ] **persecute**  `P4`
+- [ ] **persecution**  `P4`
+- [ ] **pest**  `P4`
+- [ ] **pesticide**  `P4`
+- [ ] **petition**  `P4`
+- [ ] **petitioner**  `P4`
+- [ ] **petrochemical**  `P4`
+- [ ] **physiological**  `P4`
+- [ ] **pilgrim**  `P4`
+- [ ] **pilgrimage**  `P4`
+- [ ] **plateau**  `P4`
+- [ ] **plausible**  `P4`
+- [ ] **plaza**  `P4`
+- [ ] **plight**  `P4`
+- [ ] **plumber**  `P4`
+- [ ] **plumbing**  `P4`
+- [ ] **poise**  `P4`
+- [ ] **poised**  `P4`
+- [ ] **polytechnic**  `P4`
+- [ ] **ponder**  `P4`
+- [ ] **porcelain**  `P4`
+- [ ] **porridge**  `P4`
+- [ ] **portrayal**  `P4`
+- [ ] **potent**  `P4`
+- [ ] **pottery**  `P4`
+- [ ] **poultry**  `P4`
+- [ ] **preceding**  `P4`
+- [ ] **precedent**  `P4`
+- [ ] **predatory**  `P4`
+- [ ] **predecessor**  `P4`
+- [ ] **predominate**  `P4`
+- [ ] **predominance**  `P4`
+- [ ] **premature**  `P4`
+- [ ] **preoccupy**  `P4`
+- [ ] **preoccupied**  `P4`
+- [ ] **prerequisite**  `P4`
+- [ ] **preside**  `P4`
+- [ ] **presume**  `P4`
+- [ ] **presumption**  `P4`
+- [ ] **pretext**  `P4`
+- [ ] **prey**  `P4`
+- [ ] **prolong**  `P4`
+- [ ] **proofread**  `P4`
+- [ ] **prop**  `P4`
+- [ ] **propaganda**  `P4`
+- [ ] **propagate**  `P4`
+- [ ] **propagation**  `P4`
+- [ ] **propel**  `P4`
+- [ ] **propeller**  `P4`
+- [ ] **prosecute**  `P4`
+- [ ] **prosper**  `P4`
+- [ ] **prosperous**  `P4`
+- [ ] **prototype**  `P4`
+- [ ] **proximity**  `P4`
+- [ ] **psychiatry**  `P4`
+- [ ] **psychiatrist**  `P4`
+- [ ] **pudding**  `P4`
+- [ ] **pumpkin**  `P4`
+- [ ] **pyramid**  `P4`
+- [ ] **quart**  `P4`
+- [ ] **query**  `P4`
+- [ ] **quiver**  `P4`
+- [ ] **radiate**  `P4`
+- [ ] **radiator**  `P4`
+- [ ] **radioactive**  `P4`
+- [ ] **radioactivity**  `P4`
+- [ ] **rap**  `P4`
+- [ ] **rash**  `P4`
+- [ ] **ratify**  `P4`
+- [ ] **ratification**  `P4`
+- [ ] **ration**  `P4`
+- [ ] **rattle**  `P4`
+- [ ] **reassure**  `P4`
+- [ ] **reassurance**  `P4`
+- [ ] **recede**  `P4`
+- [ ] **reconciliation**  `P4`
+- [ ] **reconciliatory**  `P4`
+- [ ] **rectify**  `P4`
+- [ ] **rectification**  `P4`
+- [ ] **recur**  `P4`
+- [ ] **recurrence**  `P4`
+- [ ] **redundancy**  `P4`
+- [ ] **reel**  `P4`
+- [ ] **referee**  `P4`
+- [ ] **referendum**  `P4`
+- [ ] **refund**  `P4`
+- [ ] **refutation**  `P4`
+- [ ] **regiment**  `P4`
+- [ ] **regimental**  `P4`
+- [ ] **rehabilitate**  `P4`
+- [ ] **rehearse**  `P4`
+- [ ] **rehearsal**  `P4`
+- [ ] **reign**  `P4`
+- [ ] **rein**  `P4`
+- [ ] **rejoice**  `P4`
+- [ ] **rejoicing**  `P4`
+- [ ] **relentless**  `P4`
+- [ ] **relic**  `P4`
+- [ ] **relish**  `P4`
+- [ ] **reminiscent**  `P4`
+- [ ] **reminiscence**  `P4`
+- [ ] **remnant**  `P4`
+- [ ] **renaissance**  `P4`
+- [ ] **renown**  `P4`
+- [ ] **repel**  `P4`
+- [ ] **repertoire**  `P4`
+- [ ] **repress**  `P4`
+- [ ] **repression**  `P4`
+- [ ] **repressive**  `P4`
+- [ ] **reproach**  `P4`
+- [ ] **repute**  `P4`
+- [ ] **reservoir**  `P4`
+- [ ] **reshuffle**  `P4`
+- [ ] **retaliate**  `P4`
+- [ ] **retaliation**  `P4`
+- [ ] **retarded**  `P4`
+- [ ] **retort**  `P4`
+- [ ] **retrieval**  `P4`
+- [ ] **retrospect**  `P4`
+- [ ] **retrospective**  `P4`
+- [ ] **revenge**  `P4`
+- [ ] **revengeful**  `P4`
+- [ ] **revive**  `P4`
+- [ ] **revival**  `P4`
+- [ ] **revolt**  `P4`
+- [ ] **rig**  `P4`
+- [ ] **rigidity**  `P4`
+- [ ] **rigor/rigour**  `P4`
+- [ ] **rot**  `P4`
+- [ ] **rotten**  `P4`
+- [ ] **rotate**  `P4`
+- [ ] **rust**  `P4`
+- [ ] **rusty**  `P4`
+- [ ] **ruthless**  `P4`
+- [ ] **saddle**  `P4`
+- [ ] **safeguard**  `P4`
+- [ ] **salon**  `P4`
+- [ ] **salutation**  `P4`
+- [ ] **salvage**  `P4`
+- [ ] **salvation**  `P4`
+- [ ] **sanctuary**  `P4`
+- [ ] **sanitation**  `P4`
+- [ ] **sanitary**  `P4`
+- [ ] **sarcasm**  `P4`
+- [ ] **sarcastic**  `P4`
+- [ ] **satire**  `P4`
+- [ ] **satirical**  `P4`
+- [ ] **satirist**  `P4`
+- [ ] **saturate**  `P4`
+- [ ] **saturation**  `P4`
+- [ ] **savage**  `P4`
+- [ ] **scorn**  `P4`
+- [ ] **scrap**  `P4`
+- [ ] **scrape**  `P4`
+- [ ] **scrub**  `P4`
+- [ ] **scrutinize/scrutinise**  `P4`
+- [ ] **seduce**  `P4`
+- [ ] **seduction**  `P4`
+- [ ] **seductive**  `P4`
+- [ ] **segregate**  `P4`
+- [ ] **segregation**  `P4`
+- [ ] **sensational**  `P4`
+- [ ] **sentimental**  `P4`
+- [ ] **sergeant**  `P4`
+- [ ] **serial**  `P4`
+- [ ] **shaft**  `P4`
+- [ ] **shatter**  `P4`
+- [ ] **shepherd**  `P4`
+- [ ] **shield**  `P4`
+- [ ] **shipyard**  `P4`
+- [ ] **shorthand**  `P4`
+- [ ] **showcase**  `P4`
+- [ ] **shred**  `P4`
+- [ ] **shrewd**  `P4`
+- [ ] **shrub**  `P4`
+- [ ] **shrubbery**  `P4`
+- [ ] **signify**  `P4`
+- [ ] **simulation**  `P4`
+- [ ] **sinister**  `P4`
+- [ ] **skeptical/scepticalskeptic/scepticskepticism/scepticism**  `P4`
+- [ ] **skim**  `P4`
+- [ ] **slack**  `P4`
+- [ ] **slash**  `P4`
+- [ ] **slaughter**  `P4`
+- [ ] **slum**  `P4`
+- [ ] **slump**  `P4`
+- [ ] **smuggle**  `P4`
+- [ ] **smuggling**  `P4`
+- [ ] **smuggler**  `P4`
+- [ ] **snail**  `P4`
+- [ ] **snatch**  `P4`
+- [ ] **sniff**  `P4`
+- [ ] **snob**  `P4`
+- [ ] **snobbish**  `P4`
+- [ ] **sob**  `P4`
+- [ ] **sober/sobre**  `P4`
+- [ ] **socket**  `P4`
+- [ ] **solicit**  `P4`
+- [ ] **solicitor**  `P4`
+- [ ] **solidarity**  `P4`
+- [ ] **solitude**  `P4`
+- [ ] **solo**  `P4`
+- [ ] **soothe**  `P4`
+- [ ] **sovereign**  `P4`
+- [ ] **spaghetti**  `P4`
+- [ ] **specialty/speciality**  `P4`
+- [ ] **spectacle**  `P4`
+- [ ] **spectator**  `P4`
+- [ ] **spice**  `P4`
+- [ ] **spinal**  `P4`
+- [ ] **spiral**  `P4`
+- [ ] **sponge**  `P4`
+- [ ] **spongy**  `P4`
+- [ ] **spotlight**  `P4`
+- [ ] **sprawl**  `P4`
+- [ ] **stab**  `P4`
+- [ ] **stagnate**  `P4`
+- [ ] **stagnation**  `P4`
+- [ ] **stagnant**  `P4`
+- [ ] **stalk**  `P4`
+- [ ] **stall**  `P4`
+- [ ] **stammer**  `P4`
+- [ ] **standby**  `P4`
+- [ ] **stapler**  `P4`
+- [ ] **stark**  `P4`
+- [ ] **static**  `P4`
+- [ ] **stationery**  `P4`
+- [ ] **stern**  `P4`
+- [ ] **steward/stewardess**  `P4`
+- [ ] **stifle**  `P4`
+- [ ] **stigma**  `P4`
+- [ ] **stipulate**  `P4`
+- [ ] **stipulation**  `P4`
+- [ ] **stitch**  `P4`
+- [ ] **stoop**  `P4`
+- [ ] **stout**  `P4`
+- [ ] **strait**  `P4`
+- [ ] **strand**  `P4`
+- [ ] **strangle**  `P4`
+- [ ] **stray**  `P4`
+- [ ] **streamline**  `P4`
+- [ ] **stroll**  `P4`
+- [ ] **stump**  `P4`
+- [ ] **stun**  `P4`
+- [ ] **submarine**  `P4`
+- [ ] **submerge**  `P4`
+- [ ] **subordination**  `P4`
+- [ ] **subscribe**  `P4`
+- [ ] **subscription**  `P4`
+- [ ] **subscriber**  `P4`
+- [ ] **subsidize/subsidise**  `P4`
+- [ ] **subsistence**  `P4`
+- [ ] **subtlety**  `P4`
+- [ ] **suffice**  `P4`
+- [ ] **suicidal**  `P4`
+- [ ] **sulfur/sulphur**  `P4`
+- [ ] **summon**  `P4`
+- [ ] **superintendent**  `P4`
+- [ ] **superstition**  `P4`
+- [ ] **superstitious**  `P4`
+- [ ] **suppression**  `P4`
+- [ ] **suppressive**  `P4`
+- [ ] **swap**  `P4`
+- [ ] **symmetry**  `P4`
+- [ ] **symmetric/symmetrical**  `P4`
+- [ ] **symphony**  `P4`
+- [ ] **symposium**  `P4`
+- [ ] **syndicate**  `P4`
+- [ ] **synonym**  `P4`
+- [ ] **synthesis**  `P4`
+- [ ] **synthesize/synthesise**  `P4`
+- [ ] **taboo**  `P4`
+- [ ] **tack**  `P4`
+- [ ] **tact**  `P4`
+- [ ] **tactful**  `P4`
+- [ ] **tan**  `P4`
+- [ ] **tangle**  `P4`
+- [ ] **tanker**  `P4`
+- [ ] **tariff**  `P4`
+- [ ] **tease**  `P4`
+- [ ] **tempo**  `P4`
+- [ ] **temporal**  `P4`
+- [ ] **tempt**  `P4`
+- [ ] **temptation**  `P4`
+- [ ] **tenure**  `P4`
+- [ ] **termination**  `P4`
+- [ ] **terrace**  `P4`
+- [ ] **tertiary**  `P4`
+- [ ] **thorn**  `P4`
+- [ ] **thorny**  `P4`
+- [ ] **thrift**  `P4`
+- [ ] **thrifty**  `P4`
+- [ ] **thrill**  `P4`
+- [ ] **thriller**  `P4`
+- [ ] **throne**  `P4`
+- [ ] **tickle**  `P4`
+- [ ] **tilt**  `P4`
+- [ ] **timid**  `P4`
+- [ ] **toil**  `P4`
+- [ ] **topple**  `P4`
+- [ ] **tornado**  `P4`
+- [ ] **tow**  `P4`
+- [ ] **tract**  `P4`
+- [ ] **tranquility**  `P4`
+- [ ] **transient**  `P4`
+- [ ] **transistor**  `P4`
+- [ ] **transitional**  `P4`
+- [ ] **tread**  `P4`
+- [ ] **treasury**  `P4`
+- [ ] **treasurer**  `P4`
+- [ ] **trek**  `P4`
+- [ ] **trench**  `P4`
+- [ ] **tribune**  `P4`
+- [ ] **tribute**  `P4`
+- [ ] **trickle**  `P4`
+- [ ] **trophy**  `P4`
+- [ ] **tropic**  `P4`
+- [ ] **trumpet**  `P4`
+- [ ] **tub**  `P4`
+- [ ] **tug**  `P4`
+- [ ] **tumble**  `P4`
+- [ ] **turbulence**  `P4`
+- [ ] **turmoil**  `P4`
+- [ ] **turnout**  `P4`
+- [ ] **turnover**  `P4`
+- [ ] **turtle**  `P4`
+- [ ] **ultra**  `P4`
+- [ ] **underlie**  `P4`
+- [ ] **unify**  `P4`
+- [ ] **unification**  `P4`
+- [ ] **unleash**  `P4`
+- [ ] **unveil**  `P4`
+- [ ] **uphold**  `P4`
+- [ ] **uprising**  `P4`
+- [ ] **uranium**  `P4`
+- [ ] **urine**  `P4`
+- [ ] **urinate**  `P4`
+- [ ] **vaccinate**  `P4`
+- [ ] **vaccination**  `P4`
+- [ ] **valve**  `P4`
+- [ ] **vegetation**  `P4`
+- [ ] **vein**  `P4`
+- [ ] **velocity**  `P4`
+- [ ] **velvet**  `P4`
+- [ ] **vent**  `P4`
+- [ ] **ventilate**  `P4`
+- [ ] **ventilation**  `P4`
+- [ ] **venue**  `P4`
+- [ ] **verge**  `P4`
+- [ ] **verse**  `P4`
+- [ ] **vest**  `P4`
+- [ ] **vibrate**  `P4`
+- [ ] **vibration**  `P4`
+- [ ] **vicinity**  `P4`
+- [ ] **virgin**  `P4`
+- [ ] **virginity**  `P4`
+- [ ] **vogue**  `P4`
+- [ ] **void**  `P4`
+- [ ] **volatile**  `P4`
+- [ ] **volatility**  `P4`
+- [ ] **voucher**  `P4`
+- [ ] **vow**  `P4`
+- [ ] **vulgar**  `P4`
+- [ ] **waive**  `P4`
+- [ ] **waiver**  `P4`
+- [ ] **wardrobe**  `P4`
+- [ ] **warranty**  `P4`
+- [ ] **watt**  `P4`
+- [ ] **weariness**  `P4`
+- [ ] **wedge**  `P4`
+- [ ] **wharf**  `P4`
+- [ ] **whereabouts**  `P4`
+- [ ] **whirl**  `P4`
+- [ ] **wholesale**  `P4`
+- [ ] **wholesome**  `P4`
+- [ ] **wield**  `P4`
+- [ ] **wink**  `P4`
+- [ ] **witch**  `P4`
+- [ ] **wither**  `P4`
+- [ ] **withhold**  `P4`
+- [ ] **wrench**  `P4`
+- [ ] **wrestle**  `P4`
+- [ ] **wrestling**  `P4`
+- [ ] **wretched**  `P4`
+- [ ] **yacht**  `P4`
+- [ ] **yawn**  `P4`
+- [ ] **yearn**  `P4`
+- [ ] **yearning**  `P4`
+- [ ] **zigzag**  `P4`
+- [ ] **zip**  `P4`
+- [ ] **zipper**  `P4`
+- [ ] **zoom**  `P4`
+- [ ] **preclude** - v. 排除；阻止  `P4`
+- [x] **skeptical** - adj. 怀疑的  `P4`
+- [x] **globalization** - n. 全球化  `P4`
+- [x] **inequality** - n. 不平等  `P4`
+- [x] **resilient** - adj. 坚韧的；有弹性的  `P4`
+- [ ] **account for** - 说明……原因；占（比例）  `P4`
+- [ ] **apply to** - 适用于；申请  `P4`
+- [ ] **approve of** - 赞成；批准  `P4`
+- [ ] **attribute to** - 归因于  `P4`
+- [ ] **benefit from** - 从……受益  `P4`
+- [ ] **compare with/to** - 与……比较  `P4`
+- [ ] **consist of** - 由……组成  `P4`
+- [ ] **contribute to** - 贡献；促成；导致  `P4`
+- [ ] **cope with** - 应对；处理  `P4`
+- [ ] **depend on** - 依靠；取决于  `P4`
+- [ ] **distinguish from** - 区分；辨别  `P4`
+- [ ] **focus on** - 集中于  `P4`
+- [ ] **participate in** - 参加  `P4`
+- [ ] **refer to** - 提到；参考；指的是  `P4`
+- [ ] **rely on** - 依赖；信任  `P4`
+- [ ] **result in** - 导致  `P4`
+- [ ] **result from** - 由……引起  `P4`
+- [ ] **specialize in** - 专攻；专门从事  `P4`
+- [ ] **suffer from** - 遭受；患……病  `P4`
+- [ ] **as a result** - 因此  `P4`
+- [ ] **as well as** - 也；和……一样  `P4`
+- [ ] **at the cost of** - 以……为代价  `P4`
+- [ ] **by means of** - 用；凭借  `P4`
+- [ ] **by no means** - 决不  `P4`
+- [ ] **due to** - 由于  `P4`
+- [ ] **in addition to** - 除……之外  `P4`
+- [ ] **in advance** - 提前  `P4`
+- [ ] **in case of** - 如果；万一  `P4`
+- [ ] **in contrast** - 相比之下  `P4`
+- [ ] **in detail** - 详细地  `P4`
+- [ ] **in favor of** - 支持；赞成  `P4`
+- [ ] **in general** - 一般来说  `P4`
+- [ ] **in particular** - 特别是  `P4`
+- [ ] **in terms of** - 就……而言；在……方面  `P4`
+- [ ] **in vain** - 徒劳地  `P4`
+- [ ] **on account of** - 因为  `P4`
+- [ ] **on behalf of** - 代表  `P4`
+- [ ] **on the contrary** - 相反  `P4`
+- [ ] **regardless of** - 不管；不顾  `P4`
+- [ ] **with regard to** - 关于  `P4`
+- [ ] **attach importance to** - 重视  `P4`
+- [ ] **bring into full play** - 充分发挥  `P4`
+- [ ] **keep pace with** - 跟上  `P4`
+- [ ] **lay emphasis on** - 强调  `P4`
+- [ ] **make full use of** - 充分利用  `P4`
+- [ ] **make sense** - 有意义；讲得通  `P4`
+- [ ] **play a crucial role in** - 起关键作用  `P4`
+- [ ] **take into account** - 考虑到  `P4`
+- [ ] **take measures** - 采取措施  `P4`
+- [ ] **take responsibility for** - 对……负责  `P4`
+
+---
+
+## 统计信息
+
+| 等级 | 词数 | 说明 |
+|------|------|------|
+| P0 | 216 | 最高频核心词（综合评分 >= 85） |
+| P1 | 1039 | 高频词（综合评分 70-84） |
+| P2 | 1528 | 中高频词（综合评分 50-69） |
+| P3 | 1272 | 中频词（综合评分 30-49） |
+| P4 | 3825 | 低频/补充词（综合评分 < 30） |
+
+**总计: 7880 词**
+
+**已背诵: 834 词**

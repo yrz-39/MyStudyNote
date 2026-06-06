@@ -1,0 +1,1128 @@
+# 四六级高频词汇 Markdown 版（按备考优先级排序）
+
+> 生成日期：2026-05-28  
+> 排序说明：官方考试大纲给出考试范围，但不发布逐词“考试出现频率”排名。本文件按公开真题高频资料、四六级常考语义场、阅读/听力/写作高频功能词综合排序，适合背诵优先级使用。
+
+## 使用方法
+
+- **第一轮**：只背 P0、P1，做到“看到英文能秒反应中文”。
+- **第二轮**：补 P2，重点看动词、抽象名词、形容词。
+- **第三轮**：P3 查漏补缺，配合真题阅读和翻译积累搭配。
+- “频率等级”不是官方精确次数：P0≈最高频，P1≈高频，P2≈中高频，P3≈补充常考。
+
+## CET-4 四级高频核心词
+
+### P0｜四级最高频：先背这些
+
+- [x] **ability** — n. 能力；才能  `P0`
+- [x] **able** — adj. 能够的；有能力的  `P0`
+- [x] **about** — prep./adv. 关于；大约  `P0`
+- [x] **above** — prep./adv. 在……上方；超过  `P0`
+- [x] **abroad** — adv. 在国外  `P0`
+- [x] **absence** — n. 缺席；缺乏  `P0`
+- [x] **absolute** — adj. 绝对的；完全的  `P0`
+- [x] **absorb** — v. 吸收；理解；使专心  `P0`
+- [x] **academic** — adj. 学术的  `P0`
+- [x] **accept** — v. 接受；承认  `P0`
+- [x] **access** — n. 通道；接近；使用权 v. 获取  `P0`
+- [x] **accident** — n. 事故；意外  `P0`
+- [x] **accompany** — v. 陪伴；伴随  `P0`
+- [x] **according** — prep. 根据  `P0`
+- [x] **account** — n. 账户；解释；描述 v. 认为  `P0`
+- [x] **accurate** — adj. 准确的  `P0`
+- [x] **achieve** — v. 实现；达到  `P0`
+- [x] **acknowledge** — v. 承认；感谢  `P0`
+- [x] **acquire** — v. 获得；学到  `P0`
+- [x] **across** — prep./adv. 穿过；横过  `P0`
+- [x] **act** — v. 行动；表演 n. 行为  `P0`
+- [x] **action** — n. 行动；作用  `P0`
+- [x] **active** — adj. 积极的；活跃的  `P0`
+- [x] **activity** — n. 活动  `P0`
+- [x] **actual** — adj. 实际的  `P0`
+- [x] **adapt** — v. 适应；改编  `P0`
+- [x] **add** — v. 增加；补充说  `P0`
+- [x] **addition** — n. 增加；加法  `P0`
+- [x] **address** — n. 地址；演讲 v. 解决；发表演说  `P0`
+- [x] **adequate** — adj. 足够的  `P0`
+- [x] **adjust** — v. 调整；适应  `P0`
+- [x] **administration** — n. 管理；行政；政府  `P0`
+- [x] **admit** — v. 承认；准许进入  `P0`
+- [x] **advance** — n./v. 前进；进步；提前  `P0`
+- [x] **advantage** — n. 优势；有利条件  `P0`
+- [x] **advertise** — v. 做广告  `P0`
+- [x] **advice** — n. 建议  `P0`
+- [x] **affect** — v. 影响；感染  `P0`
+- [x] **afford** — v. 负担得起  `P0`
+- [x] **agency** — n. 机构；代理处  `P0`
+- [x] **agent** — n. 代理人；因素  `P0`
+- [x] **agree** — v. 同意；一致  `P0`
+- [x] **agriculture** — n. 农业  `P0`
+- [x] **ahead** — adv. 在前面；提前  `P0`
+- [x] **aid** — n./v. 帮助；援助  `P0`
+- [x] **aim** — n./v. 目标；瞄准  `P0`
+- [x] **alarm** — n. 警报；惊恐 v. 使惊慌  `P0`
+- [x] **alcohol** — n. 酒精  `P0`
+- [x] **alive** — adj. 活着的；有活力的  `P0`
+- [x] **allow** — v. 允许；承认  `P0`
+- [x] **almost** — adv. 几乎  `P0`
+- [x] **alone** — adj./adv. 单独的/地  `P0`
+- [x] **alternative** — n. 可选方案 adj. 替代的  `P0`
+- [x] **amaze** — v. 使惊讶  `P0`
+- [x] **amount** — n. 数量 v. 总计  `P0`
+- [x] **analyze** — v. 分析  `P0`
+- [x] **ancient** — adj. 古代的  `P0`
+- [x] **anger** — n. 愤怒 v. 激怒  `P0`
+- [x] **announce** — v. 宣布  `P0`
+- [x] **annual** — adj. 每年的  `P0`
+- [x] **anxiety** — n. 焦虑  `P0`
+- [x] **apart** — adv. 分开；相隔  `P0`
+- [x] **apartment** — n. 公寓  `P0`
+- [x] **apologize** — v. 道歉  `P0`
+- [x] **appeal** — n./v. 呼吁；吸引；<font color="#ff0000">上诉</font>  `P0`
+- [x] **appear** — v. 出现；似乎  `P0`
+- [x] **application** — n. 申请；应用  `P0`
+- [x] **apply** — v. 申请；应用；适用  `P0`
+- [x] **appoint** — v. 任命；约定  `P0`
+- [x] **approach** — n./v. 方法；接近  `P0`
+- [x] **appropriate** — adj. 合适的  `P0`
+- [x] **approve** — v. 赞成；批准  `P0`
+- [x] **area** — n. 区域；领域  `P0`
+- [x] **argue** — v. 争论；主张  `P0`
+- [x] **arrange** — v. 安排；整理  `P0`
+- [x] **arrival** — n. 到达  `P0`
+- [x] **article** — n. 文章；物品；<font color="#ff0000">冠词</font>  `P0`
+- [x] **artificial** — adj. 人造的；人工的  `P0`
+- [x] **aspect** — n. 方面  `P0`
+- [x] **assess** — v. 评价；估算  `P0`
+- [x] **assign** — v. 分配；布置  `P0`
+- [x] **assist** — v. 帮助  `P0`
+- [x] **associate** — v. 联系；交往 n. 同事  `P0`
+- [x] **assume** — v. 假定；承担  `P0`
+- [x] **atmosphere** — n. 气氛；大气  `P0`
+- [x] **attach** — v. 附上；使依附  `P0`
+- [x] **attempt** — n./v. 尝试  `P0`
+- [x] **attend** — v. 出席；照料  `P0`
+- [x] **attention** — n. 注意；关注  `P0`
+- [x] **attitude** — n. 态度  `P0`
+- [x] **attract** — v. 吸引  `P0`
+- [x] **available** — adj. 可获得的；有空的  `P0`
+- [x] **average** — n./adj. 平均；普通的  `P0`
+- [x] **avoid** — v. 避免  `P0`
+- [x] **award** — n./v. 奖；授予  `P0`
+- [x] **aware** — adj. 意识到的  `P0`
+- [x] **background** — n. 背景  `P0`
+- [x] **balance** — n./v. 平衡  `P0`
+- [x] **barrier** — n. 障碍  `P0`
+- [x] **basic** — adj. 基本的  `P0`
+
+### P1｜四级高频：阅读/听力/写作常见
+
+- [x] **benefit** — n./v. 好处；有益于  `P1`
+- [x] **beyond** — prep. 超出；在……之外  `P1`
+- [x] **biology** — n. 生物学  `P1`
+- [x] **brief** — adj. 简短的  `P1`
+- [x] **budget** — n./v. 预算  `P1`
+- [x] **burden** — n. 负担  `P1`
+- [x] **campaign** — n. 活动；运动  `P1`
+- [x] **capable** — adj. 有能力的  `P1`
+- [x] **career** — n. 职业；事业  `P1`
+- [x] **cause** — n./v. 原因；导致  `P1`
+- [x] **challenge** — n./v. 挑战  `P1`
+- [x] **character** — n. 性格；人物；文字  `P1`
+- [x] **charge** — n./v. 费用；指控；充电  `P1`
+- [x] **chemical** — adj./n. 化学的；化学品  `P1`
+- [x] **circumstance** — n. 情况；环境  `P1`
+- [x] **citizen** — n. 公民；市民  `P1`
+- [x] **civilization** — n. 文明  `P1`
+- [x] **claim** — v./n. 声称；索赔  `P1`
+- [x] **classify** — v. 分类  `P1`
+- [x] **climate** — n. 气候；风气  `P1`
+- [x] **combine** — v. 结合  `P1`
+- [x] **comment** — n./v. 评论  `P1`
+- [x] **commit** — v. 犯罪；承诺；投入  `P1`
+- [x] **committee** — n. 委员会  `P1`
+- [x] **communicate** — v. 交流；传达  `P1`
+- [x] **community** — n. 社区；群体  `P1`
+- [x] **compare** — v. 比较  `P1`
+- [x] **compete** — v. 竞争  `P1`
+- [x] **complex** — adj. 复杂的 n. 综合体  `P1`
+- [x] **concern** — n./v. 关心；涉及  `P1`
+- [x] **conclude** — v. 总结；断定；结束  `P1`
+- [x] **condition** — n. 条件；状况  `P1`
+- [x] **conduct** — v. 进行；指挥 n. 行为  `P1`
+- [x] **confidence** — n. 信心  `P1`
+- [x] **confirm** — v. 证实  `P1`
+- [x] **conflict** — n./v. 冲突  `P1`
+- [x] **confuse** — v. 使困惑  `P1`
+- [x] **consequence** — n. 后果；结果  `P1`
+- [x] **consider** — v. 考虑；认为  `P1`
+- [x] **consistent** — adj. 一致的；持续的  `P1`
+- [x] **constant** — adj. 不断的 n. 常数  `P1`
+- [x] **consult** — v. 咨询；查阅  `P1`
+- [x] **consume** — v. 消费；消耗  `P1`
+- [x] **contact** — n./v. 联系；接触  `P1`
+- [x] **contain** — v. 包含；控制  `P1`
+- [x] **content** — n. 内容 adj. 满足的  `P1`
+- [x] **context** — n. 背景；语境  `P1`
+- [x] **continue** — v. 继续  `P1`
+- [x] **contract** — n./v. 合同；收缩  `P1`
+- [x] **contrast** — n./v. 对比  `P1`
+- [x] **contribute** — v. 贡献；投稿；促成  `P1`
+- [x] **convenient** — adj. 方便的  `P1`
+- [x] **convince** — v. 使相信  `P1`
+- [x] **cooperate** — v. 合作  `P1`
+- [x] **corporate** — adj. 公司的；团体的  `P1`
+- [x] **crisis** — n. 危机  `P1`
+- [x] **critical** — adj. 批判的；关键的；危急的  `P1`
+- [x] **culture** — n. 文化  `P1`
+- [x] **current** — adj. 当前的 n. 水流；电流  `P1`
+- [x] **damage** — n./v. 损害  `P1`
+- [x] **debate** — n./v. 辩论  `P1`
+- [x] **decline** — v./n. 下降；拒绝  `P1`
+- [x] **define** — v. 定义；限定  `P1`
+- [x] **degree** — n. 程度；学位；度数  `P1`
+- [x] **delay** — n./v. 延迟  `P1`
+- [x] **demand** — n./v. 要求；需求  `P1`
+- [x] **demonstrate** — v. 证明；展示  `P1`
+- [x] **department** — n. 部门；系  `P1`
+- [x] **depend** — v. 依靠；取决于  `P1`
+- [x] **describe** — v. 描述  `P1`
+- [x] **deserve** — v. 值得  `P1`
+- [x] **desire** — n./v. 渴望  `P1`
+- [x] **detail** — n. 细节  `P1`
+- [x] **determine** — v. 决定；确定  `P1`
+- [x] **develop** — v. 发展；开发  `P1`
+- [x] **device** — n. 装置；设备  `P1`
+- [x] **difference** — n. 差异  `P1`
+- [x] **difficult** — adj. 困难的  `P1`
+- [x] **direct** — adj. 直接的 v. 指导  `P1`
+- [x] **disappear** — v. 消失  `P1`
+- [x] **discuss** — v. 讨论  `P1`
+- [x] **display** — n./v. 展示  `P1`
+- [x] **distance** — n. 距离  `P1`
+- [x] **distinct** — adj. 明显的；不同的  `P1`
+- [x] **diverse** — adj. 多样的  `P1`
+- [x] **domestic** — adj. 国内的；家庭的  `P1`
+- [x] **donate** — v. 捐赠  `P1`
+- [x] **doubt** — n./v. 怀疑  `P1`
+- [x] **economy** — n. 经济；节约  `P1`
+- [x] **education** — n. 教育  `P1`
+- [x] **effective** — adj. 有效的  `P1`
+- [x] **efficient** — adj. 高效的  `P1`
+- [x] **effort** — n. 努力  `P1`
+- [x] **element** — n. 要素；元素  `P1`
+- [x] **eliminate** — v. 消除；淘汰  `P1`
+- [x] **emerge** — v. 出现；显露  `P1`
+- [x] **emotion** — n. 情感  `P1`
+- [x] **emphasize** — v. 强调  `P1`
+- [x] **enable** — v. 使能够  `P1`
+- [x] **encourage** — v. 鼓励  `P1`
+- [x] **energy** — n. 能量；精力  `P1`
+- [x] **engage** — v. 从事；吸引；订婚  `P1`
+- [x] **enhance** — v. 提高；增强  `P1`
+- [x] **ensure** — v. 确保  `P1`
+- [x] **environment** — n. 环境  `P1`
+- [x] **equal** — adj./v. 相等的；等于  `P1`
+- [x] **establish** — v. 建立；确立  `P1`
+- [x] **estimate** — v./n. 估计  `P1`
+- [x] **evaluate** — v. 评价  `P1`
+- [x] **evidence** — n. 证据  `P1`
+- [x] **evolution** — n. 进化；演变  `P1`
+- [x] **examine** — v. 检查；考试  `P1`
+- [x] **exception** — n. 例外  `P1`
+- [x] **exchange** — n./v. 交换；交流  `P1`
+- [x] **exclude** — v. 排除  `P1`
+- [x] **exhibit** — v. 展示 n. 展品  `P1`
+- [x] **expand** — v. 扩大；扩展  `P1`
+- [x] **expect** — v. 期望；预计  `P1`
+- [x] **experience** — n./v. 经验；经历  `P1`
+- [x] **experiment** — n./v. 实验  `P1`
+
+### P2｜四级中高频：拉开分数
+
+- [x] **expert** — n./adj. 专家；熟练的  `P2`
+- [x] **explain** — v. 解释  `P2`
+- [x] **expose** — v. 暴露；揭露  `P2`
+- [x] **express** — v. 表达 adj. 快速的  `P2`
+- [x] **extend** — v. 延伸；扩大  `P2`
+- [x] **factor** — n. 因素  `P2`
+- [x] **fail** — v. 失败；未能  `P2`
+- [x] **familiar** — adj. 熟悉的  `P2`
+- [x] **feature** — n./v. 特征；以……为特色  `P2`
+- [x] **figure** — n./v. 数字；人物；认为  `P2`
+- [x] **focus** — n./v. 焦点；集中  `P2`
+- [x] **foreign** — adj. 外国的  `P2`
+- [x] **formal** — adj. 正式的  `P2`
+- [x] **function** — n./v. 功能；运行  `P2`
+- [x] **fund** — n./v. 基金；资助  `P2`
+- [x] **gap** — n. 差距；缺口  `P2`
+- [x] **generate** — v. 产生  `P2`
+- [x] **global** — adj. 全球的  `P2`
+- [x] **goal** — n. 目标  `P2`
+- [x] **govern** — v. 管理；支配  `P2`
+- [x] **graduate** — v./n. 毕业；毕业生  `P2`
+- [ ] **grant** — v./n. 授予；补助金  `P2`
+- [x] **growth** — n. 增长；成长  `P2`
+- [x] **handle** — v./n. 处理；把手  `P2`
+- [x] **harm** — n./v. 伤害  `P2`
+- [x] **helpful** — adj. 有帮助的  `P2`
+- [x] **hesitate** — v. 犹豫  `P2`
+- [x] **identify** — v. 识别；确认  `P2`
+- [x] **ignore** — v. 忽视  `P2`
+- [x] **illustrate** — v. 说明；阐明  `P2`
+- [x] **image** — n. 形象；图像  `P2`
+- [x] **imagine** — v. 想象  `P2`
+- [x] **impact** — n./v. 影响；冲击  `P2`
+- [x] **implement** — v. 实施 n. 工具  `P2`
+- [x] **imply** — v. 暗示；意味着  `P2`
+- [x] **importance** — n. 重要性  `P2`
+- [x] **improve** — v. 改善；提高  `P2`
+- [x] **include** — v. 包括  `P2`
+- [x] **increase** — v./n. 增加  `P2`
+- [x] **individual** — n./adj. 个人；个别的  `P2`
+- [x] **industry** — n. 工业；行业  `P2`
+- [x] **influence** — n./v. 影响  `P2`
+- [x] **inform** — v. 通知  `P2`
+- [x] **initial** — adj. 最初的 n. 首字母  `P2`
+- [x] **initiative** — n. 主动性；倡议  `P2`
+- [x] **injure** — v. 伤害  `P2`
+- [x] **innovation** — n. 创新  `P2`
+- [x] **insist** — v. 坚持  `P2`
+- [x] **instance** — n. 例子；情况  `P2`
+- [ ] **institute** — n. 机构 v. 建立  `P2`
+- [x] **institution** — n. 机构；制度  `P2`
+- [x] **instruction** — n. 指示；说明  `P2`
+- [x] **instrument** — n. 仪器；工具  `P2`
+- [x] **intend** — v. 打算  `P2`
+- [x] **intention** — n. 意图；目的  `P2`
+- [x] **interaction** — n. 相互作用；交流  `P2`
+- [x] **interest** — n. 兴趣；利益；利息  `P2`
+- [x] **interpret** — v. 解释；口译  `P2`
+- [x] **introduce** — v. 介绍；引入  `P2`
+- [x] **issue** — n./v. 问题；发行；发表  `P2`
+- [x] **item** — n. 项目；条款  `P2`
+- [x] **labor** — n./v. 劳动  `P2`
+- [x] **launch** — v./n. 发起；发射  `P2`
+- [x] **legal** — adj. 法律的；合法的  `P2`
+- [x] **likely** — adj./adv. 可能的/地  `P2`
+- [x] **limit** — n./v. 限制  `P2`
+- [x] **literature** — n. 文学；文献  `P2`
+- [x] **locate** — v. 位于；定位  `P2`
+- [x] **maintain** — v. 维持；主张  `P2`
+- [x] **major** — adj./n./v. 主要的；专业  `P2`
+- [x] **majority** — n. 大多数  `P2`
+- [x] **manage** — v. 管理；设法做到  `P2`
+- [x] **manufacture** — v./n. 制造  `P2`
+- [x] **margin** — n. 边缘；差额  `P2`
+- [x] **material** — n./adj. 材料；物质的  `P2`
+- [x] **measure** — n./v. 措施；测量  `P2`
+- [x] **mechanism** — n. 机制  `P2`
+- [x] **media** — n. 媒体  `P2`
+- [x] **mental** — adj. 精神的；智力的  `P2`
+- [x] **method** — n. 方法  `P2`
+- [x] **minor** — adj. 较小的；次要的  `P2`
+- [x] **mission** — n. 使命；任务  `P2`
+- [x] **monitor** — v./n. 监控；显示器  `P2`
+- [x] **moral** — adj. 道德的 n. 寓意  `P2`
+- [x] **motivate** — v. 激励  `P2`
+- [x] **nature** — n. 自然；本质  `P2`
+- [x] **negative** — adj. 消极的；负面的  `P2`
+- [x] **neglect** — v./n. 忽视  `P2`
+- [x] **normal** — adj. 正常的  `P2`
+- [x] **obtain** — v. 获得  `P2`
+- [x] **obvious** — adj. 明显的  `P2`
+- [x] **occasion** — n. 场合；时机  `P2`
+- [x] **occur** — v. 发生；出现  `P2`
+- [x] **operation** — n. 操作；手术；行动  `P2`
+- [x] **opinion** — n. 观点  `P2`
+- [x] **opportunity** — n. 机会  `P2`
+- [x] **option** — n. 选择  `P2`
+- [x] **original** — adj. 原始的；独创的  `P2`
+- [x] **overcome** — v. 克服  `P2`
+- [x] **participate** — v. 参加  `P2`
+- [x] **particular** — adj. 特别的；挑剔的  `P2`
+- [x] **pattern** — n. 模式；图案  `P2`
+- [x] **perform** — v. 表现；执行；表演  `P2`
+- [x] **period** — n. 时期；周期  `P2`
+- [x] **physical** — adj. 身体的；物理的  `P2`
+- [x] **policy** — n. 政策；策略  `P2`
+- [x] **position** — n. 位置；职位；立场  `P2`
+- [x] **positive** — adj. 积极的；肯定的  `P2`
+- [x] **potential** — adj./n. 潜在的；潜力  `P2`
+- [x] **practice** — n./v. 练习；实践  `P2`
+- [x] **predict** — v. 预测  `P2`
+- [x] **prepare** — v. 准备  `P2`
+- [x] **pressure** — n. 压力  `P2`
+- [x] **previous** — adj. 以前的  `P2`
+- [x] **primary** — adj. 主要的；初级的  `P2`
+- [x] **principle** — n. 原则；原理  `P2`
+- [x] **private** — adj. 私人的；私有的  `P2`
+- [x] **procedure** — n. 程序；手续  `P2`
+- [x] **process** — n./v. 过程；处理  `P2`
+- [x] **produce** — v. 生产；产生  `P2`
+
+### P3｜四级补充常考：查漏补缺
+
+- [x] **professional** — adj./n. 专业的；专业人士  `P3`
+- [x] **project** — n./v. 项目；投射  `P3`
+- [x] **promote** — v. 促进；提升；促销  `P3`
+- [x] **prove** — v. 证明  `P3`
+- [x] **provide** — v. 提供  `P3`
+- [x] **purchase** — v./n. 购买  `P3`
+- [x] **purpose** — n. 目的  `P3`
+- [x] **quality** — n. 质量；品质  `P3`
+- [x] **quantity** — n. 数量  `P3`
+- [x] **range** — n./v. 范围；变化  `P3`
+- [x] **rare** — adj. 稀有的  `P3`
+- [x] **react** — v. 反应  `P3`
+- [x] **realize** — v. 意识到；实现  `P3`
+- [x] **reasonable** — adj. 合理的  `P3`
+- [x] **receive** — v. 收到；接待  `P3`
+- [x] **recent** — adj. 最近的  `P3`
+- [x] **recognize** — v. 认出；承认  `P3`
+- [x] **recommend** — v. 推荐；建议  `P3`
+- [x] **recover** — v. 恢复；重新获得  `P3`
+- [x] **reduce** — v. 减少  `P3`
+- [x] **refer** — v. 提到；参考；指的是  `P3`
+- [x] **reflect** — v. 反映；反射；思考  `P3`
+- [x] **reform** — n./v. 改革  `P3`
+- [x] **region** — n. 地区  `P3`
+- [x] **regular** — adj. 定期的；规则的  `P3`
+- [x] **reject** — v. 拒绝  `P3`
+- [x] **relate** — v. 联系；叙述  `P3`
+- [x] **relative** — adj./n. 相对的；亲戚  `P3`
+- [x] **release** — v./n. 释放；发布  `P3`
+- [x] **relevant** — adj. 相关的  `P3`
+- [x] **reliable** — adj. 可靠的  `P3`
+- [x] **relief** — n. 减轻；救济  `P3`
+- [x] **remove** — v. 移除；脱掉  `P3`
+- [x] **replace** — v. 代替  `P3`
+- [x] **represent** — v. 代表；象征  `P3`
+- [x] **require** — v. 要求；需要  `P3`
+- [x] **research** — n./v. 研究  `P3`
+- [x] **reserve** — v./n. 保留；预订  `P3`
+- [x] **resource** — n. 资源  `P3`
+- [x] **respect** — n./v. 尊重；方面  `P3`
+- [x] **responsibility** — n. 责任  `P3`
+- [x] **restrict** — v. 限制  `P3`
+- [x] **result** — n./v. 结果；导致  `P3`
+- [ ] **retain** — v. 保持；保留  `P3`
+- [x] **reveal** — v. 揭示；透露  `P3`
+- [x] **review** — n./v. 复习；评论；回顾  `P3`
+- [x] **risk** — n./v. 风险；冒险  `P3`
+- [x] **role** — n. 角色；作用  `P3`
+- [x] **schedule** — n./v. 日程；安排  `P3`
+- [x] **secure** — adj./v. 安全的；确保  `P3`
+- [x] **select** — v. 选择  `P3`
+- [x] **senior** — adj./n. 高级的；年长者  `P3`
+- [x] **sensitive** — adj. 敏感的  `P3`
+- [x] **separate** — adj./v. 分开的；分离  `P3`
+- [x] **severe** — adj. 严重的；严厉的  `P3`
+- [x] **signal** — n./v. 信号；示意  `P3`
+- [x] **significant** — adj. 重要的；显著的  `P3`
+- [x] **similar** — adj. 相似的  `P3`
+- [x] **solution** — n. 解决办法  `P3`
+- [x] **source** — n. 来源  `P3`
+- [x] **specific** — adj. 具体的；特定的  `P3`
+- [x] **standard** — n./adj. 标准；标准的  `P3`
+- [x] **statistics** — n. 统计；统计学  `P3`
+- [x] **status** — n. 地位；状态  `P3`
+- [x] **strategy** — n. 策略；战略  `P3`
+- [x] **stress** — n./v. 压力；强调  `P3`
+- [x] **structure** — n./v. 结构；组织  `P3`
+- [x] **submit** — v. 提交；顺从  `P3`
+- [x] **substantial** — adj. 大量的；实质的  `P3`
+- [x] **sufficient** — adj. 足够的  `P3`
+- [x] **suggest** — v. 建议；表明  `P3`
+- [x] **support** — n./v. 支持  `P3`
+- [x] **survey** — n./v. 调查；审视  `P3`
+- [x] **sustain** — v. 维持；承受  `P3`
+- [x] **technical** — adj. 技术的  `P3`
+- [x] **technique** — n. 技巧；技术  `P3`
+- [x] **tend** — v. 倾向于；照料  `P3`
+- [x] **tension** — n. 紧张；张力  `P3`
+- [x] **theory** — n. 理论  `P3`
+- [x] **threat** — n. 威胁  `P3`
+- [x] **transfer** — v./n. 转移；调换  `P3`
+- [x] **transform** — v. 改变；转化  `P3`
+- [x] **transport** — n./v. 运输  `P3`
+- [x] **trend** — n. 趋势  `P3`
+- [x] **trigger** — v./n. 引发；触发器  `P3`
+- [x] **typical** — adj. 典型的  `P3`
+- [x] **unique** — adj. 独特的  `P3`
+- [x] **urban** — adj. 城市的  `P3`
+- [x] **valid** — adj. 有效的；合理的  `P3`
+- [x] **value** — n./v. 价值；重视  `P3`
+- [x] **vary** — v. 变化；不同  `P3`
+- [x] **vehicle** — n. 车辆；工具  `P3`
+- [x] **version** — n. 版本  `P3`
+- [x] **via** — prep. 通过；经由  `P3`
+- [x] **virtual** — adj. 虚拟的；实质上的  `P3`
+- [x] **visible** — adj. 可见的  `P3`
+- [x] **vital** — adj. 至关重要的  `P3`
+- [x] **voluntary** — adj. 自愿的  `P3`
+- [x] **welfare** — n. 福利；幸福  `P3`
+- [x] **widespread** — adj. 广泛的  `P3`
+- [x] **witness** — n./v. 目击者；见证  `P3`
+- [x] **worthwhile** — adj. 值得的  `P3`
+- [x] **yield** — v./n. 产生；让步；产量  `P3`
+
+---
+
+## CET-6 六级高频核心词
+
+### P0｜六级最高频：阅读理解优先
+
+- [x] **abandon** — v. 放弃；抛弃  `P0`
+- [x] **abnormal** — adj. 反常的  `P0`
+- [x] **abolish** — v. 废除  `P0`
+- [x] **abrupt** — adj. 突然的；粗鲁的  `P0`
+- [x] **absurd** — adj. 荒谬的  `P0`
+- [x] **abundant** — adj. 丰富的  `P0`
+- [x] **accelerate** — v. 加速；促进  `P0`
+- [x] **accessory** — n. 附件；配件  `P0`
+- [x] **accommodate** — v. 容纳；为……提供住宿；适应  `P0`
+- [ ] **accordance** — n. 一致；符合  `P0`
+- [x] **accumulate** — v. 积累  `P0`
+- [x] **accustom** — v. 使习惯  `P0`
+- [x] **acute** — adj. 严重的；敏锐的  `P0`
+- [x] **addict** — n. 上瘾者 v. 使沉迷  `P0`
+- [x] **adhere** — v. 坚持；粘附  `P0`
+- [ ] **adjacent** — adj. 邻近的  `P0`
+- [x] **administrative** — adj. 行政的  `P0`
+- [x] **adolescent** — n./adj. 青少年；青春期的  `P0`
+- [x] **adverse** — adj. 不利的  `P0`
+- [x] **advocate** — v./n. 倡导；拥护者  `P0`
+- [x] **aesthetic** — adj. 审美的  `P0`
+- [x] **affection** — n. 喜爱；感情  `P0`
+- [ ] **aggravate** — v. 加重；恶化  `P0`
+- [ ] **aggregate** — n./v./adj. 总计；聚集  `P0`
+- [x] **aggressive** — adj. 侵略性的；好斗的；积极进取的  `P0`
+- [x] **alert** — adj./v./n. 警觉的；提醒；警报  `P0`
+- [x] **alien** — adj./n. 外国的；陌生的；外星人  `P0`
+- [ ] **allege** — v. 宣称；断言  `P0`
+- [x] **allocate** — v. 分配  `P0`
+- [x] **allowance** — n. 津贴；限额  `P0`
+- [x] **ambiguous** — adj. 模棱两可的  `P0`
+- [x] **ambitious** — adj. 有雄心的  `P0`
+- [ ] **amend** — v. 修改；修正  `P0`
+- [x] **analogy** — n. 类比  `P0`
+- [x] **anticipate** — v. 预料；期望  `P0`
+- [x] **anxiety** — n. 焦虑  `P0`
+- [x] **apparent** — adj. 明显的；表面上的  `P0`
+- [ ] **appendix** — n. 附录；阑尾  `P0`
+- [ ] **appliance** — n. 电器；器具  `P0`
+- [x] **applicable** — adj. 适用的  `P0`
+- [x] **appreciate** — v. 欣赏；感激；理解  `P0`
+- [x] **approximate** — adj./v. 大约的；接近  `P0`
+- [x] **arbitrary** — adj. 任意的；武断的  `P0`
+- [x] **array** — n. 大量；数组；排列  `P0`
+- [ ] **articulate** — v./adj. 清楚表达；表达清楚的  `P0`
+- [x] **assemble** — v. 集合；组装  `P0`
+- [x] **assert** — v. 断言；维护  `P0`
+- [x] **asset** — n. 资产；有价值的人/物  `P0`
+- [x] **assumption** — n. 假定；承担  `P0`
+- [x] **assurance** — n. 保证；信心  `P0`
+- [x] **attain** — v. 获得；达到  `P0`
+- [x] **attribute** — v./n. 把……归因于；属性  `P0`
+- [x] **authentic** — adj. 真实的；可靠的  `P0`
+- [x] **authorize** — v. 授权；批准  `P0`
+- [x] **autonomous** — adj. 自主的  `P0`
+- [ ] **baffle** — v. 使困惑  `P0`
+- [x] **bankrupt** — adj./v. 破产的；使破产  `P0`
+- [x] **bias** — n./v. 偏见；使有偏见  `P0`
+- [x] **biography** — n. 传记  `P0`
+- [x] **boom** — n./v. 繁荣；激增  `P0`
+- [x] **boundary** — n. 边界  `P0`
+- [x] **breakthrough** — n. 突破  `P0`
+- [x] **breed** — v./n. 繁殖；品种  `P0`
+- [ ] **brutal** — adj. 残酷的  `P0`
+- [ ] **bulk** — n. 大部分；体积  `P0`
+- [ ] **bureaucracy** — n. 官僚制度  `P0`
+- [x] **calorie** — n. 卡路里  `P0`
+- [x] **capacity** — n. 能力；容量  `P0`
+- [x] **capitalism** — n. 资本主义  `P0`
+- [ ] **casualty** — n. 伤亡人员  `P0`
+- [x] **category** — n. 类别  `P0`
+- [x] **cater** — v. 迎合；提供饮食  `P0`
+- [x] **caution** — n./v. 谨慎；警告  `P0`
+- [ ] **cemetery** — n. 墓地  `P0`
+- [x] **chronic** — adj. 慢性的；长期的  `P0`
+- [x] **circulation** — n. 流通；循环；发行量  `P0`
+- [x] **cite** — v. 引用；举例  `P0`
+- [x] **civilian** — n./adj. 平民；平民的  `P0`
+- [x] **clarify** — v. 澄清；阐明  `P0`
+- [ ] **clash** — n./v. 冲突  `P0`
+- [x] **clumsy** — adj. 笨拙的  `P0`
+- [x] **coherent** — adj. 连贯的；一致的  `P0`
+- [x] **coincide** — v. 同时发生；一致  `P0`
+- [x] **collaborate** — v. 合作  `P0`
+- [x] **collapse** — v./n. 倒塌；崩溃  `P0`
+- [x] **colleague** — n. 同事  `P0`
+- [x] **commence** — v. 开始  `P0`
+- [ ] **commodity** — n. 商品  `P0`
+- [x] **commonplace** — adj./n. 普通的；平常事  `P0`
+- [ ] **compact** — adj./n. 紧凑的；小型汽车  `P0`
+- [ ] **compatible** — adj. 兼容的；相容的  `P0`
+- [ ] **compel** — v. 强迫  `P0`
+- [x] **compensate** — v. 补偿  `P0`
+- [x] **competent** — adj. 胜任的  `P0`
+- [x] **compile** — v. 编纂；汇编  `P0`
+- [x] **complement** — v./n. 补充；补足物  `P0`
+- [x] **complicated** — adj. 复杂的  `P0`
+- [x] **component** — n. 成分；部件  `P0`
+- [x] **comprehensive** — adj. 全面的  `P0`
+- [x] **comprise** — v. 包含；由……组成  `P0`
+
+### P1｜六级高频：抽象论述/学术阅读常见
+
+- [x] **conceive** — v. 设想；怀孕  `P1`
+- [ ] **concession** — n. 让步；特许权  `P1`
+- [ ] **condense** — v. 压缩；凝结  `P1`
+- [x] **conform** — v. 遵守；符合  `P1`
+- [x] **confront** — v. 面对；对抗  `P1`
+- [ ] **conscientious** — adj. 认真的；尽责的  `P1`
+- [x] **consensus** — n. 共识  `P1`
+- [x] **conserve** — v. 保护；节约  `P1`
+- [x] **consolidate** — v. 巩固；合并  `P1`
+- [ ] **conspicuous** — adj. 显眼的  `P1`
+- [x] **constitute** — v. 构成；组成  `P1`
+- [x] **constrain** — v. 限制；约束  `P1`
+- [x] **consultant** — n. 顾问  `P1`
+- [x] **contaminate** — v. 污染  `P1`
+- [x] **contemporary** — adj./n. 当代的；同代人  `P1`
+- [x] **controversial** — adj. 有争议的  `P1`
+- [x] **convey** — v. 传达；运输  `P1`
+- [x] **coordinate** — v./n. 协调；坐标  `P1`
+- [x] **correlate** — v. 相关  `P1`
+- [x] **correspond** — v. 符合；通信  `P1`
+- [x] **credible** — adj. 可信的  `P1`
+- [x] **criterion** — n. 标准  `P1`
+- [x] **crucial** — adj. 至关重要的  `P1`
+- [ ] **cumulative** — adj. 累积的  `P1`
+- [ ] **curb** — v./n. 控制；路缘  `P1` check,contain
+- [x] **decay** — v./n. 衰退；腐烂  `P1`
+- [x] **decent** — adj. 得体的；正派的  `P1`
+- [x] **dedicate** — v. 奉献；致力于  `P1`
+- [x] **defect** — n. 缺陷 v. 叛逃  `P1`
+- [x] **deficiency** — n. 缺乏；不足  `P1`
+- [ ] **deficit** — n. 赤字；亏损  `P1`
+- [ ] **defy** — v. 反抗；违抗  `P1`
+- [x] **deliberate** — adj./v. 故意的；仔细考虑  `P1`
+- [ ] **denote** — v. 表示；指代  `P1`
+- [x] **deprive** — v. 剥夺  `P1`
+- [ ] **derive** — v. 获得；源于  `P1`
+- [x] **descend** — v. 下降；下来  `P1`
+- [x] **destructive** — adj. 破坏性的  `P1`
+- [ ] **detach** — v. 分离；派遣  `P1`
+- [ ] **deteriorate** — v. 恶化  `P1`
+- [ ] **devise** — v. 设计；想出  `P1`
+- [x] **diagnose** — v. 诊断  `P1`
+- [ ] **dictate** — v./n. 命令；规定  `P1`
+- [x] **differentiate** — v. 区分  `P1`
+- [x] **dilemma** — n. 困境  `P1`
+- [x] **dim** — adj./v. 昏暗的；变暗  `P1`
+- [ ] **diplomatic** — adj. 外交的；圆滑的  `P1`
+- [x] **disastrous** — adj. 灾难性的  `P1`
+- [x] **discard** — v. 丢弃  `P1`
+- [x] **discipline** — n./v. 学科；纪律；训练  `P1`
+- [ ] **disclose** — v. 揭露；透露  `P1`
+- [ ] **discourse** — n. 论述；话语  `P1`
+- [ ] **discrepancy** — n. 差异；不一致  `P1`
+- [x] **discrimination** — n. 歧视；辨别力  `P1`
+- [x] **disguise** — v./n. 伪装  `P1`
+- [ ] **disperse** — v. 分散；驱散  `P1`
+- [x] **dispose** — v. 处理；安排  `P1`
+- [x] **dispute** — n./v. 争论  `P1`
+- [x] **disrupt** — v. 扰乱；中断  `P1`
+- [x] **distort** — v. 扭曲  `P1`
+- [x] **distract** — v. 使分心  `P1`
+- [ ] **divert** — v. 转移；使改道  `P1`
+- [ ] **dividend** — n. 红利；股息  `P1`
+- [ ] **doctrine** — n. 教义；主义  `P1`
+- [x] **dominant** — adj. 占优势的  `P1`
+- [x] **donation** — n. 捐赠  `P1`
+- [x] **drastic** — adj. 激烈的；极端的  `P1`
+- [ ] **duplicate** — v./adj./n. 复制；副本  `P1`
+- [x] **duration** — n. 持续时间  `P1`
+- [x] **dynamic** — adj./n. 动态的；动力  `P1`
+- [ ] **eccentric** — adj. 古怪的  `P1`
+- [x] **ecology** — n. 生态学  `P1`
+- [ ] **elastic** — adj. 有弹性的 n. 松紧带  `P1`
+- [ ] **eligible** — adj. 有资格的  `P1`
+- [x] **eliminate** — v. 消除；淘汰  `P1`
+- [ ] **eloquent** — adj. 雄辩的  `P1`
+- [x] **embody** — v. 体现；包含  `P1`
+- [x] **emission** — n. 排放；散发  `P1`
+- [ ] **empirical** — adj. 经验主义的；实证的  `P1`
+- [x] **enclose** — v. 围住；附上  `P1`
+- [x] **encounter** — v./n. 遭遇；遇到  `P1`
+- [x] **endanger** — v. 危及  `P1`
+- [x] **endure** — v. 忍受；持续  `P1`
+- [x] **enforce** — v. 执行；强制实施  `P1`
+- [x] **enhancement** — n. 增强；提高  `P1`
+- [x] **enrich** — v. 使丰富  `P1`
+- [x] **enroll** — v. 注册；入学  `P1`
+- [x] **enterprise** — n. 企业；事业  `P1`
+- [x] **enthusiastic** — adj. 热情的  `P1`
+- [x] **entitle** — v. 使有权利；题名  `P1`
+- [ ] **entity** — n. 实体  `P1`
+- [ ] **equivalent** — adj./n. 等同的；等价物  `P1`
+- [x] **erode** — v. 侵蚀；削弱  `P1`
+- [ ] **erroneous** — adj. 错误的  `P1`
+- [x] **essence** — n. 本质；精华  `P1`
+- [x] **eternal** — adj. 永恒的  `P1`
+- [x] **ethnic** — adj. 民族的；种族的  `P1`
+- [x] **evaluate** — v. 评估  `P1`
+- [x] **evoke** — v. 唤起；引发  `P1`
+- [x] **exaggerate** — v. 夸大  `P1`
+- [x] **excel** — v. 擅长；胜过  `P1`
+- [x] **exceptional** — adj. 异常的；杰出的  `P1`
+- [x] **excessive** — adj. 过度的  `P1`
+- [x] **exclusive** — adj. 独有的；排外的  `P1`
+- [x] **execute** — v. 执行；处决  `P1`
+- [ ] **exemplify** — v. 例证；体现  `P1`
+- [ ] **exert** — v. 施加；努力运用  `P1`
+- [x] **exhaust** — v./n. 使筋疲力尽；排气  `P1`
+- [ ] **exotic** — adj. 异国的；奇异的  `P1`
+- [x] **expedition** — n. 远征；考察  `P1`
+- [x] **explicit** — adj. 明确的  `P1`
+- [x] **exploit** — v./n. 利用；剥削；功绩  `P1`
+- [x] **extinct** — adj. 灭绝的  `P1`
+- [x] **extract** — v./n. 提取；摘录  `P1`
+- [x] **facilitate** — v. 促进；使便利  `P1`
+- [x] **faculty** — n. 全体教员；能力；院系  `P1`
+- [x] **fatal** — adj. 致命的  `P1`
+- [ ] **feasible** — adj. 可行的  `P1`
+- [ ] **federal** — adj. 联邦的  `P1`
+- [x] **feedback** — n. 反馈  `P1`
+
+### P2｜六级中高频：翻译/阅读加分
+
+- [x] **fierce** — adj. 激烈的；凶猛的  `P2`
+- [x] **flaw** — n. 缺陷  `P2`
+- [ ] **fluctuate** — v. 波动  `P2`
+- [x] **formulate** — v. 制定；构想  `P2`
+- [x] **foster** — v. 促进；培养 adj. 收养的  `P2`
+- [x] **fragile** — adj. 脆弱的  `P2`
+- [x] **frustrate** — v. 使沮丧；阻挠  `P2`
+- [x] **fulfill** — v. 履行；实现  `P2`
+- [x] **fundamental** — adj. 根本的；基础的  `P2`
+- [x] **furnish** — v. 提供；布置家具  `P2`
+- [x] **generate** — v. 产生  `P2`
+- [x] **genuine** — adj. 真正的；真诚的  `P2`
+- [ ] **gloomy** — adj. 阴暗的；沮丧的  `P2`
+- [ ] **grievance** — n. 不满；委屈  `P2`
+- [x] **guideline** — n. 指导方针  `P2`
+- [x] **halt** — v./n. 停止  `P2`
+- [ ] **harass** — v. 骚扰  `P2`
+- [ ] **hazard** — n./v. 危险；冒险提出  `P2`
+- [x] **heritage** — n. 遗产  `P2`
+- [x] **hierarchy** — n. 等级制度  `P2`
+- [x] **hinder** — v. 阻碍  `P2`
+- [ ] **homogeneous** — adj. 同质的  `P2`
+- [x] **hospitality** — n. 好客；款待  `P2`
+- [x] **hostile** — adj. 敌对的  `P2`
+- [x] **humanity** — n. 人类；人性  `P2`
+- [x] **humble** — adj. 谦逊的；卑微的  `P2`
+- [x] **identical** — adj. 相同的  `P2`
+- [ ] **ideology** — n. 意识形态  `P2`
+- [x] **ignorance** — n. 无知  `P2`
+- [ ] **illuminate** — v. 照亮；阐明  `P2`
+- [x] **illusion** — n. 幻想；错觉  `P2`
+- [x] **immense** — adj. 巨大的  `P2`
+- [x] **immune** — adj. 免疫的；不受影响的  `P2`
+- [x] **implement** — v. 实施 n. 工具  `P2`
+- [x] **implication** — n. 暗示；含义；牵连  `P2`
+- [x] **implicit** — adj. 含蓄的；内含的  `P2`
+- [x] **impose** — v. 强加；征税  `P2`
+- [ ] **incentive** — n. 激励；动机  `P2`
+- [x] **incident** — n. 事件；事故  `P2`
+- [ ] **incline** — v. 倾向；倾斜  `P2`
+- [x] **inclusive** — adj. 包含的；包容的  `P2`
+- [x] **incredible** — adj. 难以置信的  `P2`
+- [ ] **indispensable** — adj. 必不可少的  `P2`
+- [x] **induce** — v. 引起；劝诱  `P2`
+- [x] **inevitable** — adj. 不可避免的  `P2`
+- [x] **infer** — v. 推断  `P2`
+- [x] **inflation** — n. 通货膨胀  `P2`
+- [x] **ingredient** — n. 成分；原料  `P2`
+- [ ] **inherent** — adj. 固有的  `P2`
+- [x] **initiate** — v. 开始；发起  `P2`
+- [x] **innovation** — n. 创新  `P2`
+- [x] **insight** — n. 洞察力  `P2`
+- [x] **inspection** — n. 检查；视察  `P2`
+- [x] **install** — v. 安装；任命  `P2`
+- [x] **integrate** — v. 整合；融入  `P2`
+- [x] **integrity** — n. 正直；完整  `P2`
+- [x] **intense** — adj. 强烈的  `P2`
+- [x] **interact** — v. 相互作用；交流  `P2`
+- [x] **interfere** — v. 干涉；妨碍  `P2`
+- [x] **interpretation** — n. 解释；口译  `P2`
+- [ ] **intersection** — n. 交叉口；交集  `P2`
+- [ ] **intervene** — v. 干预；介入  `P2`
+- [ ] **intricate** — adj. 复杂精细的  `P2`
+- [ ] **intrinsic** — adj. 内在的  `P2`
+- [x] **investigate** — v. 调查  `P2`
+- [ ] **irritate** — v. 激怒；刺激  `P2`
+- [x] **isolate** — v. 使隔离  `P2`
+- [ ] **jeopardize** — v. 危及  `P2`
+- [ ] **juvenile** — adj./n. 青少年的；青少年  `P2`
+- [x] **justify** — v. 证明……合理  `P2`
+- [ ] **legislation** — n. 立法；法规  `P2`
+- [ ] **legitimate** — adj. 合法的；合理的  `P2`
+- [ ] **liability** — n. 责任；负债  `P2`
+- [x] **likelihood** — n. 可能性  `P2`
+- [ ] **linger** — v. 逗留；徘徊  `P2`
+- [x] **literacy** — n. 读写能力  `P2`
+- [ ] **lucrative** — adj. 有利可图的  `P2`
+- [x] **magnify** — v. 放大；夸大  `P2`
+- [ ] **manifest** — v./adj. 表明；明显的  `P2`
+- [x] **manipulate** — v. 操纵；熟练处理  `P2`
+- [x] **marginal** — adj. 边缘的；微小的  `P2`
+- [ ] **masculine** — adj. 男性的  `P2`
+- [ ] **mediate** — v. 调解；斡旋  `P2`
+- [ ] **merit** — n./v. 优点；值得  `P2`
+- [ ] **metropolitan** — adj. 大都市的  `P2`
+- [x] **migrate** — v. 迁移；移居  `P2`
+- [ ] **miniature** — adj./n. 微型的；缩影  `P2`
+- [x] **minimum** — n./adj. 最小量；最低的  `P2`
+- [x] **modify** — v. 修改；调整  `P2`
+- [ ] **momentum** — n. 动力；势头  `P2`
+- [ ] **monetary** — adj. 货币的  `P2`
+- [ ] **monopoly** — n. 垄断  `P2`
+- [x] **motive** — n. 动机 adj. 运动的  `P2`
+- [x] **mutual** — adj. 相互的  `P2`
+- [x] **narrative** — n./adj. 叙述；叙事的  `P2`
+- [ ] **necessitate** — v. 使成为必要  `P2`
+- [x] **neutral** — adj. 中立的  `P2`
+- [ ] **notion** — n. 概念；想法  `P2`
+- [ ] **notorious** — adj. 臭名昭著的  `P2`
+- [x] **obligation** — n. 义务；责任  `P2`
+- [ ] **obsolete** — adj. 过时的  `P2`
+- [x] **obstacle** — n. 障碍  `P2`
+- [x] **occasionally** — adv. 偶尔  `P2`
+- [x] **occupy** — v. 占据；占用  `P2`
+- [ ] **offset** — v./n. 抵消；补偿  `P2`
+- [x] **optimistic** — adj. 乐观的  `P2`
+- [x] **orientation** — n. 方向；定位；培训  `P2`
+- [x] **originate** — v. 起源；发起  `P2`
+- [ ] **overlap** — v./n. 重叠  `P2`
+- [x] **overwhelming** — adj. 压倒性的  `P2`
+- [ ] **paradox** — n. 悖论  `P2`
+- [x] **parameter** — n. 参数；界限  `P2`
+- [x] **patent** — n./adj./v. 专利；明显的；取得专利  `P2`
+- [ ] **peculiar** — adj. 奇怪的；特有的  `P2`
+- [x] **perceive** — v. 察觉；理解  `P2`
+- [x] **persistent** — adj. 持续的；坚持的  `P2`
+- [x] **perspective** — n. 视角；远景  `P2`
+- [x] **pessimistic** — adj. 悲观的  `P2`
+- [x] **phenomenon** — n. 现象  `P2`
+- [x] **pledge** — n./v. 保证；誓言  `P2`
+
+### P3｜六级补充常考：查漏补缺
+
+- [ ] **plunge** — v./n. 暴跌；投入  `P3`
+- [x] **portray** — v. 描绘；扮演  `P3`
+- [ ] **precede** — v. 在……之前  `P3`
+- [ ] **preclude** — v. 排除；阻止  `P3`
+- [ ] **preliminary** — adj. 初步的  `P3`
+- [ ] **prestige** — n. 声望  `P3`
+- [ ] **prevail** — v. 盛行；获胜  `P3`
+- [ ] **prevalent** — adj. 流行的；普遍的  `P3`
+- [ ] **principal** — adj./n. 主要的；校长；本金  `P3`
+- [x] **probe** — v./n. 探究；探针  `P3`
+- [x] **proceed** — v. 继续；进行  `P3`
+- [x] **profound** — adj. 深刻的  `P3`
+- [x] **prohibit** — v. 禁止  `P3`
+- [ ] **prominent** — adj. 突出的；杰出的  `P3`
+- [x] **prospect** — n. 前景；可能性  `P3`
+- [x] **prosperity** — n. 繁荣  `P3`
+- [ ] **protocol** — n. 协议；礼仪  `P3`
+- [x] **provoke** — v. 激起；挑衅  `P3`
+- [x] **random** — adj. 随机的  `P3`
+- [x] **ratio** — n. 比率  `P3`
+- [x] **rational** — adj. 理性的  `P3`
+- [ ] **recession** — n. 衰退；不景气  `P3`
+- [ ] **recipient** — n. 接受者  `P3`
+- [ ] **reckon** — v. 认为；估计  `P3`
+- [ ] **reconcile** — v. 调和；和解  `P3`
+- [x] **recruit** — v./n. 招募；新成员  `P3`
+- [x] **refine** — v. 改进；提炼  `P3`
+- [ ] **refute** — v. 反驳  `P3`
+- [x] **reinforce** — v. 加强；增援  `P3`
+- [x] **relevant** — adj. 相关的  `P3`
+- [x] **reluctant** — adj. 不情愿的  `P3`
+- [ ] **remedy** — n./v. 补救；药物  `P3`
+- [ ] **render** — v. 使成为；给予；翻译  `P3`
+- [x] **renovate** — v. 翻新；修复  `P3`
+- [x] **reproduce** — v. 复制；繁殖  `P3`
+- [ ] **resent** — v. 愤恨  `P3`
+- [ ] **reside** — v. 居住；存在于  `P3`
+- [x] **resign** — v. 辞职；使顺从  `P3`
+- [x] **respective** — adj. 各自的  `P3`
+- [ ] **retail** — n./v./adv. 零售  `P3`
+- [ ] **retention** — n. 保留；保持  `P3`
+- [ ] **retrieve** — v. 找回；检索  `P3`
+- [x] **revenue** — n. 收入；税收  `P3`
+- [x] **reverse** — v./adj./n. 逆转；相反的  `P3`
+- [x] **revise** — v. 修改；复习  `P3`
+- [x] **revolutionary** — adj. 革命性的  `P3`
+- [x] **rigorous** — adj. 严格的  `P3`
+- [ ] **rival** — n./v. 对手；竞争  `P3`
+- [x] **scope** — n. 范围  `P3`
+- [ ] **scrutiny** — n. 仔细审查  `P3`
+- [x] **sector** — n. 部门；领域  `P3`
+- [ ] **segment** — n. 部分；片段  `P3`
+- [x] **sensible** — adj. 明智的；合理的  `P3`
+- [x] **sensitive** — adj. 敏感的  `P3`
+- [x] **setback** — n. 挫折  `P3`
+- [x] **severely** — adv. 严重地；严厉地  `P3`
+- [x] **simulate** — v. 模拟；假装  `P3`
+- [x] **skeptical** — adj. 怀疑的  `P3`
+- [x] **soar** — v. 猛增；高飞  `P3`
+- [ ] **solemn** — adj. 严肃的；庄严的  `P3`
+- [ ] **sophisticated** — adj. 复杂的；老练的  `P3`
+- [ ] **specify** — v. 明确说明  `P3`
+- [x] **spontaneous** — adj. 自发的  `P3`
+- [x] **stability** — n. 稳定性  `P3`
+- [x] **stagger** — v. 蹒跚；使震惊  `P3`
+- [ ] **standpoint** — n. 立场；观点  `P3`
+- [x] **stimulate** — v. 刺激；激励  `P3`
+- [x] **straightforward** — adj. 直截了当的  `P3`
+- [x] **strain** — n./v. 压力；拉伤；拉紧  `P3`
+- [ ] **subordinate** — adj./n. 下级的；下属  `P3`
+- [ ] **subsidy** — n. 补贴  `P3`
+- [x] **subtle** — adj. 微妙的  `P3`
+- [ ] **successive** — adj. 连续的  `P3`
+- [x] **sufficient** — adj. 足够的  `P3`
+- [ ] **suppress** — v. 镇压；抑制  `P3`
+- [ ] **surpass** — v. 超过  `P3`
+- [x] **suspend** — v. 暂停；悬挂  `P3`
+- [x] **suspicious** — adj. 怀疑的；可疑的  `P3`
+- [x] **sustain** — v. 维持；承受  `P3`
+- [x] **symbolic** — adj. 象征性的  `P3`
+- [ ] **synthetic** — adj. 合成的  `P3`
+- [x] **tackle** — v./n. 处理；用具  `P3`
+- [x] **tangible** — adj. 有形的；切实的  `P3`
+- [ ] **tedious** — adj. 单调乏味的  `P3`
+- [ ] **temperament** — n. 气质；性情  `P3`
+- [x] **temporary** — adj. 临时的  `P3`
+- [x] **tentative** — adj. 试探性的；暂定的  `P3`
+- [x] **terminate** — v. 终止  `P3`
+- [ ] **threshold** — n. 门槛；阈值  `P3`
+- [x] **tolerance** — n. 容忍；耐受性  `P3`
+- [ ] **toxic** — adj. 有毒的  `P3`
+- [ ] **transaction** — n. 交易；事务  `P3`
+- [ ] **transcend** — v. 超越  `P3`
+- [x] **transition** — n. 过渡；转变  `P3`
+- [x] **transmit** — v. 传输；传播  `P3`
+- [x] **transparent** — adj. 透明的；清晰的  `P3`
+- [ ] **trivial** — adj. 琐碎的  `P3`
+- [ ] **turbulent** — adj. 动荡的  `P3`
+- [x] **undergo** — v. 经历；遭受  `P3`
+- [x] **undermine** — v. 逐渐削弱  `P3`
+- [x] **undertake** — v. 承担；从事  `P3`
+- [x] **uniform** — adj./n. 一致的；制服  `P3`
+- [x] **utilize** — v. 利用  `P3`
+- [x] **validity** — n. 有效性  `P3`
+- [x] **vanish** — v. 消失  `P3`
+- [x] **verify** — v. 核实；证明  `P3`
+- [ ] **versatile** — adj. 多才多艺的；多用途的  `P3`
+- [ ] **vicious** — adj. 恶毒的；剧烈的  `P3`
+- [x] **violate** — v. 违反；侵犯  `P3`
+- [x] **vital** — adj. 至关重要的  `P3`
+- [x] **vulnerable** — adj. 脆弱的；易受伤的  `P3`
+- [ ] **warrant** — n./v. 授权；正当理由；保证  `P3`
+- [x] **widespread** — adj. 普遍的  `P3`
+- [x] **withstand** — v. 承受；抵抗  `P3`
+- [x] **witness** — v./n. 见证；目击者  `P3`
+- [ ] **zeal** — n. 热情  `P3`
+
+---
+
+### P4｜四级高频补遗：网络搜索补充（2026.05）
+
+> 以下词汇从新东方、沪江、考虫等平台 2025-2026 四级高频词表中提取，补充文件中遗漏的常考词。标注 `P4` 表示与 P0-P3 概率相当，按字母序排列便于检索。
+
+- [x] **abstract** — adj./n./v. 抽象的；摘要；提取  `P4`
+- [x] **abuse** — n./v. 滥用；虐待  `P4`
+- [x] **accomplish** — v. 完成；实现  `P4`
+- [x] **adopt** — v. 采纳；收养  `P4`
+- [x] **alter** — v. 改变；改动  `P4`
+- [x] **ban** — v./n. 禁止；禁令  `P4`
+- [x] **calculate** — v. 计算；核算  `P4`
+- [x] **campus** — n. 校园  `P4`
+- [x] **cancel** — v. 取消；废除  `P4`
+- [x] **candidate** — n. 候选人；应试者  `P4`
+- [x] **capture** — v./n. 捕获；夺取  `P4`
+- [x] **chaos** — n. 混乱；紊乱  `P4`
+- [x] **concentrate** — v. 集中；专注  `P4`
+- [x] **conscious** — adj. 有意识的；自觉的  `P4`
+- [x] **data** — n. 数据；资料  `P4`
+- [x] **decade** — n. 十年  `P4`
+- [x] **deliver** — v. 递送；发表；接生  `P4`
+- [x] **deposit** — n./v. 存款；押金；存放  `P4`
+- [x] **evolve** — v. 进化；发展  `P4`
+- [x] **exceed** — v. 超过；超出  `P4`
+- [x] **facility** — n. 设施；设备；便利  `P4`
+- [x] **finance** — n./v. 财政；金融；资助  `P4`
+- [x] **forecast** — n./v. 预测；预报  `P4`
+- [x] **foundation** — n. 基础；基金会  `P4`
+- [x] **highlight** — v./n. 强调；突出；亮点  `P4`
+- [x] **horizon** — n. 地平线；视野  `P4`
+- [x] **involve** — v. 涉及；包含；使参与  `P4`
+- [x] **liberal** — adj. 自由的；开明的；慷慨的  `P4`
+- [x] **massive** — adj. 大量的；巨大的  `P4`
+- [x] **mature** — adj./v. 成熟的；成熟  `P4`
+- [x] **maximum** — adj./n. 最大的；最大值  `P4`
+- [x] **mood** — n. 心情；情绪  `P4`
+- [x] **negotiate** — v. 谈判；协商  `P4`
+- [x] **network** — n. 网络；关系网  `P4`
+- [x] **observe** — v. 观察；遵守；注意到  `P4`
+- [x] **outcome** — n. 结果；后果  `P4`
+- [x] **outstanding** — adj. 杰出的；显著的  `P4`
+- [x] **permanent** — adj. 永久的；持久的  `P4`
+- [x] **register** — v./n. 登记；注册  `P4`
+- [x] **regulate** — v. 管理；调节  `P4`
+- [x] **scale** — n. 规模；等级；刻度  `P4`
+- [ ] **scheme** — n./v. 计划；方案；策划  `P4`
+- [x] **security** — n. 安全；保障  `P4`
+- [x] **shift** — v./n. 转移；转变；轮班  `P4`
+- [x] **shortage** — n. 短缺；不足  `P4`
+- [x] **stable** — adj. 稳定的  `P4`
+- [x] **supply** — n./v. 供应；供给  `P4`
+- [x] **survive** — v. 幸存；存活  `P4`
+- [x] **suspect** — v./n./adj. 怀疑；嫌疑犯；可疑的  `P4`
+- [x] **symbol** — n. 象征；符号  `P4`
+- [x] **target** — n./v. 目标；瞄准  `P4`
+- [x] **tolerate** — v. 容忍；忍受  `P4`
+- [x] **treat** — v./n. 对待；治疗；款待  `P4`
+- [x] **urgent** — adj. 紧急的  `P4`
+- [x] **violence** — n. 暴力；猛烈  `P4`
+- [x] **volunteer** — n./v. 志愿者；自愿  `P4`
+
+---
+
+## CET-6 六级高频核心词（续）
+
+### P4｜六级高频补遗：网络搜索补充（2026.05）
+
+> 以下词汇从新东方、考虫等 2025-2026 六级高频词表中提取，补充遗漏的常考词。标注 `P4` 表示与 P0-P3 概率相当，按字母序排列便于检索。
+
+- [ ] **accountability** — n. 问责；责任  `P4`
+- [x] **commerce** — n. 商业；贸易  `P4`
+- [x] **competence** — n. 能力；胜任  `P4`
+- [ ] **condemn** — v. 谴责；判刑  `P4`
+- [x] **consciousness** — n. 意识；知觉  `P4`
+- [x] **consumption** — n. 消费；消耗  `P4`
+- [ ] **deduce** — v. 推断；演绎  `P4`
+- [ ] **delegate** — n./v. 代表；委派  `P4`
+- [x] **digital** — adj. 数字的；数码的  `P4`
+- [x] **disposal** — n. 处理；处置  `P4`
+- [x] **dissolve** — v. 溶解；解散  `P4`
+- [x] **distinction** — n. 区别；荣誉  `P4`
+- [x] **drought** — n. 干旱  `P4`
+- [x] **durable** — adj. 耐用的  `P4`
+- [ ] **dwell** — v. 居住；详述  `P4`
+- [x] **echo** — n./v. 回声；附和  `P4`
+- [ ] **elaborate** — adj./v. 精心制作的；详细阐述  `P4`
+- [x] **election** — n. 选举  `P4`
+- [x] **elegant** — adj. 优雅的  `P4`
+- [x] **embrace** — v./n. 拥抱；包含  `P4`
+- [x] **emergency** — n. 紧急情况  `P4`
+- [x] **emphasis** — n. 强调；重点  `P4`
+- [x] **enormous** — adj. 巨大的  `P4`
+- [ ] **epidemic** — n./adj. 流行病；流行的  `P4`
+- [x] **globalization** — n. 全球化  `P4`
+- [x] **inequality** — n. 不平等  `P4`
+- [x] **infrastructure** — n. 基础设施  `P4`
+- [x] **intelligence** — n. 智力；情报  `P4`
+- [x] **luxury** — n. 奢侈（品）  `P4`
+- [x] **necessity** — n. 必需品；必要性  `P4`
+- [x] **optional** — adj. 可选的  `P4`
+- [x] **outlook** — n. 观点；前景；展望  `P4`
+- [x] **output** — n. 输出；产量  `P4`
+- [x] **passion** — n. 热情；激情  `P4`
+- [x] **personality** — n. 个性；人格  `P4`
+- [x] **productivity** — n. 生产力；生产率  `P4`
+- [x] **resilient** — adj. 坚韧的；有弹性的  `P4`
+- [x] **sample** — n./v. 样品；抽样  `P4`
+- [x] **series** — n. 系列；连续  `P4`
+- [x] **substitute** — n./v. 代用品；替代  `P4`
+- [x] **superior** — adj./n. 优越的；上级  `P4`
+- [x] **sustainable** — adj. 可持续的  `P4`
+- [x] **tendency** — n. 倾向；趋势  `P4`
+- [x] **thorough** — adj. 彻底的；完全的  `P4`
+- [x] **transparency** — n. 透明；透明度  `P4`
+- [x] **ultimate** — adj. 最终的；根本的  `P4`
+- [x] **vacant** — adj. 空的；空缺的  `P4`
+
+---
+
+## 高频词组与固定搭配
+
+> 以下词组/搭配在四六级阅读、完形、翻译中高频出现，按主题分组。来自新东方、考虫等平台 2025-2026 真题词组总结。
+
+### 介词搭配类
+
+- [ ] **account for** — 说明……原因；占（比例）
+- [ ] **apply to** — 适用于；申请
+- [ ] **approve of** — 赞成；批准
+- [ ] **attribute to** — 归因于
+- [ ] **benefit from** — 从……受益
+- [ ] **compare with/to** — 与……比较
+- [ ] **consist of** — 由……组成
+- [ ] **contribute to** — 贡献；促成；导致
+- [ ] **cope with** — 应对；处理
+- [ ] **depend on** — 依靠；取决于
+- [ ] **distinguish from** — 区分；辨别
+- [ ] **focus on** — 集中于
+- [ ] **participate in** — 参加
+- [ ] **refer to** — 提到；参考；指的是
+- [ ] **rely on** — 依赖；信任
+- [ ] **result in** — 导致
+- [ ] **result from** — 由……引起
+- [ ] **specialize in** — 专攻；专门从事
+- [ ] **suffer from** — 遭受；患……病
+
+### 固定短语类
+
+- [ ] **as a result** — 因此
+- [ ] **as well as** — 也；和……一样
+- [ ] **at the cost of** — 以……为代价
+- [ ] **by means of** — 用；凭借
+- [ ] **by no means** — 决不
+- [ ] **due to** — 由于
+- [ ] **in addition to** — 除……之外
+- [ ] **in advance** — 提前
+- [ ] **in case of** — 如果；万一
+- [ ] **in contrast** — 相比之下
+- [ ] **in detail** — 详细地
+- [ ] **in favor of** — 支持；赞成
+- [ ] **in general** — 一般来说
+- [ ] **in particular** — 特别是
+- [ ] **in terms of** — 就……而言；在……方面
+- [ ] **in vain** — 徒劳地
+- [ ] **on account of** — 因为
+- [ ] **on behalf of** — 代表
+- [ ] **on the contrary** — 相反
+- [ ] **regardless of** — 不管；不顾
+- [ ] **with regard to** — 关于
+
+### 写作加分搭配
+
+- [ ] **attach importance to** — 重视
+- [ ] **bring into full play** — 充分发挥
+- [ ] **keep pace with** — 跟上
+- [ ] **lay emphasis on** — 强调
+- [ ] **make full use of** — 充分利用
+- [ ] **make sense** — 有意义；讲得通
+- [ ] **play a crucial role in** — 起关键作用
+- [ ] **take into account** — 考虑到
+- [ ] **take measures** — 采取措施
+- [ ] **take responsibility for** — 对……负责
+
+## 继续扩展建议
+
+这份文件优先覆盖高频核心词，而不是完整大纲全集。若要做成完整 4000–6000+ 词版本，建议下一步把官方大纲词表或可信开源词库导入后，按真题词频、BNC/COCA 常用频率、四六级题型权重重新打分排序。

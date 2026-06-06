@@ -1,0 +1,24 @@
+/* ============================================
+   四六级词汇表 - 勾选即划掉
+   适用于 CET4_CET6_high_frequency_vocab.md
+   ============================================ */
+
+/* 勾选后：添加删除线 + 降低不透明度 */
+li[data-task="x"],
+li.task-list-item.is-checked {
+  text-decoration: line-through;
+  color: var(--text-muted) !important;
+  opacity: 0.55;
+  transition: opacity 0.2s ease;
+}
+
+/* 确保粗体词也带上删除线 */
+li[data-task="x"] strong,
+li.task-list-item.is-checked strong {
+  text-decoration: line-through;
+}
+
+/* 可选：勾选后的微弱动画（只在变化时触发） */
+li.task-list-item {
+  transition: all 0.15s ease-in-out;
+}

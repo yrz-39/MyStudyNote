@@ -1,8 +1,14 @@
 {
-  "baseFontSize": 15,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "",
   "cssTheme": "Phycat",
   "textFontFamily": "霞鹜文楷",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "vocab-strikethrough",
+    "bold-color-fix",
+    "compact-table-spacing"
+  ],
+  "accentColor": ""
 }
