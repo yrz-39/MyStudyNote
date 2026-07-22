@@ -21,9 +21,9 @@ columns:
 
 ## Memo
 
-### 2026-05-27 memo
-id: demo-memo-1
-Welcome to Apex Dashboard! Click here to edit your first memo.
+### 2026-06-08 备忘录
+id: card-mq53x04e
+thread不能被复制
 
 ## Todo
 
