@@ -22,9 +22,36 @@
 
 ## 提交记录
 
-### 2026-07-22 — `bae06ac` Update study notes and course materials
+### 2026-08-25 — `0b7822e` Add AI assistant project, ICS and data structure notes
 
-对比范围：`fb481b9` → 本次提交
+对比范围：`26e6b98` → `0b7822e`
+
+#### 本次修改/新增笔记内容
+
+- 新增 AI 辅助项目搭建记录：
+  - [[AI辅助项目/AI知识点总结助手项目/项目搭建记录-阶段A与阶段B]]
+  - [[AI辅助项目/AI知识点总结助手项目/项目搭建记录-阶段C与D-打通LLM]]
+  - [[02-学习/2026暑假/AI辅助项目/AI知识点总结助手项目/项目搭建记录-阶段A与阶段B]]
+- 新增 [[02-学习/ICS/教材结构与知识地图]]。
+- 新增 [[02-学习/数据结构/代码错误汇总]]。
+- 修改 [[02-学习/数据结构/线性表/链表]]。
+- 修改 [[02-学习/离散数学/期末复习/离散数学-7天模式-冲刺摘要]]（仅换行符规范化）。
+
+#### 附件与图片变化
+
+- 新增 ICS 教材 OCR PDF：[[02-学习/ICS/教材/[OCR]_计算机系统 基于 x86+Linux 平台_20260824_1316.layered.pdf]]（约 148MB，超出 GitHub 限制，已加入 .gitignore 跳过上传）。
+- 新增数据结构第三版教材 OCR PDF：[[02-学习/数据结构/教材/[OCR]_数据结构（用面向对象方法与C++语言描述）第三版_20260817_1055.layered.pdf]]（约 90MB）。
+
+#### Obsidian 配置变化
+
+- 更新 apex-dashboard 插件配置：[[.obsidian/plugins/apex-dashboard/main.js]]、styles.css、manifest.json、data.json。
+- 更新 [[.gitignore]]：忽略超出 GitHub 大小限制的超大文件。
+
+---
+
+### 2026-07-22 — `26e6b98` Update study notes and course materials
+
+对比范围：`fb481b9` → `26e6b98`
 
 #### 本次修改/新增笔记内容
 
