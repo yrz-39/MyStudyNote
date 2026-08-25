@@ -22,9 +22,9 @@
 
 ## 提交记录
 
-### 2026-08-25 — `0b7822e` Add AI assistant project, ICS and data structure notes
+### 2026-08-25 — `0b3035e` Add AI assistant project, ICS and data structure notes
 
-对比范围：`26e6b98` → `0b7822e`
+对比范围：`26e6b98` → `0b3035e`
 
 #### 本次修改/新增笔记内容
 
